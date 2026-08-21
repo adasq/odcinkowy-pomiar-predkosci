@@ -6,6 +6,26 @@ const BASE64_ALPHABET =
   "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
 const OUTPUT_FILE = resolve(process.env.CANARD_OUTPUT_FILE ?? "canard.json");
 const CONCURRENCY = 8;
+const DEFAULT_ITEM_RETRIES = 2;
+
+function readItemRetries(args) {
+  const inlineOption = args.find((argument) =>
+    argument.startsWith("--item-retries="),
+  );
+  const optionIndex = args.indexOf("--item-retries");
+  const value = inlineOption?.split("=", 2)[1] ??
+    (optionIndex >= 0 ? args[optionIndex + 1] : undefined) ??
+    String(DEFAULT_ITEM_RETRIES);
+  const retries = Number(value);
+
+  if (!Number.isInteger(retries) || retries < 0) {
+    throw new Error("--item-retries must be a non-negative integer");
+  }
+
+  return retries;
+}
+
+const ITEM_RETRIES = readItemRetries(process.argv.slice(2));
 
 const definitions = [
   {
@@ -258,6 +278,28 @@ async function fetchDetail(item, namespace) {
   return { ...item, detail };
 }
 
+async function fetchDetailWithRetry(item, namespace) {
+  for (let attempt = 0; attempt <= ITEM_RETRIES; attempt += 1) {
+    try {
+      return await fetchDetail(item, namespace);
+    } catch (error) {
+      if (attempt === ITEM_RETRIES) {
+        throw error;
+      }
+
+      console.warn(
+        `Retrying ${item.category} object ${item.summary.id} ` +
+          `after failed attempt ${attempt + 1}/${ITEM_RETRIES + 1}`,
+      );
+      await new Promise((resolveDelay) =>
+        setTimeout(resolveDelay, (attempt + 1) * 1_000),
+      );
+    }
+  }
+
+  throw new Error(`Could not fetch ${item.category} object ${item.summary.id}`);
+}
+
 async function fetchAllRecords() {
   const html = await fetchText(PAGE_URL);
   const { namespace, items } = parseIndex(html);
@@ -269,7 +311,7 @@ async function fetchAllRecords() {
     while (nextIndex < items.length) {
       const index = nextIndex;
       nextIndex += 1;
-      records[index] = await fetchDetail(items[index], namespace);
+      records[index] = await fetchDetailWithRetry(items[index], namespace);
       completed += 1;
       console.info(`CANARD download: ${completed}/${items.length}`);
     }

@@ -27,18 +27,7 @@ jobs:
           node-version: 22
 
       - name: Fetch CANARD data
-        run: |
-          attempt=1
-          until node scripts/fetch-canard.mjs; do
-            if (( attempt >= 3 )); then
-              echo "CANARD fetch failed after ${attempt} attempts"
-              exit 1
-            fi
-
-            attempt=$((attempt + 1))
-            echo "CANARD fetch failed, retrying in 60 seconds"
-            sleep 60
-          done
+        run: node scripts/fetch-canard.mjs --item-retries 2
 
       - name: Commit updated data
         run: |
