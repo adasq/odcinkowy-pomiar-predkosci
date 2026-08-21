@@ -1,0 +1,54 @@
+name: Update CANARD data
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-canard-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out master
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch CANARD data
+        run: |
+          attempt=1
+          until node scripts/fetch-canard.mjs; do
+            if (( attempt >= 3 )); then
+              echo "CANARD fetch failed after ${attempt} attempts"
+              exit 1
+            fi
+
+            attempt=$((attempt + 1))
+            echo "CANARD fetch failed, retrying in 60 seconds"
+            sleep 60
+          done
+
+      - name: Commit updated data
+        run: |
+          if [[ -z "$(git status --porcelain -- canard.json)" ]]; then
+            echo "CANARD data did not change"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add canard.json
+          git commit -m "Update CANARD data"
+          git push origin HEAD:master
