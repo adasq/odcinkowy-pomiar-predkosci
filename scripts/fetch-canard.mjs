@@ -203,10 +203,13 @@ async function fetchText(url, options = {}, attempts = 4) {
   for (let attempt = 1; attempt <= attempts; attempt += 1) {
     try {
       const response = await fetch(url, options);
+      const responseText = await response.text();
       if (!response.ok) {
-        throw new Error(`HTTP ${response.status} ${response.statusText}`);
+        throw new Error(
+          `HTTP ${response.status} ${response.statusText}\n${responseText}`,
+        );
       }
-      return await response.text();
+      return responseText;
     } catch (error) {
       lastError = error;
       if (attempt < attempts) {
