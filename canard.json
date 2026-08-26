@@ -1,5 +1,5 @@
 {
-  "count": 954,
+  "count": 924,
   "records": [
     {
       "category": "point_speed",
@@ -1763,7 +1763,7 @@
             "link": "/documents/20123/39846/23143FU10003698_2026-08-12_2027-09-12_123831685.pdf",
             "fileHash": "423457A84D471B0C962526877229BE87",
             "liferayEntryId": 1651883,
-            "dataWeryfikacji": "2026-08-17T21:39:13"
+            "dataWeryfikacji": "2026-08-25T21:38:49"
           },
           {
             "id": 109595117,
@@ -10013,7 +10013,7 @@
             "link": "/documents/20123/39846/23114FU10003627_2026-08-13_2027-09-13_123843424.pdf",
             "fileHash": "23C7A31E2ABD9C756C0BFA223E5E7CA2",
             "liferayEntryId": 1651851,
-            "dataWeryfikacji": "2026-08-17T21:39:05"
+            "dataWeryfikacji": "2026-08-25T21:38:40"
           },
           {
             "id": 109545166,
@@ -16250,7 +16250,7 @@
             "link": "/documents/20123/39846/23114FU10003625_2026-08-13_2027-09-13_123843378.pdf",
             "fileHash": "00D29047AD42C41D7CD11779BA16F333",
             "liferayEntryId": 1651835,
-            "dataWeryfikacji": "2026-08-17T21:39:02"
+            "dataWeryfikacji": "2026-08-25T21:38:39"
           },
           {
             "id": 109545013,
@@ -18506,7 +18506,7 @@
             "link": "/documents/20123/39846/23080FUS1000002_2026-07-23_2027-08-23_122766221.pdf",
             "fileHash": "637DDA60D8F13AF1780E45BDBF495A1C",
             "liferayEntryId": 1639750,
-            "dataWeryfikacji": "2026-08-16T21:37:54"
+            "dataWeryfikacji": "2026-08-25T21:38:36"
           },
           {
             "id": 109048253,
@@ -20167,7 +20167,7 @@
             "link": "/documents/20123/39846/593-072-73287_2025-08-06_2026-09-06_110186682.pdf",
             "fileHash": "1B4445F9290E54281ECAAB3B72CA56FF",
             "liferayEntryId": 1494573,
-            "dataWeryfikacji": "2026-08-16T21:38:04"
+            "dataWeryfikacji": "2026-08-25T21:38:47"
           },
           {
             "id": 97861826,
@@ -20182,7 +20182,7 @@
             "link": "/documents/20123/39846/593-072-73287_2024-07-10_2025-08-05_97861827.pdf",
             "fileHash": "20E412DB1393D5B4E7E5F7D73B3EA33C",
             "liferayEntryId": 1494557,
-            "dataWeryfikacji": "2026-08-16T21:38:03"
+            "dataWeryfikacji": "2026-08-25T21:38:46"
           }
         ],
         "id": 87755767,
@@ -21729,7 +21729,7 @@
             "link": "/documents/20123/39846/593-072-73245_2025-04-16_2026-05-12_106685604.pdf",
             "fileHash": "EE2F1BD54816C183072E0EE6CE8282AF",
             "liferayEntryId": 1608953,
-            "dataWeryfikacji": "2026-08-16T21:37:49"
+            "dataWeryfikacji": "2026-08-25T21:38:25"
           }
         ],
         "id": 83727151,
@@ -26518,7 +26518,7 @@
             "link": "/documents/20123/39846/23145FU10003713_2026-07-16_2027-08-16_122471389.pdf",
             "fileHash": "5DDDA3F93E9598E7DE9319FE8A5CF957",
             "liferayEntryId": 1637215,
-            "dataWeryfikacji": "2026-08-17T21:39:43"
+            "dataWeryfikacji": "2026-08-25T21:39:20"
           },
           {
             "id": 108609008,
@@ -32661,7 +32661,7 @@
             "link": "/documents/20123/39846/23081FUS1000006_2026-07-23_2027-08-23_122766282.pdf",
             "fileHash": "EECAAEE96EBAA652A4EE9C3A225D420F",
             "liferayEntryId": 1639766,
-            "dataWeryfikacji": "2026-08-16T21:37:55"
+            "dataWeryfikacji": "2026-08-25T21:38:36"
           },
           {
             "id": 109048320,
@@ -33162,7 +33162,7 @@
             "link": "/documents/20123/39846/593-072-73282_2026-07-22_2027-08-22_122806112.pdf",
             "fileHash": "818AE01AF339D447EE107A9BAE1B9DC1",
             "liferayEntryId": 1640507,
-            "dataWeryfikacji": "2026-08-17T21:38:59"
+            "dataWeryfikacji": "2026-08-25T21:38:33"
           },
           {
             "id": 109097726,
@@ -34129,7 +34129,7 @@
             "link": "/documents/20123/39846/593-072-73174_2026-07-22_2027-08-22_122806038.pdf",
             "fileHash": "4C2B601577F98E740F4D2EE479790A39",
             "liferayEntryId": 1640475,
-            "dataWeryfikacji": "2026-08-17T21:38:34"
+            "dataWeryfikacji": "2026-08-25T21:38:02"
           },
           {
             "id": 109097605,
@@ -34273,7 +34273,7 @@
             "link": "/documents/20123/39846/593-072-73246_2025-04-16_2026-05-12_106685689.pdf",
             "fileHash": "48F5EF08DA09747140C58F8B8B26E69B",
             "liferayEntryId": 1608969,
-            "dataWeryfikacji": "2026-08-16T21:37:51"
+            "dataWeryfikacji": "2026-08-25T21:38:26"
           }
         ],
         "id": 83727354,
@@ -37094,7 +37094,7 @@
             "link": "/documents/20123/39846/23076FUS1000001_2026-07-16_2027-08-16_122470567.pdf",
             "fileHash": "2CE703E76D5BD59751767FFEB5D06A97",
             "liferayEntryId": 1637039,
-            "dataWeryfikacji": "2026-08-17T21:38:56"
+            "dataWeryfikacji": "2026-08-25T21:38:30"
           },
           {
             "id": 108609108,
@@ -37223,7 +37223,7 @@
             "link": "/documents/20123/39846/593-072-73244_2025-11-18_2026-12-18_113396936.pdf",
             "fileHash": "C14AC80383CE4782D9BFBE6C2EBDEB09",
             "liferayEntryId": 1538299,
-            "dataWeryfikacji": "2026-08-17T21:38:54"
+            "dataWeryfikacji": "2026-08-25T21:38:24"
           },
           {
             "id": 106455138,
@@ -37803,7 +37803,7 @@
             "link": "/documents/20123/39846/643294-60065_2025-10-24_2026-11-24_114968801.pdf",
             "fileHash": "C500BD85964930D8A56A34E7BCFB3CE5",
             "liferayEntryId": 1559264,
-            "dataWeryfikacji": "2026-08-17T21:39:46"
+            "dataWeryfikacji": "2026-08-25T21:39:27"
           }
         ],
         "id": 113122295,
@@ -40059,7 +40059,7 @@
             "link": "/documents/20123/39846/593-072-73242_2025-04-16_2026-05-12_106685655.pdf",
             "fileHash": "CC4EC147EBDDA7D45EEB219737449470",
             "liferayEntryId": 1608937,
-            "dataWeryfikacji": "2026-08-16T21:37:47"
+            "dataWeryfikacji": "2026-08-25T21:38:22"
           }
         ],
         "id": 83494583,
@@ -40624,7 +40624,7 @@
             "link": "/documents/20123/39846/23136FU10003684_2026-07-09_2027-08-09_122488292.pdf",
             "fileHash": "B848E81ADEEE299F93AB33741308639E",
             "liferayEntryId": 1637167,
-            "dataWeryfikacji": "2026-08-17T21:39:07"
+            "dataWeryfikacji": "2026-08-25T21:38:48"
           },
           {
             "id": 108448873,
@@ -41204,7 +41204,7 @@
             "link": "/documents/20123/39846/593-072-73292_2025-08-06_2026-09-06_110186513.pdf",
             "fileHash": "093804980A14DC74484787C135834228",
             "liferayEntryId": 1494445,
-            "dataWeryfikacji": "2026-08-16T21:38:00"
+            "dataWeryfikacji": "2026-08-25T21:38:43"
           },
           {
             "id": 97861550,
@@ -41219,7 +41219,7 @@
             "link": "/documents/20123/39846/593-072-73292_2024-07-10_2025-08-05_97861551.pdf",
             "fileHash": "058425200C7E52F8F1744BDD6C0AA452",
             "liferayEntryId": 1494429,
-            "dataWeryfikacji": "2026-08-16T21:37:59"
+            "dataWeryfikacji": "2026-08-25T21:38:42"
           }
         ],
         "id": 87755404,
@@ -45466,14 +45466,14 @@
             "numerDokumentu": "OUM05.WL.45.1036.2025",
             "rodzajDokumentu": "Świadectwo legalizacji pierwotnej",
             "dataWydania": "2025-07-25",
-            "dataWaznosci": "2026-08-25",
+            "dataWaznosci": "2026-08-18",
             "zalacznikId": 111998617,
             "zalacznikNazwa": "SR_60057_20260825.pdf",
             "zalacznikOpis": "",
-            "link": "/documents/20123/39846/643294-60057_2025-07-25_2026-08-25_111998617.pdf",
+            "link": "/documents/20123/39846/643294-60057_2025-07-25_2026-08-18_111998617.pdf",
             "fileHash": "B36CFEF21FF4FA0DDC061F8C4F0A82FE",
-            "liferayEntryId": 1541609,
-            "dataWeryfikacji": "2026-08-17T21:39:44"
+            "liferayEntryId": 1655925,
+            "dataWeryfikacji": "2026-08-25T21:39:22"
           }
         ],
         "id": 111995342,
@@ -45701,7 +45701,7 @@
             "link": "/documents/20123/39846/23081FUS1000008_2026-07-23_2027-08-23_122766363.pdf",
             "fileHash": "61BD32875D5FF1B7FBB6EC3C8514A7B1",
             "liferayEntryId": 1639782,
-            "dataWeryfikacji": "2026-08-16T21:37:56"
+            "dataWeryfikacji": "2026-08-25T21:38:38"
           },
           {
             "id": 109048478,
@@ -55904,7 +55904,7 @@
             "link": "/documents/20123/39846/23143FU10003701_2026-08-05_2027-09-05_123847751.pdf",
             "fileHash": "F8E394CF0C62E28F8097C27905A366A4",
             "liferayEntryId": 1651912,
-            "dataWeryfikacji": "2026-08-17T21:39:19"
+            "dataWeryfikacji": "2026-08-25T21:39:00"
           },
           {
             "id": 110429442,
@@ -55912,14 +55912,14 @@
             "numerDokumentu": "OUM06.6WM.6W2.45.272.2025.2",
             "rodzajDokumentu": "Świadectwo legalizacji ponownej",
             "dataWydania": "2025-08-05",
-            "dataWaznosci": "2026-09-05",
+            "dataWaznosci": "2026-08-04",
             "zalacznikId": 110429444,
             "zalacznikNazwa": "MFRN_23143FU10003701_20260907.pdf",
             "zalacznikOpis": "",
-            "link": "/documents/20123/39846/23143FU10003701_2025-08-05_2026-09-05_110429444.pdf",
+            "link": "/documents/20123/39846/23143FU10003701_2025-08-05_2026-08-04_110429444.pdf",
             "fileHash": "95AD01309E19277A277F0F31CAB63558",
-            "liferayEntryId": 1496982,
-            "dataWeryfikacji": "2026-08-16T21:38:06"
+            "liferayEntryId": 1655877,
+            "dataWeryfikacji": "2026-08-25T21:38:59"
           }
         ],
         "id": 89564044,
@@ -58016,7 +58016,7 @@
             "link": "/documents/20123/39846/23144FU10003705_2026-08-04_2027-09-04_123831274.pdf",
             "fileHash": "0721D38B5468A9BAAF7CB6EA93C1526E",
             "liferayEntryId": 1651960,
-            "dataWeryfikacji": "2026-08-17T21:39:27"
+            "dataWeryfikacji": "2026-08-25T21:39:10"
           },
           {
             "id": 110429293,
@@ -58839,7 +58839,7 @@
             "link": "/documents/20123/39846/593-072-73176_2025-11-19_2026-12-19_113417157.pdf",
             "fileHash": "A247E2D652F48A309C50803E3274B23F",
             "liferayEntryId": 1538656,
-            "dataWeryfikacji": "2026-08-17T21:38:35"
+            "dataWeryfikacji": "2026-08-25T21:38:04"
           },
           {
             "id": 101771088,
@@ -58854,7 +58854,7 @@
             "link": "/documents/20123/39846/593-072-73176_2024-10-30_2025-11-18_101771089.pdf",
             "fileHash": "0B6BC82DC61882A2B3F2529ABCCA8BE2",
             "liferayEntryId": 1541576,
-            "dataWeryfikacji": "2026-08-17T21:38:35"
+            "dataWeryfikacji": "2026-08-25T21:38:03"
           }
         ],
         "id": 69799229,
@@ -61611,7 +61611,7 @@
             "link": "/documents/20123/39846/23081FUS1000007_2026-07-16_2027-08-16_122470117.pdf",
             "fileHash": "CE3BA1FF635697036E5436CC743CD4B1",
             "liferayEntryId": 1637087,
-            "dataWeryfikacji": "2026-08-17T21:38:58"
+            "dataWeryfikacji": "2026-08-25T21:38:32"
           },
           {
             "id": 108609245,
@@ -62707,7 +62707,7 @@
             "link": "/documents/20123/39846/23083FUS1000013_2026-07-23_2027-08-23_122766156.pdf",
             "fileHash": "4D6A7BE1B3470BA22FA0B5070D2614E6",
             "liferayEntryId": 1639734,
-            "dataWeryfikacji": "2026-08-16T21:37:54"
+            "dataWeryfikacji": "2026-08-25T21:38:35"
           },
           {
             "id": 109048182,
@@ -66237,7 +66237,7 @@
             "link": "/documents/20123/39846/643294-60113_2026-05-08_2027-06-08_120866035.pdf",
             "fileHash": "8BEAE12D95761BAF113AD7A558B03B78",
             "liferayEntryId": 1629912,
-            "dataWeryfikacji": "2026-08-17T21:39:58"
+            "dataWeryfikacji": "2026-08-25T21:39:39"
           }
         ],
         "id": 119842192,
@@ -67898,7 +67898,7 @@
             "link": "/documents/20123/39846/593-072-73320_2025-10-08_2026-11-08_112056878.pdf",
             "fileHash": "79325731CEB3C7B1F567130B82CFE7ED",
             "liferayEntryId": 1520621,
-            "dataWeryfikacji": "2026-08-17T21:39:35"
+            "dataWeryfikacji": "2026-08-25T21:39:17"
           },
           {
             "id": 100214046,
@@ -67913,7 +67913,7 @@
             "link": "/documents/20123/39846/593-072-73320_2024-09-18_2025-10-07_100214047.pdf",
             "fileHash": "2F570CE7692E5F06A5CDDDD84072431E",
             "liferayEntryId": 1522096,
-            "dataWeryfikacji": "2026-08-17T21:39:35"
+            "dataWeryfikacji": "2026-08-25T21:39:17"
           }
         ],
         "id": 89846134,
@@ -71864,7 +71864,7 @@
             "link": "/documents/20123/39846/23115FU10003633_2026-07-16_2027-08-16_122469728.pdf",
             "fileHash": "3683C13A65686EE9D8CA9C8610F5F4B2",
             "liferayEntryId": 1637119,
-            "dataWeryfikacji": "2026-08-17T21:39:06"
+            "dataWeryfikacji": "2026-08-25T21:38:41"
           },
           {
             "id": 108609351,
@@ -73024,7 +73024,7 @@
             "link": "/documents/20123/39846/593-072-73172_2025-10-29_2026-11-29_112659969.pdf",
             "fileHash": "15EE85F7E8418B654F0EE10F72461452",
             "liferayEntryId": 1529330,
-            "dataWeryfikacji": "2026-08-17T21:38:29"
+            "dataWeryfikacji": "2026-08-25T21:37:57"
           },
           {
             "id": 100625008,
@@ -73039,7 +73039,7 @@
             "link": "/documents/20123/39846/593-072-73172_2024-10-02_2025-10-28_100625009.pdf",
             "fileHash": "64D4DB3FE9E21E4E7810D49A23F211F0",
             "liferayEntryId": 1531510,
-            "dataWeryfikacji": "2026-08-17T21:38:28"
+            "dataWeryfikacji": "2026-08-25T21:37:57"
           }
         ],
         "id": 69065567,
@@ -76103,7 +76103,7 @@
             "link": "/documents/20123/39846/23137FU10003688_2025-08-07_2026-09-07_110429231.pdf",
             "fileHash": "A77A7D66E8E71F9AF936E30DDE30E371",
             "liferayEntryId": 1497030,
-            "dataWeryfikacji": "2026-08-16T21:38:08"
+            "dataWeryfikacji": "2026-08-25T21:39:05"
           },
           {
             "id": 98815599,
@@ -76118,7 +76118,7 @@
             "link": "/documents/20123/39846/23137FU10003688_2024-08-01_2025-08-06_98815600.pdf",
             "fileHash": "CD6648E49769BC2D35908C70E9820E9C",
             "liferayEntryId": 1497014,
-            "dataWeryfikacji": "2026-08-16T21:38:07"
+            "dataWeryfikacji": "2026-08-25T21:39:04"
           }
         ],
         "id": 89564142,
@@ -77521,7 +77521,7 @@
             "link": "/documents/20123/39846/23083FUS1000011_2026-07-16_2027-08-16_122470310.pdf",
             "fileHash": "D3A15ADDDF1ED538410A435DAC25B01D",
             "liferayEntryId": 1637023,
-            "dataWeryfikacji": "2026-08-17T21:38:56"
+            "dataWeryfikacji": "2026-08-25T21:38:29"
           },
           {
             "id": 108609296,
@@ -79068,7 +79068,7 @@
             "link": "/documents/20123/39846/086_2025-11-21_2026-12-21_113683639.pdf",
             "fileHash": "D9D1F59C170BB0D6B6BCCEBD28E64A88",
             "liferayEntryId": 1542107,
-            "dataWeryfikacji": "2026-08-17T21:38:24"
+            "dataWeryfikacji": "2026-08-25T21:37:53"
           },
           {
             "id": 101311207,
@@ -79083,7 +79083,7 @@
             "link": "/documents/20123/39846/086_2024-10-17_2025-11-17_101311209.pdf",
             "fileHash": "61DA2DB48743B6BEE04F2164BC0E94DC",
             "liferayEntryId": 1385358,
-            "dataWeryfikacji": "2026-08-17T21:38:24"
+            "dataWeryfikacji": "2026-08-25T21:37:52"
           }
         ],
         "id": 29112790,
@@ -79584,7 +79584,7 @@
             "link": "/documents/20123/39846/593-072-73247_2025-04-16_2026-05-12_106685348.pdf",
             "fileHash": "9FC5BBA3984A860A57BF00CF79C4E05D",
             "liferayEntryId": 1608985,
-            "dataWeryfikacji": "2026-08-16T21:37:52"
+            "dataWeryfikacji": "2026-08-25T21:38:28"
           }
         ],
         "id": 83727701,
@@ -82182,7 +82182,7 @@
             "link": "/documents/20123/39846/593-072-73248_2026-03-25_2027-04-25_117695770.pdf",
             "fileHash": "82B65874A5295807E8318327D37123AA",
             "liferayEntryId": 1586248,
-            "dataWeryfikacji": "2026-08-17T21:38:54"
+            "dataWeryfikacji": "2026-08-25T21:38:28"
           },
           {
             "id": 105187595,
@@ -82311,7 +82311,7 @@
             "link": "/documents/20123/39846/23083FUS1000015_2026-07-16_2027-08-16_122471571.pdf",
             "fileHash": "DE18396ABF538338F43439643B5A69B3",
             "liferayEntryId": 1637071,
-            "dataWeryfikacji": "2026-08-17T21:38:57"
+            "dataWeryfikacji": "2026-08-25T21:38:31"
           },
           {
             "id": 108607512,
@@ -82891,7 +82891,7 @@
             "link": "/documents/20123/39846/004_2025-12-17_2027-01-17_115035563.PDF",
             "fileHash": "65E3DBE8B28F9C66BAEFE91BA96EF55D",
             "liferayEntryId": 1558916,
-            "dataWeryfikacji": "2026-08-17T21:38:46"
+            "dataWeryfikacji": "2026-08-25T21:38:14"
           },
           {
             "id": 103945989,
@@ -83020,7 +83020,7 @@
             "link": "/documents/20123/39846/23116FU10003636_2026-07-23_2027-08-23_122766249.pdf",
             "fileHash": "7D0BA80115582CFFA1E3A057D79C0A63",
             "liferayEntryId": 1639798,
-            "dataWeryfikacji": "2026-08-16T21:37:57"
+            "dataWeryfikacji": "2026-08-25T21:38:38"
           },
           {
             "id": 109048431,
@@ -83164,7 +83164,7 @@
             "link": "/documents/20123/39846/643294-60075_2026-01-13_2026-08-04_115163774.pdf",
             "fileHash": "0A3A3397B6931596123660081C32429B",
             "liferayEntryId": 1647165,
-            "dataWeryfikacji": "2026-08-17T21:39:49"
+            "dataWeryfikacji": "2026-08-25T21:39:30"
           }
         ],
         "id": 115163534,
@@ -83890,6 +83890,135 @@
       "category": "point_speed",
       "label": "Pomiar punktowy",
       "summary": {
+        "id": 106122986,
+        "lon": 20.637558333333335,
+        "lat": 49.73693611111111,
+        "rodzajPomiaru": "PP",
+        "nrSeryjny": "643294-60050",
+        "lok2PktDlugosc": null,
+        "lok2PktSzerokosc": null
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PP",
+      "detail": {
+        "lon": 20.637558333333335,
+        "lat": 49.73693611111111,
+        "urzadzenie": {
+          "id": 106122986,
+          "nrSeryjny": "643294-60050",
+          "typUrzadzenia": "TraffiStar SR390",
+          "rodzajPomiaru": "PP",
+          "producent": "Jenoptik Robot",
+          "rokProdukcji": 2024,
+          "temperaturaPracyMax": 60,
+          "temperaturaPracyMin": -20,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar niezabudowany",
+          "lokalizacjaKod": "PLD.1.116",
+          "lokalizacjaDelegatura": "Południowa",
+          "lokalizacjaNrDrogi": "75",
+          "lokalizacjaKmDrogi": 50,
+          "lokalizacjaHmDrogi": 299,
+          "lokalizacjaObszarZabudowany": false,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "MAŁOPOLSKIE",
+          "lokalizacjaAdresPowiat": "nowosądecki",
+          "lokalizacjaAdresGmina": "Łososina Dolna",
+          "lokalizacjaAdresKodPocztowy": "33-314",
+          "lokalizacjaAdresMiejscowosc": "Bilsko",
+          "lokalizacjaAdresUlica": null,
+          "lokalizacjaDlugGeoSt": 20,
+          "lokalizacjaDlugGeoMin": 38,
+          "lokalizacjaDlugGeoSek": 15.21,
+          "lokalizacjaSzerGeoSt": 49,
+          "lokalizacjaSzerGeoMin": 44,
+          "lokalizacjaSzerGeoSek": 12.97,
+          "masztNrSeryjny": "LIFSR 003",
+          "masztTypUrzadzenia": "TraffiCompact",
+          "masztProducent": "Jenoptik Robot",
+          "masztRokProdukcji": 2025,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -20,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": "2026-11-08",
+          "dlugoscOdcinka1": null,
+          "dlugoscOdcinka2": null,
+          "dlugoscOdcinka1Str": null,
+          "dlugoscOdcinka2Str": null,
+          "nazwaKierunku1": null,
+          "nazwaKierunku2": null,
+          "lokalizacjaDrugiegoPunktu": null,
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": null,
+          "hmDrugiPunkt": null,
+          "dlugGeoStDp": null,
+          "dlugGeoMisDp": null,
+          "dlugGeoSekDp": null,
+          "szerGeoStDp": null,
+          "szerGeoMinDp": null,
+          "szerGeoSekDp": null,
+          "mobilne": false,
+          "jestStatystyka": false,
+          "jestLimit": true
+        },
+        "limity": [
+          {
+            "limitOsobowe": "70",
+            "limitCiezarowe": "70",
+            "typ": {
+              "kierunek": "",
+              "godziny": "",
+              "kierunekPikietazu": "ROSNACY"
+            }
+          }
+        ],
+        "swiadectwaLegalizacji": [
+          {
+            "id": 112056995,
+            "idUrzadzenia": 106122986,
+            "numerDokumentu": "OUM05.WL.45.1435.2025.2",
+            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
+            "dataWydania": "2025-10-08",
+            "dataWaznosci": "2026-11-08",
+            "zalacznikId": 112056996,
+            "zalacznikNazwa": "SR_60050_20261108.pdf.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60050_2025-10-08_2026-11-08_112056996.pdf",
+            "fileHash": "E1823C71E4317A7D5F4B6036C5A92CC0",
+            "liferayEntryId": 1520653,
+            "dataWeryfikacji": "2026-08-23T21:39:55"
+          },
+          {
+            "id": 106654724,
+            "idUrzadzenia": 106122986,
+            "numerDokumentu": "OUM05.WL.45.1293.2024.1",
+            "rodzajDokumentu": "Świadectwo legalizacji pierwotnej",
+            "dataWydania": "2024-09-06",
+            "dataWaznosci": "2025-10-06",
+            "zalacznikId": 106654725,
+            "zalacznikNazwa": "SR390 Świadectwo -  urządzenie z testów.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60050_2024-09-06_2025-10-06_106654725.pdf",
+            "fileHash": "43FDAFFF040B83209DEFBE60FD8AADEE",
+            "liferayEntryId": 1450886,
+            "dataWeryfikacji": "2026-08-23T21:39:55"
+          }
+        ],
+        "id": 106122986,
+        "brdW1DaneZOkresu": [],
+        "brdW2DaneSredniaPerMiesiac": [],
+        "brdW3DaneSumaPerMiesiac": [],
+        "brdW4DaneSumaPerOkres": [],
+        "jestStatystyka": false,
+        "jestLimit": true,
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "point_speed",
+      "label": "Pomiar punktowy",
+      "summary": {
         "id": 111871302,
         "lon": 18.609444444444446,
         "lat": 51.03561111111111,
@@ -84374,7 +84503,7 @@
             "link": "/documents/20123/39846/593-072-73293_2025-08-06_2026-09-06_110186611.pdf",
             "fileHash": "AD9962A5196DEBFB0212F326E28AF88A",
             "liferayEntryId": 1494477,
-            "dataWeryfikacji": "2026-08-16T21:38:01"
+            "dataWeryfikacji": "2026-08-25T21:38:44"
           },
           {
             "id": 97861269,
@@ -84389,7 +84518,7 @@
             "link": "/documents/20123/39846/593-072-73293_2024-07-10_2025-08-05_97861270.pdf",
             "fileHash": "D2533590DB12826272890408EEE99C6E",
             "liferayEntryId": 1494461,
-            "dataWeryfikacji": "2026-08-16T21:38:01"
+            "dataWeryfikacji": "2026-08-25T21:38:44"
           }
         ],
         "id": 87755444,
@@ -85212,7 +85341,7 @@
             "link": "/documents/20123/39846/643294-60082_2026-01-23_2026-07-28_116649287.pdf",
             "fileHash": "FA32889DF6D50CC02A0505BC44DE8F38",
             "liferayEntryId": 1643549,
-            "dataWeryfikacji": "2026-08-17T21:39:52"
+            "dataWeryfikacji": "2026-08-25T21:39:33"
           }
         ],
         "id": 116570766,
@@ -90854,7 +90983,7 @@
             "link": "/documents/20123/39846/23143FU10003700_2026-07-10_2027-08-10_122485444.pdf",
             "fileHash": "62B8D28C95193A0E627FD55A4498A2FB",
             "liferayEntryId": 1637135,
-            "dataWeryfikacji": "2026-08-17T21:39:06"
+            "dataWeryfikacji": "2026-08-25T21:38:47"
           },
           {
             "id": 109022622,
@@ -92079,7 +92208,7 @@
             "link": "/documents/20123/39846/23088FUS1000019_2026-07-16_2027-08-16_122469935.pdf",
             "fileHash": "01ACE956E8FE2B151B2FDB2DC6F712D7",
             "liferayEntryId": 1637103,
-            "dataWeryfikacji": "2026-08-17T21:38:58"
+            "dataWeryfikacji": "2026-08-25T21:38:32"
           },
           {
             "id": 108609217,
@@ -92208,7 +92337,7 @@
             "link": "/documents/20123/39846/593-072-73304_2026-05-27_2027-06-27_120231921.pdf",
             "fileHash": "89EC68BDE9122E07BA5D6721B5606508",
             "liferayEntryId": 1613499,
-            "dataWeryfikacji": "2026-08-16T21:38:05"
+            "dataWeryfikacji": "2026-08-25T21:38:51"
           },
           {
             "id": 107089669,
@@ -92223,7 +92352,7 @@
             "link": "/documents/20123/39846/593-072-73304_2025-04-29_2026-05-26_107089670.pdf",
             "fileHash": "64578CF410556388828B05691E4E6DF5",
             "liferayEntryId": 1614607,
-            "dataWeryfikacji": "2026-08-18T21:38:22"
+            "dataWeryfikacji": "2026-08-25T21:38:51"
           }
         ],
         "id": 88685870,
@@ -92803,7 +92932,7 @@
             "link": "/documents/20123/39846/593-072-73173_2024-10-02_2025-10-28_100597353.pdf",
             "fileHash": "13733ED5F575A6EC9F5E867EDC4B89E4",
             "liferayEntryId": 1530777,
-            "dataWeryfikacji": "2026-08-17T21:38:30"
+            "dataWeryfikacji": "2026-08-25T21:37:59"
           }
         ],
         "id": 69065974,
@@ -92917,7 +93046,7 @@
             "link": "/documents/20123/39846/23144FU10003708_2026-08-04_2027-09-04_123831179.pdf",
             "fileHash": "C336A0F3CC6C9967FC7DFF36712F8CD9",
             "liferayEntryId": 1651944,
-            "dataWeryfikacji": "2026-08-17T21:39:25"
+            "dataWeryfikacji": "2026-08-25T21:39:09"
           },
           {
             "id": 110429487,
@@ -92925,14 +93054,14 @@
             "numerDokumentu": "OUM06.6WM.6W2.45.273.2025.1",
             "rodzajDokumentu": "Świadectwo legalizacji ponownej",
             "dataWydania": "2025-08-06",
-            "dataWaznosci": "2026-09-06",
+            "dataWaznosci": "2026-08-03",
             "zalacznikId": 110429488,
             "zalacznikNazwa": "MFRN_23144FU10003708_20260906.pdf",
             "zalacznikOpis": "",
-            "link": "/documents/20123/39846/23144FU10003708_2025-08-06_2026-09-06_110429488.pdf",
+            "link": "/documents/20123/39846/23144FU10003708_2025-08-06_2026-08-03_110429488.pdf",
             "fileHash": "B125131042705A624A3298D59F52A3FC",
-            "liferayEntryId": 1497062,
-            "dataWeryfikacji": "2026-08-16T21:38:09"
+            "liferayEntryId": 1655909,
+            "dataWeryfikacji": "2026-08-25T21:39:08"
           }
         ],
         "id": 89564161,
@@ -93061,7 +93190,7 @@
             "link": "/documents/20123/39846/593-072-73178_2024-10-16_2025-11-11_101111479.pdf",
             "fileHash": "B0B5D9B49DC9B5CC672AE3DF7C82657E",
             "liferayEntryId": 1538283,
-            "dataWeryfikacji": "2026-08-17T21:38:37"
+            "dataWeryfikacji": "2026-08-25T21:38:05"
           }
         ],
         "id": 69799278,
@@ -94335,7 +94464,7 @@
             "link": "/documents/20123/39846/593-072-73185_2026-07-22_2027-08-22_122806085.pdf",
             "fileHash": "06073276BF7CAE34A0A895A2B25FBCAA",
             "liferayEntryId": 1640491,
-            "dataWeryfikacji": "2026-08-17T21:38:39"
+            "dataWeryfikacji": "2026-08-25T21:38:08"
           },
           {
             "id": 109097578,
@@ -97558,7 +97687,7 @@
             "link": "/documents/20123/39846/593-072-73294_2025-08-06_2026-09-06_110186633.pdf",
             "fileHash": "4F475E917701A1369F0A34187A835205",
             "liferayEntryId": 1494541,
-            "dataWeryfikacji": "2026-08-16T21:38:03"
+            "dataWeryfikacji": "2026-08-25T21:38:45"
           },
           {
             "id": 97861689,
@@ -97573,7 +97702,7 @@
             "link": "/documents/20123/39846/593-072-73294_2024-07-10_2025-08-05_97861690.pdf",
             "fileHash": "D4969DF7316983315A8D8DB6DE76147F",
             "liferayEntryId": 1494525,
-            "dataWeryfikacji": "2026-08-16T21:38:02"
+            "dataWeryfikacji": "2026-08-25T21:38:45"
           }
         ],
         "id": 87755684,
@@ -99427,7 +99556,7 @@
             "link": "/documents/20123/39846/23083FUS1000010_2026-07-16_2027-08-16_122470945.pdf",
             "fileHash": "404B494E961A0A5EBC1D2B74F97577F2",
             "liferayEntryId": 1637007,
-            "dataWeryfikacji": "2026-08-17T21:38:55"
+            "dataWeryfikacji": "2026-08-25T21:38:29"
           },
           {
             "id": 108608611,
@@ -106100,7 +106229,7 @@
             "link": "/documents/20123/39846/23145FU10003716_2026-08-13_2027-09-13_123831621.pdf",
             "fileHash": "0838C7CD3F5ED2BC8C7D8FD47B7809DC",
             "liferayEntryId": 1651995,
-            "dataWeryfikacji": "2026-08-17T21:39:42"
+            "dataWeryfikacji": "2026-08-25T21:39:19"
           },
           {
             "id": 109595156,
@@ -106358,7 +106487,7 @@
             "link": "/documents/20123/39846/643294-60093_2026-03-06_2027-04-06_117948633.pdf",
             "fileHash": "865163CD62DD8AAC5B855C6FF63874A7",
             "liferayEntryId": 1589634,
-            "dataWeryfikacji": "2026-08-17T21:39:54"
+            "dataWeryfikacji": "2026-08-25T21:39:35"
           }
         ],
         "id": 117605372,
@@ -106472,7 +106601,7 @@
             "link": "/documents/20123/39846/23115FU10003634_2026-07-23_2027-08-23_122766067.pdf",
             "fileHash": "03786B6150899B3FE9DC7F331DC377D6",
             "liferayEntryId": 1639814,
-            "dataWeryfikacji": "2026-08-16T21:37:57"
+            "dataWeryfikacji": "2026-08-25T21:38:39"
           },
           {
             "id": 109048445,
@@ -114514,7 +114643,7 @@
             "link": "/documents/20123/39846/643294-60079_2026-01-23_2027-02-23_115605462.pdf",
             "fileHash": "1E2D9CB11D5ECA42168EFB56CAB83E2B",
             "liferayEntryId": 1577203,
-            "dataWeryfikacji": "2026-08-17T21:39:51"
+            "dataWeryfikacji": "2026-08-25T21:39:32"
           }
         ],
         "id": 115605338,
@@ -116547,7 +116676,7 @@
             "link": "/documents/20123/39846/643294-60080_2026-01-23_2027-02-23_116222312.pdf",
             "fileHash": "691B44F0B39BADB3123A10B09D44414F",
             "liferayEntryId": 1589602,
-            "dataWeryfikacji": "2026-08-17T21:39:51"
+            "dataWeryfikacji": "2026-08-25T21:39:32"
           }
         ],
         "id": 116222191,
@@ -119160,7 +119289,7 @@
             "link": "/documents/20123/39846/593-072-73234_2026-03-18_2027-04-18_117404098.pdf",
             "fileHash": "D5327B734144A4521E48065E6B88E318",
             "liferayEntryId": 1583344,
-            "dataWeryfikacji": "2026-08-17T21:38:52"
+            "dataWeryfikacji": "2026-08-25T21:38:21"
           },
           {
             "id": 105187574,
@@ -119175,7 +119304,7 @@
             "link": "/documents/20123/39846/593-072-73234_2025-02-26_2026-03-17_105187575.pdf",
             "fileHash": "62E2DA0426C6F3A82C041C056CA6A564",
             "liferayEntryId": 1583329,
-            "dataWeryfikacji": "2026-08-17T21:38:52"
+            "dataWeryfikacji": "2026-08-25T21:38:20"
           }
         ],
         "id": 82689469,
@@ -121723,7 +121852,7 @@
             "link": "/documents/20123/39846/593-072-73235_2026-03-18_2027-04-18_117404876.pdf",
             "fileHash": "10FF465F93CBA54C0416FBA0C52ABE83",
             "liferayEntryId": 1583313,
-            "dataWeryfikacji": "2026-08-17T21:38:46"
+            "dataWeryfikacji": "2026-08-25T21:38:15"
           },
           {
             "id": 105187554,
@@ -124529,7 +124658,7 @@
             "link": "/documents/20123/39846/23167FU10003791_2026-08-12_2027-09-12_123831652.pdf",
             "fileHash": "594F3ADCFE91266F89813CC3CBC82BB3",
             "liferayEntryId": 1651979,
-            "dataWeryfikacji": "2026-08-17T21:39:39"
+            "dataWeryfikacji": "2026-08-25T21:39:18"
           },
           {
             "id": 109594884,
@@ -125689,7 +125818,7 @@
             "link": "/documents/20123/39846/23125FU10003670_2026-08-05_2027-09-05_123831150.pdf",
             "fileHash": "ADEAA6FD56A75393CB206B67D1642116",
             "liferayEntryId": 1651928,
-            "dataWeryfikacji": "2026-08-17T21:39:22"
+            "dataWeryfikacji": "2026-08-25T21:39:04"
           },
           {
             "id": 110429378,
@@ -125697,14 +125826,14 @@
             "numerDokumentu": "OUM06.6WM.6W2.45.272.2025.1",
             "rodzajDokumentu": "Świadectwo legalizacji ponownej",
             "dataWydania": "2025-08-05",
-            "dataWaznosci": "2026-09-05",
+            "dataWaznosci": "2026-08-04",
             "zalacznikId": 110429379,
             "zalacznikNazwa": "MFRN_23125FU10003670_20260905.pdf",
             "zalacznikOpis": "",
-            "link": "/documents/20123/39846/23125FU10003670_2025-08-05_2026-09-05_110429379.pdf",
+            "link": "/documents/20123/39846/23125FU10003670_2025-08-05_2026-08-04_110429379.pdf",
             "fileHash": "82576A71BC61D7F3A841044FA50FC62A",
-            "liferayEntryId": 1496998,
-            "dataWeryfikacji": "2026-08-16T21:38:06"
+            "liferayEntryId": 1655893,
+            "dataWeryfikacji": "2026-08-25T21:39:03"
           }
         ],
         "id": 89564073,
@@ -126398,7 +126527,7 @@
             "link": "/documents/20123/39846/643294-60108_2026-04-24_2027-05-24_119541197.pdf",
             "fileHash": "9AC96C0631D6755F6E9BF0243048DDAA",
             "liferayEntryId": 1614342,
-            "dataWeryfikacji": "2026-08-17T21:39:54"
+            "dataWeryfikacji": "2026-08-25T21:39:36"
           }
         ],
         "id": 118176829,
@@ -128044,7 +128173,7 @@
             "link": "/documents/20123/39846/593-072-73194_2026-03-11_2027-04-11_117161695.pdf",
             "fileHash": "26D037AA8B6088098FB892580F4091D0",
             "liferayEntryId": 1580340,
-            "dataWeryfikacji": "2026-08-17T21:38:43"
+            "dataWeryfikacji": "2026-08-25T21:38:12"
           },
           {
             "id": 104797773,
@@ -128059,7 +128188,7 @@
             "link": "/documents/20123/39846/593-072-73194_2025-02-12_2026-03-10_104797774.pdf",
             "fileHash": "0ED395C13939947862D004378469F4A2",
             "liferayEntryId": 1580324,
-            "dataWeryfikacji": "2026-08-17T21:38:43"
+            "dataWeryfikacji": "2026-08-25T21:38:11"
           }
         ],
         "id": 72154147,
@@ -131123,7 +131252,7 @@
             "link": "/documents/20123/39846/23110FUS1000029_2026-07-23_2027-08-23_123048305.pdf",
             "fileHash": "104F3C54C79A5E7CE6756261D8B44807",
             "liferayEntryId": 1643264,
-            "dataWeryfikacji": "2026-08-16T21:37:59"
+            "dataWeryfikacji": "2026-08-25T21:38:42"
           },
           {
             "id": 109120452,
@@ -131867,7 +131996,7 @@
             "link": "/documents/20123/39846/23088FUS1000022_2026-07-09_2027-08-09_122488131.pdf",
             "fileHash": "39294325E2C5DC40BD7A948BA299078F",
             "liferayEntryId": 1637151,
-            "dataWeryfikacji": "2026-08-17T21:39:07"
+            "dataWeryfikacji": "2026-08-25T21:38:48"
           },
           {
             "id": 108448714,
@@ -136592,7 +136721,7 @@
             "link": "/documents/20123/39846/23131FU10003675_2026-08-13_2027-09-13_123831576.pdf",
             "fileHash": "41C05AC902EAD62B8F5A42909B66A645",
             "liferayEntryId": 1651867,
-            "dataWeryfikacji": "2026-08-17T21:39:10"
+            "dataWeryfikacji": "2026-08-25T21:38:49"
           },
           {
             "id": 109595191,
@@ -138833,7 +138962,7 @@
             "link": "/documents/20123/39846/23087FUS1000018_2026-07-16_2027-08-16_122471151.pdf",
             "fileHash": "CF977AB271310515F46982AB3C279C40",
             "liferayEntryId": 1637055,
-            "dataWeryfikacji": "2026-08-17T21:38:57"
+            "dataWeryfikacji": "2026-08-25T21:38:31"
           },
           {
             "id": 108609268,
@@ -139929,7 +140058,7 @@
             "link": "/documents/20123/39846/593-072-73233_2025-04-16_2026-05-12_106685577.pdf",
             "fileHash": "F1B78FD5BB2F1FEBE260EC3E8C833D6B",
             "liferayEntryId": 1609771,
-            "dataWeryfikacji": "2026-08-17T21:38:49"
+            "dataWeryfikacji": "2026-08-25T21:38:17"
           }
         ],
         "id": 82689432,
@@ -141203,7 +141332,7 @@
             "link": "/documents/20123/39846/643294-60114_2026-05-08_2027-06-08_120869915.pdf",
             "fileHash": "15C5CD3A06DEDF9310C00213F08936DA",
             "liferayEntryId": 1629928,
-            "dataWeryfikacji": "2026-08-17T21:39:58"
+            "dataWeryfikacji": "2026-08-25T21:39:40"
           }
         ],
         "id": 119842327,
@@ -142849,7 +142978,7 @@
             "link": "/documents/20123/39846/23083FUS1000012_2025-12-18_2027-01-18_115040918.pdf",
             "fileHash": "34B5C752355D8689B4586BD5C1FCDC3D",
             "liferayEntryId": 1558932,
-            "dataWeryfikacji": "2026-08-16T21:37:56"
+            "dataWeryfikacji": "2026-08-25T21:38:37"
           },
           {
             "id": 103554765,
@@ -145541,7 +145670,7 @@
             "link": "/documents/20123/39846/593-072-73184_2026-03-18_2027-04-18_117404854.pdf",
             "fileHash": "A43B9363577E2EFD039B1D8618BE5208",
             "liferayEntryId": 1583281,
-            "dataWeryfikacji": "2026-08-17T21:38:39"
+            "dataWeryfikacji": "2026-08-25T21:38:07"
           },
           {
             "id": 113854892,
@@ -148650,7 +148779,7 @@
             "link": "/documents/20123/39846/593-072-73218_2025-07-09_2026-07-28_109340425.pdf",
             "fileHash": "E9C23A7B2275A3640E56D583E9A386D4",
             "liferayEntryId": 1643533,
-            "dataWeryfikacji": "2026-08-17T21:38:45"
+            "dataWeryfikacji": "2026-08-25T21:38:14"
           }
         ],
         "id": 72653893,
@@ -148764,7 +148893,7 @@
             "link": "/documents/20123/39846/593-072-73217_2026-03-18_2027-04-18_117404503.pdf",
             "fileHash": "22DDAD34741BB4C9AC378EFCB78F6C32",
             "liferayEntryId": 1583297,
-            "dataWeryfikacji": "2026-08-17T21:38:44"
+            "dataWeryfikacji": "2026-08-25T21:38:12"
           },
           {
             "id": 104979541,
@@ -150182,7 +150311,7 @@
             "link": "/documents/20123/39846/593-072-73232_2026-03-25_2027-04-25_117696272.pdf",
             "fileHash": "0B6FB875796D5AC3DC9E1600424A02B2",
             "liferayEntryId": 1586213,
-            "dataWeryfikacji": "2026-08-17T21:38:51"
+            "dataWeryfikacji": "2026-08-25T21:38:19"
           },
           {
             "id": 105187669,
@@ -150197,7 +150326,7 @@
             "link": "/documents/20123/39846/593-072-73232_2025-02-26_2026-03-24_105187671.pdf",
             "fileHash": "5A00879C310CAD8B4234788E1A2BDECA",
             "liferayEntryId": 1586200,
-            "dataWeryfikacji": "2026-08-17T21:38:50"
+            "dataWeryfikacji": "2026-08-25T21:38:18"
           }
         ],
         "id": 82689437,
@@ -151020,7 +151149,7 @@
             "link": "/documents/20123/39846/593-071_71381_2026-08-07_2027-09-07_123502471.pdf",
             "fileHash": "C4D960BB9202FEF1CF7AE24D91395F7F",
             "liferayEntryId": 1647850,
-            "dataWeryfikacji": "2026-08-17T21:38:23"
+            "dataWeryfikacji": "2026-08-25T21:37:51"
           },
           {
             "id": 107039829,
@@ -151035,7 +151164,7 @@
             "link": "/documents/20123/39846/593-071_71381_2025-04-25_2026-05-25_107039830.pdf",
             "fileHash": "5BAE981BB23A413309C5E3B69FD3D590",
             "liferayEntryId": 1455393,
-            "dataWeryfikacji": "2026-08-17T21:38:22"
+            "dataWeryfikacji": "2026-08-25T21:37:50"
           }
         ],
         "id": 28796205,
@@ -151149,7 +151278,7 @@
             "link": "/documents/20123/39846/643294-60074_2026-01-13_2027-02-13_115163795.pdf",
             "fileHash": "5F81583B30D25B66A916185695018A37",
             "liferayEntryId": 1577190,
-            "dataWeryfikacji": "2026-08-17T21:39:50"
+            "dataWeryfikacji": "2026-08-25T21:39:31"
           }
         ],
         "id": 115163592,
@@ -151635,7 +151764,7 @@
             "link": "/documents/20123/39846/23129FU10003672_2026-08-05_2027-09-05_123831083.pdf",
             "fileHash": "E3334FC81198D54E4541D3A901FE5E36",
             "liferayEntryId": 1651899,
-            "dataWeryfikacji": "2026-08-17T21:39:16"
+            "dataWeryfikacji": "2026-08-25T21:38:55"
           },
           {
             "id": 110429327,
@@ -151643,14 +151772,14 @@
             "numerDokumentu": "OUM06.6WM.6W2.45.272.2025",
             "rodzajDokumentu": "Świadectwo legalizacji ponownej",
             "dataWydania": "2025-08-05",
-            "dataWaznosci": "2026-09-05",
+            "dataWaznosci": "2026-08-04",
             "zalacznikId": 110429328,
             "zalacznikNazwa": "MFRN_23129FU10003672_20260905.pdf",
             "zalacznikOpis": "",
-            "link": "/documents/20123/39846/23129FU10003672_2025-08-05_2026-09-05_110429328.pdf",
+            "link": "/documents/20123/39846/23129FU10003672_2025-08-05_2026-08-04_110429328.pdf",
             "fileHash": "B0C25B0E313F11CAB1CBD66EB89102B6",
-            "liferayEntryId": 1496966,
-            "dataWeryfikacji": "2026-08-16T21:38:05"
+            "liferayEntryId": 1655861,
+            "dataWeryfikacji": "2026-08-25T21:38:55"
           }
         ],
         "id": 89563904,
@@ -152230,7 +152359,7 @@
             "link": "/documents/20123/39846/593-071_71378_2025-04-25_2026-05-21_107039440.pdf",
             "fileHash": "E6012C2CCD65C329C4940A83BA15FFAD",
             "liferayEntryId": 1614310,
-            "dataWeryfikacji": "2026-08-17T21:38:21"
+            "dataWeryfikacji": "2026-08-25T21:37:49"
           }
         ],
         "id": 28796185,
@@ -152939,7 +153068,7 @@
             "link": "/documents/20123/39846/593-072-73180_2025-07-16_2026-08-04_109561952.pdf",
             "fileHash": "21028DF938E089B4A39DD19B0C870736",
             "liferayEntryId": 1647117,
-            "dataWeryfikacji": "2026-08-17T21:38:38"
+            "dataWeryfikacji": "2026-08-25T21:38:07"
           }
         ],
         "id": 70721492,
@@ -154922,7 +155051,7 @@
             "link": "/documents/20123/39846/643294-60087_2026-03-06_2027-04-06_117323269.pdf",
             "fileHash": "DA536BB2F6A901F779617C0D0B6D0B77",
             "liferayEntryId": 1589618,
-            "dataWeryfikacji": "2026-08-17T21:39:53"
+            "dataWeryfikacji": "2026-08-25T21:39:34"
           }
         ],
         "id": 117320446,
@@ -155996,14 +156125,14 @@
             "numerDokumentu": "OUM05.WL.45.1036.2025.3",
             "rodzajDokumentu": "Świadectwo legalizacji pierwotnej",
             "dataWydania": "2025-07-23",
-            "dataWaznosci": "2026-08-23",
+            "dataWaznosci": "2026-08-11",
             "zalacznikId": 112450214,
             "zalacznikNazwa": "SR_60056_20260823.pdf",
             "zalacznikOpis": "",
-            "link": "/documents/20123/39846/643294-60056_2025-07-23_2026-08-23_112450214.pdf",
+            "link": "/documents/20123/39846/643294-60056_2025-07-23_2026-08-11_112450214.pdf",
             "fileHash": "4E133574DD59CE85273691D2FAC15A70",
-            "liferayEntryId": 1541625,
-            "dataWeryfikacji": "2026-08-17T21:39:44"
+            "liferayEntryId": 1655940,
+            "dataWeryfikacji": "2026-08-25T21:39:25"
           }
         ],
         "id": 112422888,
@@ -158473,7 +158602,7 @@
             "link": "/documents/20123/39846/CAM23001806_2026-01-19_2027-02-19_115304004.pdf",
             "fileHash": "FF0F22F55BCEB0624CD5AEA95FEA3DA9",
             "liferayEntryId": 1562304,
-            "dataWeryfikacji": "2026-08-17T21:39:40"
+            "dataWeryfikacji": "2026-08-25T21:39:18"
           },
           {
             "id": 103144386,
@@ -158716,7 +158845,7 @@
             "link": "/documents/20123/39846/ICAR5C2501_2025-12-22_2027-01-22_115623318.pdf",
             "fileHash": "D19D5C5E310BCAF653AE604F264CE321",
             "liferayEntryId": 1565954,
-            "dataWeryfikacji": "2026-08-17T21:39:47"
+            "dataWeryfikacji": "2026-08-25T21:39:28"
           },
           {
             "id": 114302586,
@@ -158731,7 +158860,7 @@
             "link": "/documents/20123/39846/ICAR5C2501_2025-12-12_2025-12-21_115649592.pdf",
             "fileHash": "36EDD34C957F1AE16812422E11AC7CAE",
             "liferayEntryId": 1647133,
-            "dataWeryfikacji": "2026-08-17T21:39:46"
+            "dataWeryfikacji": "2026-08-25T21:39:27"
           }
         ],
         "id": 113414005,
@@ -159217,7 +159346,7 @@
             "link": "/documents/20123/39846/CAM25004050_2026-06-12_2027-07-12_120993610.pdf",
             "fileHash": "F5A04A0EBD501CFD2AAE8912A7E26DC4",
             "liferayEntryId": 1629880,
-            "dataWeryfikacji": "2026-08-17T21:39:57"
+            "dataWeryfikacji": "2026-08-25T21:39:38"
           }
         ],
         "id": 118680294,
@@ -160204,7 +160333,7 @@
             "link": "/documents/20123/39846/CAM23001426_2025-11-27_2026-12-27_113848130.pdf",
             "fileHash": "00FF0CDD81C283EE3A2A0D8C42733B19",
             "liferayEntryId": 1544462,
-            "dataWeryfikacji": "2026-08-17T21:39:33"
+            "dataWeryfikacji": "2026-08-25T21:39:15"
           },
           {
             "id": 104519660,
@@ -160219,7 +160348,7 @@
             "link": "/documents/20123/39846/CAM23001426_2024-10-29_2025-11-26_104519661.pdf",
             "fileHash": "19A89B956208C641685674E0CFBA8A3A",
             "liferayEntryId": 1548490,
-            "dataWeryfikacji": "2026-08-17T21:39:33"
+            "dataWeryfikacji": "2026-08-25T21:39:15"
           }
         ],
         "id": 89607603,
@@ -160705,7 +160834,7 @@
             "link": "/documents/20123/39846/CAM25004030_2026-03-02_2027-04-02_117863640.pdf",
             "fileHash": "0E49B7CD63180871A5AAC8D2ECE3945B",
             "liferayEntryId": 1589586,
-            "dataWeryfikacji": "2026-08-17T21:39:49"
+            "dataWeryfikacji": "2026-08-25T21:39:30"
           }
         ],
         "id": 113783696,
@@ -162097,7 +162226,7 @@
             "link": "/documents/20123/39846/CAM25004391_2026-06-12_2027-07-12_120993722.pdf",
             "fileHash": "98772C45BC04DEB314EAC43F9453B95D",
             "liferayEntryId": 1629896,
-            "dataWeryfikacji": "2026-08-17T21:39:57"
+            "dataWeryfikacji": "2026-08-25T21:39:38"
           }
         ],
         "id": 118680302,
@@ -164185,7 +164314,7 @@
             "link": "/documents/20123/39846/CAM25004042_2026-02-26_2027-03-26_117147306.pdf",
             "fileHash": "21184E2AC285126CDDCAC45B7027F788",
             "liferayEntryId": 1583361,
-            "dataWeryfikacji": "2026-08-17T21:39:52"
+            "dataWeryfikacji": "2026-08-25T21:39:33"
           }
         ],
         "id": 116594640,
@@ -164785,7 +164914,7 @@
             "link": "/documents/20123/39846/CAM23003840_2025-07-07_2026-07-26_109255061.pdf",
             "fileHash": "B3F81A5AD74B651B20BF291DE594B479",
             "liferayEntryId": 1643840,
-            "dataWeryfikacji": "2026-08-18T21:38:07"
+            "dataWeryfikacji": "2026-08-25T21:38:35"
           }
         ],
         "id": 86963975,
@@ -165742,7 +165871,7 @@
             "link": "/documents/20123/39846/CAM25004022_2026-06-11_2027-07-11_120993469.pdf",
             "fileHash": "C406D7207C06EFE507F358725C2F0F05",
             "liferayEntryId": 1629864,
-            "dataWeryfikacji": "2026-08-17T21:39:56"
+            "dataWeryfikacji": "2026-08-25T21:39:37"
           }
         ],
         "id": 118679827,
@@ -165985,7 +166114,7 @@
             "link": "/documents/20123/39846/CAM22010786_2026-05-14_2027-06-14_119928671.pdf",
             "fileHash": "10AF835DC49A095EC7FE5836D5FAB754",
             "liferayEntryId": 1609803,
-            "dataWeryfikacji": "2026-08-17T21:39:31"
+            "dataWeryfikacji": "2026-08-25T21:39:14"
           },
           {
             "id": 113143762,
@@ -166000,7 +166129,7 @@
             "link": "/documents/20123/39846/CAM22010786_2025-11-04_2026-05-13_113143763.pdf",
             "fileHash": "5772983D18403654358FEF81F2C07BF8",
             "liferayEntryId": 1609787,
-            "dataWeryfikacji": "2026-08-17T21:39:31"
+            "dataWeryfikacji": "2026-08-25T21:39:13"
           }
         ],
         "id": 89607520,
@@ -167488,7 +167617,7 @@
             "link": "/documents/20123/39846/ICAR5C2502_2025-12-22_2027-01-22_115623431.pdf",
             "fileHash": "D5916DB8C1CF80686D79820ECB9C9B3B",
             "liferayEntryId": 1565970,
-            "dataWeryfikacji": "2026-08-17T21:39:48"
+            "dataWeryfikacji": "2026-08-25T21:39:29"
           },
           {
             "id": 114302652,
@@ -167503,7 +167632,7 @@
             "link": "/documents/20123/39846/ICAR5C2502_2025-12-12_2025-12-21_115649465.pdf",
             "fileHash": "0C3F424E7D471F22448030231AC17B30",
             "liferayEntryId": 1647149,
-            "dataWeryfikacji": "2026-08-17T21:39:47"
+            "dataWeryfikacji": "2026-08-25T21:39:28"
           }
         ],
         "id": 113414032,
@@ -167746,7 +167875,7 @@
             "link": "/documents/20123/39846/CAM25004021_2026-05-28_2027-06-28_120996503.pdf",
             "fileHash": "0AD68AE877D4E006EE06D5CE543F5E39",
             "liferayEntryId": 1629832,
-            "dataWeryfikacji": "2026-08-17T21:39:55"
+            "dataWeryfikacji": "2026-08-25T21:39:36"
           }
         ],
         "id": 118679807,
@@ -168460,7 +168589,7 @@
             "link": "/documents/20123/39846/CAM25004380_2026-05-28_2027-06-28_120996574.pdf",
             "fileHash": "A8036127B82D2FC56C7C4807E7AE546E",
             "liferayEntryId": 1629848,
-            "dataWeryfikacji": "2026-08-17T21:39:56"
+            "dataWeryfikacji": "2026-08-25T21:39:37"
           }
         ],
         "id": 118679818,
@@ -171793,7 +171922,7 @@
             "link": "/documents/20123/39846/CAM22010784_2025-10-28_2026-11-28_112686988.pdf",
             "fileHash": "B7EC5DCA4BB6EA6C76109441EB7FE074",
             "liferayEntryId": 1529836,
-            "dataWeryfikacji": "2026-08-17T21:39:29"
+            "dataWeryfikacji": "2026-08-25T21:39:11"
           },
           {
             "id": 100981356,
@@ -171808,7 +171937,7 @@
             "link": "/documents/20123/39846/CAM22010784_2024-10-09_2025-10-27_100981358.pdf",
             "fileHash": "3AFC0A0A107759845D2F14FFC37AF6C9",
             "liferayEntryId": 1530272,
-            "dataWeryfikacji": "2026-08-17T21:39:29"
+            "dataWeryfikacji": "2026-08-25T21:39:11"
           }
         ],
         "id": 89605843,
@@ -187921,62 +188050,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 49525536,
-        "gsm": false,
-        "lon": 21.15758333333333,
-        "lat": 51.95980555555556,
-        "kod": "CAN.PK.2.345"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.15758333333333,
-        "lat": 51.95980555555556,
-        "punktKontrolny": {
-          "id": 49525536,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.345",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "50",
-          "lokalizacjaKmDrogi": 173,
-          "lokalizacjaHmDrogi": 300,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "piaseczyński",
-          "lokalizacjaAdresGmina": "Góra Kalwaria",
-          "lokalizacjaAdresKodPocztowy": "05-530",
-          "lokalizacjaAdresMiejscowosc": "Dębówka",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 9,
-          "lokalizacjaDlugGeoSek": 27.3,
-          "lokalizacjaSzerGeoSt": 51,
-          "lokalizacjaSzerGeoMin": 57,
-          "lokalizacjaSzerGeoSek": 35.3,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 49525536,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 1466280,
         "gsm": false,
         "lon": 19.17482222222222,
@@ -188248,174 +188321,6 @@
           }
         ],
         "id": 1464120,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 39135246,
-        "gsm": false,
-        "lon": 21.24770277777778,
-        "lat": 51.86333888888889,
-        "kod": "CAN.PK.2.344"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.24770277777778,
-        "lat": 51.86333888888889,
-        "punktKontrolny": {
-          "id": 39135246,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.344",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "79",
-          "lokalizacjaKmDrogi": 41,
-          "lokalizacjaHmDrogi": 300,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "grójecki",
-          "lokalizacjaAdresGmina": "Warka",
-          "lokalizacjaAdresKodPocztowy": "05-660",
-          "lokalizacjaAdresMiejscowosc": "Ostrówek",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 14,
-          "lokalizacjaDlugGeoSek": 51.73,
-          "lokalizacjaSzerGeoSt": 51,
-          "lokalizacjaSzerGeoMin": 51,
-          "lokalizacjaSzerGeoSek": 48.02,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 39135246,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1451420,
-        "gsm": false,
-        "lon": 21.059194444444444,
-        "lat": 52.907016666666664,
-        "kod": "CAN.PK.2.142"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.059194444444444,
-        "lat": 52.907016666666664,
-        "punktKontrolny": {
-          "id": 1451420,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.142",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "57",
-          "lokalizacjaKmDrogi": 166,
-          "lokalizacjaHmDrogi": 400,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "makowski",
-          "lokalizacjaAdresGmina": "Płoniawy-Bramura",
-          "lokalizacjaAdresKodPocztowy": "06-200",
-          "lokalizacjaAdresMiejscowosc": "Młodzianowo",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 3,
-          "lokalizacjaDlugGeoSek": 33.1,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 54,
-          "lokalizacjaSzerGeoSek": 25.26,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1451420,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1450180,
-        "gsm": false,
-        "lon": 21.153055555555554,
-        "lat": 51.95788888888889,
-        "kod": "CAN.PK.2.038"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.153055555555554,
-        "lat": 51.95788888888889,
-        "punktKontrolny": {
-          "id": 1450180,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.038",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "50",
-          "lokalizacjaKmDrogi": 172,
-          "lokalizacjaHmDrogi": 900,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "piaseczyński",
-          "lokalizacjaAdresGmina": "Góra Kalwaria",
-          "lokalizacjaAdresKodPocztowy": "05-530",
-          "lokalizacjaAdresMiejscowosc": "Dębówka",
-          "lokalizacjaAdresUlica": "Grójecka",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 9,
-          "lokalizacjaDlugGeoSek": 11,
-          "lokalizacjaSzerGeoSt": 51,
-          "lokalizacjaSzerGeoMin": 57,
-          "lokalizacjaSzerGeoSek": 28.4,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1450180,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -189097,62 +189002,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 1451160,
-        "gsm": false,
-        "lon": 20.811027777777777,
-        "lat": 52.83294444444445,
-        "kod": "CAN.PK.2.129"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 20.811027777777777,
-        "lat": 52.83294444444445,
-        "punktKontrolny": {
-          "id": 1451160,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.129",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "60",
-          "lokalizacjaKmDrogi": 166,
-          "lokalizacjaHmDrogi": 900,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "ciechanowski",
-          "lokalizacjaAdresGmina": "Gołymin-Ośrodek",
-          "lokalizacjaAdresKodPocztowy": "06-420",
-          "lokalizacjaAdresMiejscowosc": "Gogole Wielkie",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 48,
-          "lokalizacjaDlugGeoSek": 39.7,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 49,
-          "lokalizacjaSzerGeoSek": 58.6,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1451160,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 17663201,
         "gsm": false,
         "lon": 21.788216666666667,
@@ -189200,62 +189049,6 @@
           }
         ],
         "id": 17663201,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1462020,
-        "gsm": false,
-        "lon": 23.5184,
-        "lat": 53.41203333333333,
-        "kod": "PNW.PK.2.019"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 23.5184,
-        "lat": 53.41203333333333,
-        "punktKontrolny": {
-          "id": 1462020,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "PNW.PK.2.019",
-          "lokalizacjaDelegatura": "Północno-Wschodnia",
-          "lokalizacjaNrDrogi": "19",
-          "lokalizacjaKmDrogi": null,
-          "lokalizacjaHmDrogi": null,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "PODLASKIE",
-          "lokalizacjaAdresPowiat": "sokólski",
-          "lokalizacjaAdresGmina": "Sokółka",
-          "lokalizacjaAdresKodPocztowy": "16-100",
-          "lokalizacjaAdresMiejscowosc": "Sokółka",
-          "lokalizacjaAdresUlica": "Grodzieńska",
-          "lokalizacjaDlugGeoSt": 23,
-          "lokalizacjaDlugGeoMin": 31,
-          "lokalizacjaDlugGeoSek": 6.24,
-          "lokalizacjaSzerGeoSt": 53,
-          "lokalizacjaSzerGeoMin": 24,
-          "lokalizacjaSzerGeoSek": 43.32,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1462020,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -189321,6 +189114,62 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
+        "id": 1462020,
+        "gsm": false,
+        "lon": 23.5184,
+        "lat": 53.41203333333333,
+        "kod": "PNW.PK.2.019"
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
+      "detail": {
+        "lon": 23.5184,
+        "lat": 53.41203333333333,
+        "punktKontrolny": {
+          "id": 1462020,
+          "lokalizacjaMiejsce": "Obszar zabudowany",
+          "lokalizacjaKod": "PNW.PK.2.019",
+          "lokalizacjaDelegatura": "Północno-Wschodnia",
+          "lokalizacjaNrDrogi": "19",
+          "lokalizacjaKmDrogi": null,
+          "lokalizacjaHmDrogi": null,
+          "lokalizacjaObszarZabudowany": true,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "PODLASKIE",
+          "lokalizacjaAdresPowiat": "sokólski",
+          "lokalizacjaAdresGmina": "Sokółka",
+          "lokalizacjaAdresKodPocztowy": "16-100",
+          "lokalizacjaAdresMiejscowosc": "Sokółka",
+          "lokalizacjaAdresUlica": "Grodzieńska",
+          "lokalizacjaDlugGeoSt": 23,
+          "lokalizacjaDlugGeoMin": 31,
+          "lokalizacjaDlugGeoSek": 6.24,
+          "lokalizacjaSzerGeoSt": 53,
+          "lokalizacjaSzerGeoMin": 24,
+          "lokalizacjaSzerGeoSek": 43.32,
+          "jestStatystyka": false,
+          "jestLimit": true
+        },
+        "limity": [
+          {
+            "limitOsobowe": "50",
+            "limitCiezarowe": "50",
+            "typ": {
+              "kierunek": "",
+              "godziny": "",
+              "kierunekPikietazu": "ROSNACY_MALEJACY"
+            }
+          }
+        ],
+        "id": 1462020,
+        "jestStatystyka": false,
+        "jestLimit": true,
+        "rodzaj": "PUNKT_KONTROLNY"
+      }
+    },
+    {
+      "category": "control_point",
+      "label": "Punkt kontrolny",
+      "summary": {
         "id": 1467560,
         "gsm": false,
         "lon": 18.454138888888888,
@@ -189377,62 +189226,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 1452620,
-        "gsm": false,
-        "lon": 21.090416666666666,
-        "lat": 52.534555555555556,
-        "kod": "CAN.PK.2.297"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.090416666666666,
-        "lat": 52.534555555555556,
-        "punktKontrolny": {
-          "id": 1452620,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.297",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "62",
-          "lokalizacjaKmDrogi": 220,
-          "lokalizacjaHmDrogi": 500,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "legionowski",
-          "lokalizacjaAdresGmina": "Serock",
-          "lokalizacjaAdresKodPocztowy": "05-140",
-          "lokalizacjaAdresMiejscowosc": "Łacha",
-          "lokalizacjaAdresUlica": "Wyszkowska",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 5,
-          "lokalizacjaDlugGeoSek": 25.5,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 32,
-          "lokalizacjaSzerGeoSek": 4.4,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1452620,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 1466480,
         "gsm": false,
         "lon": 18.932833333333335,
@@ -189480,62 +189273,6 @@
           }
         ],
         "id": 1466480,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 20453487,
-        "gsm": false,
-        "lon": 21.86175,
-        "lat": 49.57808333333334,
-        "kod": "PDW.PK.2.071"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.86175,
-        "lat": 49.57808333333334,
-        "punktKontrolny": {
-          "id": 20453487,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "PDW.PK.2.071",
-          "lokalizacjaDelegatura": "Południowo-Wschodnia",
-          "lokalizacjaNrDrogi": "28",
-          "lokalizacjaKmDrogi": 248,
-          "lokalizacjaHmDrogi": 0,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "PODKARPACKIE",
-          "lokalizacjaAdresPowiat": "krośnieński",
-          "lokalizacjaAdresGmina": "Rymanów",
-          "lokalizacjaAdresKodPocztowy": "38-480",
-          "lokalizacjaAdresMiejscowosc": "Rymanów",
-          "lokalizacjaAdresUlica": "Sanocka",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 51,
-          "lokalizacjaDlugGeoSek": 42.3,
-          "lokalizacjaSzerGeoSt": 49,
-          "lokalizacjaSzerGeoMin": 34,
-          "lokalizacjaSzerGeoSek": 41.1,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 20453487,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -189648,62 +189385,6 @@
           }
         ],
         "id": 1461820,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1456400,
-        "gsm": false,
-        "lon": 21.41133333333333,
-        "lat": 49.839400000000005,
-        "kod": "PDW.PK.2.034"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.41133333333333,
-        "lat": 49.839400000000005,
-        "punktKontrolny": {
-          "id": 1456400,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "PDW.PK.2.034",
-          "lokalizacjaDelegatura": "Południowo-Wschodnia",
-          "lokalizacjaNrDrogi": "73",
-          "lokalizacjaKmDrogi": 152,
-          "lokalizacjaHmDrogi": 660,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "PODKARPACKIE",
-          "lokalizacjaAdresPowiat": "dębicki",
-          "lokalizacjaAdresGmina": "Brzostek",
-          "lokalizacjaAdresKodPocztowy": "39-230",
-          "lokalizacjaAdresMiejscowosc": "Bukowa",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 24,
-          "lokalizacjaDlugGeoSek": 40.8,
-          "lokalizacjaSzerGeoSt": 49,
-          "lokalizacjaSzerGeoMin": 50,
-          "lokalizacjaSzerGeoSek": 21.84,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1456400,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -190208,62 +189889,6 @@
           }
         ],
         "id": 1468160,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1450400,
-        "gsm": false,
-        "lon": 21.15733333333333,
-        "lat": 52.00825,
-        "kod": "CAN.PK.2.062"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.15733333333333,
-        "lat": 52.00825,
-        "punktKontrolny": {
-          "id": 1450400,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.062",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "79",
-          "lokalizacjaKmDrogi": 22,
-          "lokalizacjaHmDrogi": 350,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "piaseczyński",
-          "lokalizacjaAdresGmina": "Góra Kalwaria",
-          "lokalizacjaAdresKodPocztowy": "05-532",
-          "lokalizacjaAdresMiejscowosc": "Tomice",
-          "lokalizacjaAdresUlica": "Puławska",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 9,
-          "lokalizacjaDlugGeoSek": 26.4,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 0,
-          "lokalizacjaSzerGeoSek": 29.7,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY"
-            }
-          }
-        ],
-        "id": 1450400,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -191057,62 +190682,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 34562737,
-        "gsm": false,
-        "lon": 20.262777777777778,
-        "lat": 52.39805555555556,
-        "kod": "CAN.PK.2.343"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 20.262777777777778,
-        "lat": 52.39805555555556,
-        "punktKontrolny": {
-          "id": 34562737,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.343",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "62",
-          "lokalizacjaKmDrogi": 159,
-          "lokalizacjaHmDrogi": 400,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "płoński",
-          "lokalizacjaAdresGmina": "Czerwińsk nad Wisłą",
-          "lokalizacjaAdresKodPocztowy": "09-150",
-          "lokalizacjaAdresMiejscowosc": "Wola",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 15,
-          "lokalizacjaDlugGeoSek": 46,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 23,
-          "lokalizacjaSzerGeoSek": 53,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 34562737,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 1467700,
         "gsm": false,
         "lon": 18.74711388888889,
@@ -191384,62 +190953,6 @@
           }
         ],
         "id": 1466520,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1450480,
-        "gsm": false,
-        "lon": 21.219527777777778,
-        "lat": 51.91788888888889,
-        "kod": "CAN.PK.2.070"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.219527777777778,
-        "lat": 51.91788888888889,
-        "punktKontrolny": {
-          "id": 1450480,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.070",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "79",
-          "lokalizacjaKmDrogi": 34,
-          "lokalizacjaHmDrogi": 700,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "piaseczyński",
-          "lokalizacjaAdresGmina": "Góra Kalwaria",
-          "lokalizacjaAdresKodPocztowy": "05-530",
-          "lokalizacjaAdresMiejscowosc": "Coniew",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 13,
-          "lokalizacjaDlugGeoSek": 10.3,
-          "lokalizacjaSzerGeoSt": 51,
-          "lokalizacjaSzerGeoMin": 55,
-          "lokalizacjaSzerGeoSek": 4.4,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1450480,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -191729,62 +191242,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 2737942,
-        "gsm": false,
-        "lon": 20.063483333333334,
-        "lat": 52.763,
-        "kod": "CAN.PK.2.328"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 20.063483333333334,
-        "lat": 52.763,
-        "punktKontrolny": {
-          "id": 2737942,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.328",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "60",
-          "lokalizacjaKmDrogi": 109,
-          "lokalizacjaHmDrogi": 800,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "płoński",
-          "lokalizacjaAdresGmina": "Raciąż",
-          "lokalizacjaAdresKodPocztowy": "09-140",
-          "lokalizacjaAdresMiejscowosc": "Żukowo-Wawrzonki",
-          "lokalizacjaAdresUlica": "Marszałka Józefa Piłsudskiego",
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 3,
-          "lokalizacjaDlugGeoSek": 48.54,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 45,
-          "lokalizacjaSzerGeoSek": 46.8,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 2737942,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 17558458,
         "gsm": false,
         "lon": 18.709833333333332,
@@ -192065,62 +191522,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 1452200,
-        "gsm": false,
-        "lon": 21.512166666666666,
-        "lat": 52.194916666666664,
-        "kod": "CAN.PK.2.263"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.512166666666666,
-        "lat": 52.194916666666664,
-        "punktKontrolny": {
-          "id": 1452200,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.263",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "92",
-          "lokalizacjaKmDrogi": 514,
-          "lokalizacjaHmDrogi": 0,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "miński",
-          "lokalizacjaAdresGmina": "Dębe Wielkie",
-          "lokalizacjaAdresKodPocztowy": "05-300",
-          "lokalizacjaAdresMiejscowosc": "Choszczówka Stojecka",
-          "lokalizacjaAdresUlica": "Warszawska",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 30,
-          "lokalizacjaDlugGeoSek": 43.8,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 11,
-          "lokalizacjaSzerGeoSek": 41.7,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1452200,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 53634891,
         "gsm": false,
         "lon": 22.151666666666664,
@@ -192289,174 +191690,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 1449860,
-        "gsm": false,
-        "lon": 21.322388888888888,
-        "lat": 52.8815,
-        "kod": "CAN.PK.2.015"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.322388888888888,
-        "lat": 52.8815,
-        "punktKontrolny": {
-          "id": 1449860,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.015",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "60",
-          "lokalizacjaKmDrogi": 204,
-          "lokalizacjaHmDrogi": 600,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "makowski",
-          "lokalizacjaAdresGmina": "Różan",
-          "lokalizacjaAdresKodPocztowy": "06-230",
-          "lokalizacjaAdresMiejscowosc": "Załuzie",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 19,
-          "lokalizacjaDlugGeoSek": 20.6,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 52,
-          "lokalizacjaSzerGeoSek": 53.4,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1449860,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1456500,
-        "gsm": false,
-        "lon": 21.70415,
-        "lat": 49.7215,
-        "kod": "PDW.PK.2.040"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.70415,
-        "lat": 49.7215,
-        "punktKontrolny": {
-          "id": 1456500,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "PDW.PK.2.040",
-          "lokalizacjaDelegatura": "Południowo-Wschodnia",
-          "lokalizacjaNrDrogi": "28",
-          "lokalizacjaKmDrogi": 226,
-          "lokalizacjaHmDrogi": 770,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "PODKARPACKIE",
-          "lokalizacjaAdresPowiat": "Krosno",
-          "lokalizacjaAdresGmina": "Krosno",
-          "lokalizacjaAdresKodPocztowy": "38-400",
-          "lokalizacjaAdresMiejscowosc": "Krosno",
-          "lokalizacjaAdresUlica": "Generała Józefa Bema",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 42,
-          "lokalizacjaDlugGeoSek": 14.94,
-          "lokalizacjaSzerGeoSt": 49,
-          "lokalizacjaSzerGeoMin": 43,
-          "lokalizacjaSzerGeoSek": 17.4,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1456500,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1456660,
-        "gsm": false,
-        "lon": 21.752716666666668,
-        "lat": 50.423449999999995,
-        "kod": "PDW.PK.2.062"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.752716666666668,
-        "lat": 50.423449999999995,
-        "punktKontrolny": {
-          "id": 1456660,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "PDW.PK.2.062",
-          "lokalizacjaDelegatura": "Południowo-Wschodnia",
-          "lokalizacjaNrDrogi": "9",
-          "lokalizacjaKmDrogi": 143,
-          "lokalizacjaHmDrogi": 520,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "PODKARPACKIE",
-          "lokalizacjaAdresPowiat": "tarnobrzeski",
-          "lokalizacjaAdresGmina": "Nowa Dęba",
-          "lokalizacjaAdresKodPocztowy": "39-460",
-          "lokalizacjaAdresMiejscowosc": "Nowa Dęba",
-          "lokalizacjaAdresUlica": "Księdza Łagockiego",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 45,
-          "lokalizacjaDlugGeoSek": 9.78,
-          "lokalizacjaSzerGeoSt": 50,
-          "lokalizacjaSzerGeoMin": 25,
-          "lokalizacjaSzerGeoSek": 24.42,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1456660,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 17558304,
         "gsm": false,
         "lon": 18.5265,
@@ -192616,62 +191849,6 @@
           }
         ],
         "id": 71112911,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 34562187,
-        "gsm": false,
-        "lon": 19.837930555555555,
-        "lat": 52.504844444444444,
-        "kod": "CAN.PK.2.342"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 19.837930555555555,
-        "lat": 52.504844444444444,
-        "punktKontrolny": {
-          "id": 34562187,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.342",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "62",
-          "lokalizacjaKmDrogi": 126,
-          "lokalizacjaHmDrogi": 800,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "płocki",
-          "lokalizacjaAdresGmina": "Słupno",
-          "lokalizacjaAdresKodPocztowy": "09-472",
-          "lokalizacjaAdresMiejscowosc": "Słupno",
-          "lokalizacjaAdresUlica": "Warszawaska",
-          "lokalizacjaDlugGeoSt": 19,
-          "lokalizacjaDlugGeoMin": 50,
-          "lokalizacjaDlugGeoSek": 16.55,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 30,
-          "lokalizacjaSzerGeoSek": 17.44,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 34562187,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -192961,174 +192138,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 1450060,
-        "gsm": false,
-        "lon": 21.001472222222223,
-        "lat": 52.83847222222222,
-        "kod": "CAN.PK.2.026"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.001472222222223,
-        "lat": 52.83847222222222,
-        "punktKontrolny": {
-          "id": 1450060,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.026",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "60",
-          "lokalizacjaKmDrogi": 181,
-          "lokalizacjaHmDrogi": 800,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "makowski",
-          "lokalizacjaAdresGmina": "Karniewo",
-          "lokalizacjaAdresKodPocztowy": "06-425",
-          "lokalizacjaAdresMiejscowosc": "Karniewo",
-          "lokalizacjaAdresUlica": "Makowska",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 0,
-          "lokalizacjaDlugGeoSek": 5.3,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 50,
-          "lokalizacjaSzerGeoSek": 18.5,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1450060,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1449980,
-        "gsm": false,
-        "lon": 20.222777777777775,
-        "lat": 52.47361111111111,
-        "kod": "CAN.PK.2.021"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 20.222777777777775,
-        "lat": 52.47361111111111,
-        "punktKontrolny": {
-          "id": 1449980,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.021",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "50",
-          "lokalizacjaKmDrogi": 53,
-          "lokalizacjaHmDrogi": 200,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "płocki",
-          "lokalizacjaAdresGmina": "Wyszogród",
-          "lokalizacjaAdresKodPocztowy": "09-450",
-          "lokalizacjaAdresMiejscowosc": "Kobylniki",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 13,
-          "lokalizacjaDlugGeoSek": 22,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 28,
-          "lokalizacjaSzerGeoSek": 25,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1449980,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 49854899,
-        "gsm": false,
-        "lon": 21.62625,
-        "lat": 52.54966666666667,
-        "kod": "CAN.PK.2.347"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.62625,
-        "lat": 52.54966666666667,
-        "punktKontrolny": {
-          "id": 49854899,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.347",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "62",
-          "lokalizacjaKmDrogi": 258,
-          "lokalizacjaHmDrogi": 900,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "węgrowski",
-          "lokalizacjaAdresGmina": "Łochów",
-          "lokalizacjaAdresKodPocztowy": "07-130",
-          "lokalizacjaAdresMiejscowosc": "Gwizdały",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 37,
-          "lokalizacjaDlugGeoSek": 34.5,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 32,
-          "lokalizacjaSzerGeoSek": 58.8,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 49854899,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 76844574,
         "gsm": false,
         "lon": 16.299444444444447,
@@ -193344,62 +192353,6 @@
           }
         ],
         "id": 1463260,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1452700,
-        "gsm": false,
-        "lon": 21.422983333333335,
-        "lat": 52.58748333333334,
-        "kod": "CAN.PK.2.301"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.422983333333335,
-        "lat": 52.58748333333334,
-        "punktKontrolny": {
-          "id": 1452700,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.301",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "62",
-          "lokalizacjaKmDrogi": 243,
-          "lokalizacjaHmDrogi": 900,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "wyszkowski",
-          "lokalizacjaAdresGmina": "Wyszków",
-          "lokalizacjaAdresKodPocztowy": "07-200",
-          "lokalizacjaAdresMiejscowosc": "Rybienko Nowe",
-          "lokalizacjaAdresUlica": "Serocka",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 25,
-          "lokalizacjaDlugGeoSek": 22.74,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 35,
-          "lokalizacjaSzerGeoSek": 14.94,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1452700,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -193792,62 +192745,6 @@
           }
         ],
         "id": 1458120,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1452720,
-        "gsm": false,
-        "lon": 21.625694444444445,
-        "lat": 52.54977777777778,
-        "kod": "CAN.PK.2.302"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.625694444444445,
-        "lat": 52.54977777777778,
-        "punktKontrolny": {
-          "id": 1452720,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.302",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "62",
-          "lokalizacjaKmDrogi": 258,
-          "lokalizacjaHmDrogi": 800,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "węgrowski",
-          "lokalizacjaAdresGmina": "Łochów",
-          "lokalizacjaAdresKodPocztowy": "07-130",
-          "lokalizacjaAdresMiejscowosc": "Gwizdały",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 37,
-          "lokalizacjaDlugGeoSek": 32.5,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 32,
-          "lokalizacjaSzerGeoSek": 59.2,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1452720,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -194417,62 +193314,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 2737707,
-        "gsm": false,
-        "lon": 20.285050000000002,
-        "lat": 52.62328333333333,
-        "kod": "CAN.PK.2.322"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 20.285050000000002,
-        "lat": 52.62328333333333,
-        "punktKontrolny": {
-          "id": 2737707,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.322",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "10",
-          "lokalizacjaKmDrogi": 444,
-          "lokalizacjaHmDrogi": 230,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "płoński",
-          "lokalizacjaAdresGmina": "Dzierzążnia",
-          "lokalizacjaAdresKodPocztowy": "09-164",
-          "lokalizacjaAdresMiejscowosc": "Siekluki",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 17,
-          "lokalizacjaDlugGeoSek": 6.18,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 37,
-          "lokalizacjaSzerGeoSek": 23.82,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 2737707,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 1462200,
         "gsm": false,
         "lon": 21.2699,
@@ -194977,62 +193818,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 27387003,
-        "gsm": false,
-        "lon": 22.458194444444445,
-        "lat": 49.47108333333333,
-        "kod": "PDW.PK.2.073"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 22.458194444444445,
-        "lat": 49.47108333333333,
-        "punktKontrolny": {
-          "id": 27387003,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "PDW.PK.2.073",
-          "lokalizacjaDelegatura": "Południowo-Wschodnia",
-          "lokalizacjaNrDrogi": "84",
-          "lokalizacjaKmDrogi": 26,
-          "lokalizacjaHmDrogi": 680,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "PODKARPACKIE",
-          "lokalizacjaAdresPowiat": "leski",
-          "lokalizacjaAdresGmina": "Olszanica",
-          "lokalizacjaAdresKodPocztowy": "38-722",
-          "lokalizacjaAdresMiejscowosc": "Olszanica",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 22,
-          "lokalizacjaDlugGeoMin": 27,
-          "lokalizacjaDlugGeoSek": 29.5,
-          "lokalizacjaSzerGeoSt": 49,
-          "lokalizacjaSzerGeoMin": 28,
-          "lokalizacjaSzerGeoSek": 15.9,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 27387003,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 76844334,
         "gsm": false,
         "lon": 15.570277777777777,
@@ -195192,62 +193977,6 @@
           }
         ],
         "id": 1457660,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1450920,
-        "gsm": false,
-        "lon": 20.549175,
-        "lat": 52.77297222222222,
-        "kod": "CAN.PK.2.112"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 20.549175,
-        "lat": 52.77297222222222,
-        "punktKontrolny": {
-          "id": 1450920,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.112",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "50",
-          "lokalizacjaKmDrogi": 14,
-          "lokalizacjaHmDrogi": 300,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "ciechanowski",
-          "lokalizacjaAdresGmina": "Ojrzeń",
-          "lokalizacjaAdresKodPocztowy": "06-456",
-          "lokalizacjaAdresMiejscowosc": "Ojrzeń",
-          "lokalizacjaAdresUlica": "Ciechanowska",
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 32,
-          "lokalizacjaDlugGeoSek": 57.03,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 46,
-          "lokalizacjaSzerGeoSek": 22.7,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1450920,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -195696,62 +194425,6 @@
           }
         ],
         "id": 59079884,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1456540,
-        "gsm": false,
-        "lon": 21.863183333333335,
-        "lat": 50.888133333333336,
-        "kod": "PDW.PK.2.044"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.863183333333335,
-        "lat": 50.888133333333336,
-        "punktKontrolny": {
-          "id": 1456540,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "PDW.PK.2.044",
-          "lokalizacjaDelegatura": "Południowo-Wschodnia",
-          "lokalizacjaNrDrogi": "74",
-          "lokalizacjaKmDrogi": 177,
-          "lokalizacjaHmDrogi": 650,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "LUBELSKIE",
-          "lokalizacjaAdresPowiat": "kraśnicki",
-          "lokalizacjaAdresGmina": "Annopol",
-          "lokalizacjaAdresKodPocztowy": "23-235",
-          "lokalizacjaAdresMiejscowosc": "Annopol",
-          "lokalizacjaAdresUlica": "Lubelska",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 51,
-          "lokalizacjaDlugGeoSek": 47.46,
-          "lokalizacjaSzerGeoSt": 50,
-          "lokalizacjaSzerGeoMin": 53,
-          "lokalizacjaSzerGeoSek": 17.28,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1456540,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
@@ -196433,118 +195106,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 52814405,
-        "gsm": false,
-        "lon": 21.103361111111113,
-        "lat": 51.64875,
-        "kod": "CAN.PK.2.348"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.103361111111113,
-        "lat": 51.64875,
-        "punktKontrolny": {
-          "id": 52814405,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.348",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "48",
-          "lokalizacjaKmDrogi": 91,
-          "lokalizacjaHmDrogi": 200,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "białobrzeski",
-          "lokalizacjaAdresGmina": "Stromiec",
-          "lokalizacjaAdresKodPocztowy": "26-804",
-          "lokalizacjaAdresMiejscowosc": "Stromiec",
-          "lokalizacjaAdresUlica": "Białobrzeska",
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 6,
-          "lokalizacjaDlugGeoSek": 12.1,
-          "lokalizacjaSzerGeoSt": 51,
-          "lokalizacjaSzerGeoMin": 38,
-          "lokalizacjaSzerGeoSek": 55.5,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 52814405,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1452520,
-        "gsm": false,
-        "lon": 20.97822222222222,
-        "lat": 52.42669444444444,
-        "kod": "CAN.PK.2.280"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 20.97822222222222,
-        "lat": 52.42669444444444,
-        "punktKontrolny": {
-          "id": 1452520,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.280",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "61",
-          "lokalizacjaKmDrogi": 27,
-          "lokalizacjaHmDrogi": 100,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "legionowski",
-          "lokalizacjaAdresGmina": "Legionowo",
-          "lokalizacjaAdresKodPocztowy": "05-119",
-          "lokalizacjaAdresMiejscowosc": "Michałów Reginów",
-          "lokalizacjaAdresUlica": "Warszawska",
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 58,
-          "lokalizacjaDlugGeoSek": 41.6,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 25,
-          "lokalizacjaSzerGeoSek": 36.1,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1452520,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 17664309,
         "gsm": false,
         "lon": 20.9494,
@@ -196713,62 +195274,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 1452400,
-        "gsm": false,
-        "lon": 21.68005555555556,
-        "lat": 52.524499999999996,
-        "kod": "CAN.PK.2.274"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 21.68005555555556,
-        "lat": 52.524499999999996,
-        "punktKontrolny": {
-          "id": 1452400,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.274",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "50",
-          "lokalizacjaKmDrogi": 254,
-          "lokalizacjaHmDrogi": 300,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "węgrowski",
-          "lokalizacjaAdresGmina": "Łochów",
-          "lokalizacjaAdresKodPocztowy": "07-130",
-          "lokalizacjaAdresMiejscowosc": "Łochów",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 21,
-          "lokalizacjaDlugGeoMin": 40,
-          "lokalizacjaDlugGeoSek": 48.2,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 31,
-          "lokalizacjaSzerGeoSek": 28.2,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1452400,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 83492459,
         "gsm": false,
         "lon": 22.583969444444442,
@@ -196825,62 +195330,6 @@
       "category": "control_point",
       "label": "Punkt kontrolny",
       "summary": {
-        "id": 1452120,
-        "gsm": false,
-        "lon": 20.171222222222223,
-        "lat": 52.199838888888884,
-        "kod": "CAN.PK.1.257"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 20.171222222222223,
-        "lat": 52.199838888888884,
-        "punktKontrolny": {
-          "id": 1452120,
-          "lokalizacjaMiejsce": "Obszar niezabudowany",
-          "lokalizacjaKod": "CAN.PK.1.257",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "92",
-          "lokalizacjaKmDrogi": 417,
-          "lokalizacjaHmDrogi": 500,
-          "lokalizacjaObszarZabudowany": false,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "sochaczewski",
-          "lokalizacjaAdresGmina": "Rybno",
-          "lokalizacjaAdresKodPocztowy": "96-514",
-          "lokalizacjaAdresMiejscowosc": "Karolków",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 10,
-          "lokalizacjaDlugGeoSek": 16.4,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 11,
-          "lokalizacjaSzerGeoSek": 59.42,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "70",
-            "limitCiezarowe": "70",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1452120,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
         "id": 1464920,
         "gsm": false,
         "lon": 15.773611111111112,
@@ -196928,62 +195377,6 @@
           }
         ],
         "id": 1464920,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "PUNKT_KONTROLNY"
-      }
-    },
-    {
-      "category": "control_point",
-      "label": "Punkt kontrolny",
-      "summary": {
-        "id": 1451880,
-        "gsm": false,
-        "lon": 20.75275,
-        "lat": 52.21161666666667,
-        "kod": "CAN.PK.2.236"
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PK",
-      "detail": {
-        "lon": 20.75275,
-        "lat": 52.21161666666667,
-        "punktKontrolny": {
-          "id": 1451880,
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "CAN.PK.2.236",
-          "lokalizacjaDelegatura": "Centrum Automatycznego Nadzoru nad ruchem drogowym",
-          "lokalizacjaNrDrogi": "92",
-          "lokalizacjaKmDrogi": 459,
-          "lokalizacjaHmDrogi": 200,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": true,
-          "lokalizacjaAdresWojewodztwo": "MAZOWIECKIE",
-          "lokalizacjaAdresPowiat": "warszawski zachodni",
-          "lokalizacjaAdresGmina": "Ożarów Mazowiecki",
-          "lokalizacjaAdresKodPocztowy": "05-850",
-          "lokalizacjaAdresMiejscowosc": "Ołtarzew",
-          "lokalizacjaAdresUlica": "Poznańska",
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 45,
-          "lokalizacjaDlugGeoSek": 9.9,
-          "lokalizacjaSzerGeoSt": 52,
-          "lokalizacjaSzerGeoMin": 12,
-          "lokalizacjaSzerGeoSek": 41.82,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY_MALEJACY"
-            }
-          }
-        ],
-        "id": 1451880,
         "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "PUNKT_KONTROLNY"
