@@ -1,5 +1,5 @@
 {
-  "count": 925,
+  "count": 931,
   "records": [
     {
       "category": "point_speed",
@@ -682,7 +682,7 @@
             "link": "/documents/20123/39846/593-072-73160_2025-11-05_2026-12-05_112884181.pdf",
             "fileHash": "86551E6D5A31B7FE3971FA2089DE95C2",
             "liferayEntryId": 1532563,
-            "dataWeryfikacji": "2026-08-19T21:38:21"
+            "dataWeryfikacji": "2026-08-27T21:38:18"
           },
           {
             "id": 100851346,
@@ -697,7 +697,7 @@
             "link": "/documents/20123/39846/593-072-73160_2024-10-09_2025-11-04_100851347.pdf",
             "fileHash": "E92410303F7B2F5CF813705C15D91BC2",
             "liferayEntryId": 1535111,
-            "dataWeryfikacji": "2026-08-19T21:38:20"
+            "dataWeryfikacji": "2026-08-27T21:38:18"
           }
         ],
         "id": 69598266,
@@ -1537,6 +1537,120 @@
       "category": "point_speed",
       "label": "Pomiar punktowy",
       "summary": {
+        "id": 117828286,
+        "lon": 16.52811111111111,
+        "lat": 53.29830555555555,
+        "rodzajPomiaru": "PP",
+        "nrSeryjny": "643294-60051",
+        "lok2PktDlugosc": null,
+        "lok2PktSzerokosc": null
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PP",
+      "detail": {
+        "lon": 16.52811111111111,
+        "lat": 53.29830555555555,
+        "urzadzenie": {
+          "id": 117828286,
+          "nrSeryjny": "643294-60051",
+          "typUrzadzenia": "TraffiStar SR390",
+          "rodzajPomiaru": "PP",
+          "producent": "Jenoptik Robot",
+          "rokProdukcji": 2024,
+          "temperaturaPracyMax": 60,
+          "temperaturaPracyMin": -20,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar zabudowany",
+          "lokalizacjaKod": "PNZ.2.108",
+          "lokalizacjaDelegatura": "Północno-Zachodnia",
+          "lokalizacjaNrDrogi": "22",
+          "lokalizacjaKmDrogi": 171,
+          "lokalizacjaHmDrogi": 858,
+          "lokalizacjaObszarZabudowany": true,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "ZACHODNIOPOMORSKIE",
+          "lokalizacjaAdresPowiat": "wałecki",
+          "lokalizacjaAdresGmina": "Wałcz",
+          "lokalizacjaAdresKodPocztowy": "78-600",
+          "lokalizacjaAdresMiejscowosc": "Ostrowiec",
+          "lokalizacjaAdresUlica": null,
+          "lokalizacjaDlugGeoSt": 16,
+          "lokalizacjaDlugGeoMin": 31,
+          "lokalizacjaDlugGeoSek": 41.2,
+          "lokalizacjaSzerGeoSt": 53,
+          "lokalizacjaSzerGeoMin": 17,
+          "lokalizacjaSzerGeoSek": 53.9,
+          "masztNrSeryjny": "LIFSR 008",
+          "masztTypUrzadzenia": "TraffiCompact",
+          "masztProducent": "Jenoptik Robot",
+          "masztRokProdukcji": 2025,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -20,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": "2027-04-25",
+          "dlugoscOdcinka1": null,
+          "dlugoscOdcinka2": null,
+          "dlugoscOdcinka1Str": null,
+          "dlugoscOdcinka2Str": null,
+          "nazwaKierunku1": null,
+          "nazwaKierunku2": null,
+          "lokalizacjaDrugiegoPunktu": null,
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": null,
+          "hmDrugiPunkt": null,
+          "dlugGeoStDp": null,
+          "dlugGeoMisDp": null,
+          "dlugGeoSekDp": null,
+          "szerGeoStDp": null,
+          "szerGeoMinDp": null,
+          "szerGeoSekDp": null,
+          "mobilne": false,
+          "jestStatystyka": false,
+          "jestLimit": true
+        },
+        "limity": [
+          {
+            "limitOsobowe": "50",
+            "limitCiezarowe": "50",
+            "typ": {
+              "kierunek": "",
+              "godziny": "",
+              "kierunekPikietazu": "MALEJACY"
+            }
+          }
+        ],
+        "swiadectwaLegalizacji": [
+          {
+            "id": 117828347,
+            "idUrzadzenia": 117828286,
+            "numerDokumentu": "OUM05.WL.45.499.2026",
+            "rodzajDokumentu": "Świadectwo legalizacji pierwotnej",
+            "dataWydania": "2026-03-25",
+            "dataWaznosci": "2027-04-25",
+            "zalacznikId": 117828348,
+            "zalacznikNazwa": "SR 390_60051_20270425.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60051_2026-03-25_2027-04-25_117828348.pdf",
+            "fileHash": "8583BE37B390427A49AC87B9861B4BE0",
+            "liferayEntryId": 1588367,
+            "dataWeryfikacji": "2026-08-23T21:39:58"
+          }
+        ],
+        "id": 117828286,
+        "brdW1DaneZOkresu": [],
+        "brdW2DaneSredniaPerMiesiac": [],
+        "brdW3DaneSumaPerMiesiac": [],
+        "brdW4DaneSumaPerOkres": [],
+        "jestStatystyka": false,
+        "jestLimit": true,
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "point_speed",
+      "label": "Pomiar punktowy",
+      "summary": {
         "id": 28371801,
         "lon": 20.958183333333334,
         "lat": 52.33806388888889,
@@ -1649,7 +1763,7 @@
             "link": "/documents/20123/39846/593-072_71601_2025-07-02_2026-07-21_109097512.pdf",
             "fileHash": "5311905A5FB3FF42AFC0E6248278C9CE",
             "liferayEntryId": 1640895,
-            "dataWeryfikacji": "2026-08-19T21:38:14"
+            "dataWeryfikacji": "2026-08-27T21:38:11"
           }
         ],
         "id": 28371801,
@@ -2818,6 +2932,135 @@
           }
         ],
         "jestStatystyka": true,
+        "jestLimit": true,
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "point_speed",
+      "label": "Pomiar punktowy",
+      "summary": {
+        "id": 112450441,
+        "lon": 16.620308333333334,
+        "lat": 52.45772222222222,
+        "rodzajPomiaru": "PP",
+        "nrSeryjny": "643294-60058",
+        "lok2PktDlugosc": null,
+        "lok2PktSzerokosc": null
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PP",
+      "detail": {
+        "lon": 16.620308333333334,
+        "lat": 52.45772222222222,
+        "urzadzenie": {
+          "id": 112450441,
+          "nrSeryjny": "643294-60058",
+          "typUrzadzenia": "TraffiStar SR390",
+          "rodzajPomiaru": "PP",
+          "producent": "Jenoptik Robot",
+          "rokProdukcji": 2025,
+          "temperaturaPracyMax": 60,
+          "temperaturaPracyMin": -20,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar niezabudowany",
+          "lokalizacjaKod": "WLK.1.083",
+          "lokalizacjaDelegatura": "Wielkopolska",
+          "lokalizacjaNrDrogi": "92",
+          "lokalizacjaKmDrogi": 157,
+          "lokalizacjaHmDrogi": 297,
+          "lokalizacjaObszarZabudowany": false,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "WIELKOPOLSKIE",
+          "lokalizacjaAdresPowiat": "poznański",
+          "lokalizacjaAdresGmina": "Tarnowo Podgórne",
+          "lokalizacjaAdresKodPocztowy": null,
+          "lokalizacjaAdresMiejscowosc": "Rumianek",
+          "lokalizacjaAdresUlica": null,
+          "lokalizacjaDlugGeoSt": 16,
+          "lokalizacjaDlugGeoMin": 37,
+          "lokalizacjaDlugGeoSek": 13.11,
+          "lokalizacjaSzerGeoSt": 52,
+          "lokalizacjaSzerGeoMin": 27,
+          "lokalizacjaSzerGeoSek": 27.8,
+          "masztNrSeryjny": "LIFSR 009",
+          "masztTypUrzadzenia": "TraffiCompact",
+          "masztProducent": "Jenoptik Robot",
+          "masztRokProdukcji": 2025,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -20,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": "2027-09-26",
+          "dlugoscOdcinka1": null,
+          "dlugoscOdcinka2": null,
+          "dlugoscOdcinka1Str": null,
+          "dlugoscOdcinka2Str": null,
+          "nazwaKierunku1": null,
+          "nazwaKierunku2": null,
+          "lokalizacjaDrugiegoPunktu": null,
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": null,
+          "hmDrugiPunkt": null,
+          "dlugGeoStDp": null,
+          "dlugGeoMisDp": null,
+          "dlugGeoSekDp": null,
+          "szerGeoStDp": null,
+          "szerGeoMinDp": null,
+          "szerGeoSekDp": null,
+          "mobilne": false,
+          "jestStatystyka": false,
+          "jestLimit": true
+        },
+        "limity": [
+          {
+            "limitOsobowe": "50",
+            "limitCiezarowe": "50",
+            "typ": {
+              "kierunek": "",
+              "godziny": "",
+              "kierunekPikietazu": "MALEJACY"
+            }
+          }
+        ],
+        "swiadectwaLegalizacji": [
+          {
+            "id": 124329714,
+            "idUrzadzenia": 112450441,
+            "numerDokumentu": "OUM05.WL.45.1119.2026.20",
+            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
+            "dataWydania": "2026-08-26",
+            "dataWaznosci": "2027-09-26",
+            "zalacznikId": 124329715,
+            "zalacznikNazwa": "tsr_390_60058_20270926.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60058_2026-08-26_2027-09-26_124329715.pdf",
+            "fileHash": "9CA1B8504A7AE72A765374CC99F9D09C",
+            "liferayEntryId": 1656735,
+            "dataWeryfikacji": "2026-08-27T21:39:42"
+          },
+          {
+            "id": 113394458,
+            "idUrzadzenia": 112450441,
+            "numerDokumentu": "OUM05.WL.45.1098.2025.4",
+            "rodzajDokumentu": "Świadectwo legalizacji pierwotnej",
+            "dataWydania": "2025-08-01",
+            "dataWaznosci": "2026-09-01",
+            "zalacznikId": 113394459,
+            "zalacznikNazwa": "SR_60058_20260901.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60058_2025-08-01_2026-09-01_113394459.pdf",
+            "fileHash": "C65FBBB4CA125AEE2ACC4CAFAF17C815",
+            "liferayEntryId": 1539478,
+            "dataWeryfikacji": "2026-08-22T21:38:58"
+          }
+        ],
+        "id": 112450441,
+        "brdW1DaneZOkresu": [],
+        "brdW2DaneSredniaPerMiesiac": [],
+        "brdW3DaneSumaPerMiesiac": [],
+        "brdW4DaneSumaPerOkres": [],
+        "jestStatystyka": false,
         "jestLimit": true,
         "rodzaj": "URZADZENIE"
       }
@@ -4341,7 +4584,7 @@
             "link": "/documents/20123/39846/593-072-73179_2025-12-03_2027-01-03_113854896.pdf",
             "fileHash": "6560E90AEFDAFD762E3D8B13BACB2188",
             "liferayEntryId": 1544414,
-            "dataWeryfikacji": "2026-08-19T21:38:33"
+            "dataWeryfikacji": "2026-08-27T21:38:31"
           },
           {
             "id": 102160914,
@@ -4356,7 +4599,7 @@
             "link": "/documents/20123/39846/593-072-73179_2024-11-20_2025-12-02_102160915.pdf",
             "fileHash": "293FE69FE508E889B943F72A9CC8DF5C",
             "liferayEntryId": 1549026,
-            "dataWeryfikacji": "2026-08-19T21:38:33"
+            "dataWeryfikacji": "2026-08-27T21:38:30"
           }
         ],
         "id": 70721457,
@@ -6597,7 +6840,7 @@
             "link": "/documents/20123/39846/593-072-73192_2026-01-28_2027-02-28_115579348.pdf",
             "fileHash": "811B127C781ACC0E1267D91F3C2F912B",
             "liferayEntryId": 1565659,
-            "dataWeryfikacji": "2026-08-19T21:38:48"
+            "dataWeryfikacji": "2026-08-27T21:38:45"
           },
           {
             "id": 103149021,
@@ -6612,7 +6855,7 @@
             "link": "/documents/20123/39846/593-072-73192_2024-12-20_2026-01-20_103149022.PDF",
             "fileHash": "2EF02558EAAB379E262814B48706095E",
             "liferayEntryId": 1410502,
-            "dataWeryfikacji": "2026-08-19T21:38:48"
+            "dataWeryfikacji": "2026-08-27T21:38:45"
           }
         ],
         "id": 72153956,
@@ -7306,7 +7549,7 @@
             "link": "/documents/20123/39846/593-072-73169_2026-06-03_2027-07-03_120696557.pdf",
             "fileHash": "A5427B05FFB1E05EA9A2284194E07245",
             "liferayEntryId": 1618160,
-            "dataWeryfikacji": "2026-08-19T21:38:23"
+            "dataWeryfikacji": "2026-08-27T21:38:20"
           },
           {
             "id": 107323948,
@@ -7321,7 +7564,7 @@
             "link": "/documents/20123/39846/593-072-73169_2025-05-07_2026-06-02_107323949.pdf",
             "fileHash": "44A019B8ED59C7596BAF229B2CB85B02",
             "liferayEntryId": 1618144,
-            "dataWeryfikacji": "2026-08-19T21:38:22"
+            "dataWeryfikacji": "2026-08-27T21:38:20"
           }
         ],
         "id": 69598339,
@@ -10028,7 +10271,7 @@
             "link": "/documents/20123/39846/23114FU10003627_2025-07-15_2026-08-12_109545167.pdf",
             "fileHash": "306832BEC0E4682BC78DBC1EC850F5AB",
             "liferayEntryId": 1653462,
-            "dataWeryfikacji": "2026-08-19T21:39:23"
+            "dataWeryfikacji": "2026-08-27T21:39:15"
           }
         ],
         "id": 87064157,
@@ -14703,7 +14946,7 @@
             "link": "/documents/20123/39846/593-072-73260_2026-07-01_2027-08-01_121806779.pdf",
             "fileHash": "831FE4FA24E62EC365F6EADED7918A40",
             "liferayEntryId": 1631920,
-            "dataWeryfikacji": "2026-08-19T21:39:06"
+            "dataWeryfikacji": "2026-08-27T21:39:03"
           },
           {
             "id": 108213570,
@@ -15541,7 +15784,7 @@
             "link": "/documents/20123/39846/593-072-73283_2026-07-01_2027-08-01_121807286.pdf",
             "fileHash": "4A4F7AABFAC5A81A929E287538E77E92",
             "liferayEntryId": 1631952,
-            "dataWeryfikacji": "2026-08-19T21:39:11"
+            "dataWeryfikacji": "2026-08-27T21:39:08"
           },
           {
             "id": 108213413,
@@ -16265,7 +16508,7 @@
             "link": "/documents/20123/39846/23114FU10003625_2025-07-15_2026-08-12_109545014.pdf",
             "fileHash": "BEAC1EA97CCFB24A14BDEFE1DCA5217C",
             "liferayEntryId": 1653446,
-            "dataWeryfikacji": "2026-08-19T21:39:19"
+            "dataWeryfikacji": "2026-08-27T21:39:14"
           }
         ],
         "id": 87064091,
@@ -19666,7 +19909,7 @@
             "link": "/documents/20123/39846/593-072-73190_2026-01-14_2027-02-14_115159235.pdf",
             "fileHash": "5034DDEE2E103C8E6D0BCD835B7A010B",
             "liferayEntryId": 1560602,
-            "dataWeryfikacji": "2026-08-19T21:38:46"
+            "dataWeryfikacji": "2026-08-27T21:38:43"
           },
           {
             "id": 102908766,
@@ -19681,7 +19924,7 @@
             "link": "/documents/20123/39846/593-072-73190_2024-12-13_2026-01-13_102908767.PDF",
             "fileHash": "30E9B71542EED25DCB3EC0F2046B3421",
             "liferayEntryId": 1408009,
-            "dataWeryfikacji": "2026-08-19T21:38:46"
+            "dataWeryfikacji": "2026-08-27T21:38:43"
           }
         ],
         "id": 72153935,
@@ -20876,7 +21119,7 @@
             "link": "/documents/20123/39846/593-072-73303_2025-08-20_2026-09-20_110614452.pdf",
             "fileHash": "5C06F5027DC817EF5B782FC47FAA03C5",
             "liferayEntryId": 1499236,
-            "dataWeryfikacji": "2026-08-19T21:39:43"
+            "dataWeryfikacji": "2026-08-27T21:39:28"
           },
           {
             "id": 98636901,
@@ -20891,7 +21134,7 @@
             "link": "/documents/20123/39846/593-072-73303_2024-07-31_2025-08-19_98636903.pdf",
             "fileHash": "CDBF7C942A3B464F72F357C71910B1EF",
             "liferayEntryId": 1500984,
-            "dataWeryfikacji": "2026-08-19T21:39:42"
+            "dataWeryfikacji": "2026-08-27T21:39:27"
           }
         ],
         "id": 88686064,
@@ -21714,7 +21957,7 @@
             "link": "/documents/20123/39846/593-072-73245_2026-05-13_2027-06-13_119685017.pdf",
             "fileHash": "BDCBCF115263708828073014B2CDD052",
             "liferayEntryId": 1606465,
-            "dataWeryfikacji": "2026-08-19T21:38:55"
+            "dataWeryfikacji": "2026-08-27T21:38:53"
           },
           {
             "id": 106685603,
@@ -25680,7 +25923,7 @@
             "link": "/documents/20123/39846/23144FU10003707_2026-07-30_2027-08-30_123549402.pdf",
             "fileHash": "FFA1842DCD9FF6F8929D23607EF93B78",
             "liferayEntryId": 1648810,
-            "dataWeryfikacji": "2026-08-19T21:39:48"
+            "dataWeryfikacji": "2026-08-27T21:39:31"
           },
           {
             "id": 109384253,
@@ -26260,7 +26503,7 @@
             "link": "/documents/20123/39846/643294-60070_2026-05-13_2027-06-13_119685144.pdf",
             "fileHash": "31FBBBB7344EB1D1AA0A34A275815D0C",
             "liferayEntryId": 1606529,
-            "dataWeryfikacji": "2026-08-19T21:39:51"
+            "dataWeryfikacji": "2026-08-27T21:39:44"
           },
           {
             "id": 114848291,
@@ -27678,7 +27921,7 @@
             "link": "/documents/20123/39846/593-072-73166_2025-11-05_2026-12-05_112884206.pdf",
             "fileHash": "7B24BBDF2431D8D397E5AB7B0FEC673F",
             "liferayEntryId": 1532579,
-            "dataWeryfikacji": "2026-08-19T21:38:31"
+            "dataWeryfikacji": "2026-08-27T21:38:29"
           },
           {
             "id": 100850853,
@@ -27693,7 +27936,7 @@
             "link": "/documents/20123/39846/593-072-73166_2024-10-09_2025-11-04_100850855.pdf",
             "fileHash": "736CE4DFCE1C5FF49EC24AA6E4D0FA2C",
             "liferayEntryId": 1535143,
-            "dataWeryfikacji": "2026-08-19T21:38:31"
+            "dataWeryfikacji": "2026-08-27T21:38:28"
           }
         ],
         "id": 70719120,
@@ -28501,7 +28744,7 @@
             "link": "/documents/20123/39846/643294-60072_2025-11-28_2026-12-28_114848702.pdf",
             "fileHash": "2B9F576E6A52C4A16752075C58FDBEBF",
             "liferayEntryId": 1578052,
-            "dataWeryfikacji": "2026-08-19T21:39:51"
+            "dataWeryfikacji": "2026-08-27T21:39:45"
           }
         ],
         "id": 114847866,
@@ -29582,7 +29825,7 @@
             "link": "/documents/20123/39846/643294-60066_2026-05-13_2027-06-13_119685105.pdf",
             "fileHash": "17AF0BA288D5F92E705109ADB939FBA9",
             "liferayEntryId": 1606513,
-            "dataWeryfikacji": "2026-08-19T21:39:50"
+            "dataWeryfikacji": "2026-08-27T21:39:43"
           },
           {
             "id": 114106849,
@@ -30693,7 +30936,7 @@
             "link": "/documents/20123/39846/593-072-73253_2025-05-21_2026-06-16_107740048.pdf",
             "fileHash": "331CE0D7016FE13FF4A0B7E04A911350",
             "liferayEntryId": 1626392,
-            "dataWeryfikacji": "2026-08-19T21:39:00"
+            "dataWeryfikacji": "2026-08-27T21:38:57"
           }
         ],
         "id": 85248784,
@@ -32919,7 +33162,7 @@
             "link": "/documents/20123/39846/643294-60111_2026-05-08_2027-06-08_119541259.pdf",
             "fileHash": "13E79B82EDFF1E4380366D7E74CA59BC",
             "liferayEntryId": 1635171,
-            "dataWeryfikacji": "2026-08-19T21:39:58"
+            "dataWeryfikacji": "2026-08-27T21:39:51"
           }
         ],
         "id": 119533375,
@@ -34144,7 +34387,7 @@
             "link": "/documents/20123/39846/593-072-73174_2025-07-02_2026-07-21_109097606.pdf",
             "fileHash": "3493BFCA1BD668200F95012FB1A2C618",
             "liferayEntryId": 1640911,
-            "dataWeryfikacji": "2026-08-19T21:38:24"
+            "dataWeryfikacji": "2026-08-27T21:38:22"
           }
         ],
         "id": 69606009,
@@ -34258,7 +34501,7 @@
             "link": "/documents/20123/39846/593-072-73246_2026-05-13_2027-06-13_119684988.pdf",
             "fileHash": "4597AE9A7141CC39C85EF46C0995EE7F",
             "liferayEntryId": 1606481,
-            "dataWeryfikacji": "2026-08-19T21:38:56"
+            "dataWeryfikacji": "2026-08-27T21:38:53"
           },
           {
             "id": 106685688,
@@ -38770,7 +39013,7 @@
             "link": "/documents/20123/39846/593-072-73182_2025-05-29_2026-06-23_108002152.pdf",
             "fileHash": "856331573AE4013BA1900A70B007C169",
             "liferayEntryId": 1631872,
-            "dataWeryfikacji": "2026-08-19T21:38:35"
+            "dataWeryfikacji": "2026-08-27T21:38:32"
           }
         ],
         "id": 70721541,
@@ -40044,7 +40287,7 @@
             "link": "/documents/20123/39846/593-072-73242_2026-05-13_2027-06-13_119684968.pdf",
             "fileHash": "80348A2949940AB97405ECEC086D1222",
             "liferayEntryId": 1606449,
-            "dataWeryfikacji": "2026-08-19T21:38:55"
+            "dataWeryfikacji": "2026-08-27T21:38:52"
           },
           {
             "id": 106685654,
@@ -41333,7 +41576,7 @@
             "link": "/documents/20123/39846/593-072-73258_2026-07-01_2027-08-01_121806718.pdf",
             "fileHash": "64291DD3E996CBE5B7630E0401BA8BDB",
             "liferayEntryId": 1631888,
-            "dataWeryfikacji": "2026-08-19T21:39:05"
+            "dataWeryfikacji": "2026-08-27T21:39:02"
           },
           {
             "id": 108213392,
@@ -42751,7 +42994,7 @@
             "link": "/documents/20123/39846/23131FU10003678_2026-08-11_2027-09-11_123932523.pdf",
             "fileHash": "56D2F6DCAA36F8A56E4A675837E0B390",
             "liferayEntryId": 1653494,
-            "dataWeryfikacji": "2026-08-19T21:39:34"
+            "dataWeryfikacji": "2026-08-27T21:39:21"
           },
           {
             "id": 109814586,
@@ -42766,7 +43009,7 @@
             "link": "/documents/20123/39846/23131FU10003678_2025-07-22_2026-08-10_109814587.pdf",
             "fileHash": "8E950043F8C7842382069C02806D68A0",
             "liferayEntryId": 1653478,
-            "dataWeryfikacji": "2026-08-19T21:39:32"
+            "dataWeryfikacji": "2026-08-27T21:39:21"
           }
         ],
         "id": 87764064,
@@ -43604,7 +43847,7 @@
             "link": "/documents/20123/39846/593-072-73161_2024-07-24_2025-08-19_98404374.pdf",
             "fileHash": "5DAEE6B657285B1564EE930CAD481156",
             "liferayEntryId": 1501917,
-            "dataWeryfikacji": "2026-08-19T21:38:29"
+            "dataWeryfikacji": "2026-08-27T21:38:26"
           }
         ],
         "id": 70674246,
@@ -44298,7 +44541,7 @@
             "link": "/documents/20123/39846/593-072-73312_2025-09-03_2026-10-03_111028034.pdf",
             "fileHash": "C552162991A65644D3413FA865CA6927",
             "liferayEntryId": 1505561,
-            "dataWeryfikacji": "2026-08-19T21:39:44"
+            "dataWeryfikacji": "2026-08-27T21:39:29"
           },
           {
             "id": 99097110,
@@ -44313,7 +44556,7 @@
             "link": "/documents/20123/39846/593-072-73312_2024-08-14_2025-09-02_99097111.pdf",
             "fileHash": "B4D18447873DEB50988FD61EBB8C3B8C",
             "liferayEntryId": 1508808,
-            "dataWeryfikacji": "2026-08-19T21:39:44"
+            "dataWeryfikacji": "2026-08-27T21:39:28"
           }
         ],
         "id": 89139570,
@@ -45587,7 +45830,7 @@
             "link": "/documents/20123/39846/643294-60121_2026-05-29_2027-06-29_121127437.pdf",
             "fileHash": "9B0949116DAA995B3D386B871B42272C",
             "liferayEntryId": 1635187,
-            "dataWeryfikacji": "2026-08-19T21:39:59"
+            "dataWeryfikacji": "2026-08-27T21:39:52"
           }
         ],
         "id": 120186004,
@@ -50634,7 +50877,7 @@
             "link": "/documents/20123/39846/593-072-73259_2026-07-01_2027-08-01_121806626.pdf",
             "fileHash": "7508D59AC86EAA2DA245771B90CA5963",
             "liferayEntryId": 1631904,
-            "dataWeryfikacji": "2026-08-19T21:39:06"
+            "dataWeryfikacji": "2026-08-27T21:39:03"
           },
           {
             "id": 108213123,
@@ -51938,7 +52181,7 @@
             "link": "/documents/20123/39846/23088FUS1000021_2025-05-20_2026-06-11_107734343.pdf",
             "fileHash": "8FEEE6B7A2EBC4382A9E134AEE0A2278",
             "liferayEntryId": 1626472,
-            "dataWeryfikacji": "2026-08-19T21:39:09"
+            "dataWeryfikacji": "2026-08-27T21:39:06"
           }
         ],
         "id": 86773593,
@@ -67189,7 +67432,7 @@
             "link": "/documents/20123/39846/23131FU10003677_2026-08-11_2027-09-11_123932776.pdf",
             "fileHash": "4E302E092E0334AEF35719DA18CC7E96",
             "liferayEntryId": 1653526,
-            "dataWeryfikacji": "2026-08-19T21:39:41"
+            "dataWeryfikacji": "2026-08-27T21:39:23"
           },
           {
             "id": 109814659,
@@ -67204,7 +67447,7 @@
             "link": "/documents/20123/39846/23131FU10003677_2025-07-22_2026-08-10_109814660.pdf",
             "fileHash": "35B0B19F338D0B762B2578D9A1BA4DE1",
             "liferayEntryId": 1653510,
-            "dataWeryfikacji": "2026-08-19T21:39:38"
+            "dataWeryfikacji": "2026-08-27T21:39:23"
           }
         ],
         "id": 87764172,
@@ -70575,7 +70818,7 @@
             "link": "/documents/20123/39846/593-072-73177_2025-11-18_2026-12-18_113396723.pdf",
             "fileHash": "FDC5BD6AC86D9E60A17AC18C57685852",
             "liferayEntryId": 1538267,
-            "dataWeryfikacji": "2026-08-19T21:38:27"
+            "dataWeryfikacji": "2026-08-27T21:38:25"
           },
           {
             "id": 101317474,
@@ -70590,10 +70833,139 @@
             "link": "/documents/20123/39846/593-072-73177_2024-10-23_2025-11-17_101317476.pdf",
             "fileHash": "480F34677971661C1510F28734DFFF80",
             "liferayEntryId": 1540928,
-            "dataWeryfikacji": "2026-08-19T21:38:27"
+            "dataWeryfikacji": "2026-08-27T21:38:24"
           }
         ],
         "id": 69799259,
+        "brdW1DaneZOkresu": [],
+        "brdW2DaneSredniaPerMiesiac": [],
+        "brdW3DaneSumaPerMiesiac": [],
+        "brdW4DaneSumaPerOkres": [],
+        "jestStatystyka": false,
+        "jestLimit": true,
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "point_speed",
+      "label": "Pomiar punktowy",
+      "summary": {
+        "id": 111871073,
+        "lon": 17.874166666666667,
+        "lat": 50.19833333333333,
+        "rodzajPomiaru": "PP",
+        "nrSeryjny": "643294-60063",
+        "lok2PktDlugosc": null,
+        "lok2PktSzerokosc": null
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PP",
+      "detail": {
+        "lon": 17.874166666666667,
+        "lat": 50.19833333333333,
+        "urzadzenie": {
+          "id": 111871073,
+          "nrSeryjny": "643294-60063",
+          "typUrzadzenia": "TraffiStar SR390",
+          "rodzajPomiaru": "PP",
+          "producent": "Jenoptik Robot",
+          "rokProdukcji": 2025,
+          "temperaturaPracyMax": 60,
+          "temperaturaPracyMin": -20,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar zabudowany",
+          "lokalizacjaKod": "SLA.1.097",
+          "lokalizacjaDelegatura": "Śląska",
+          "lokalizacjaNrDrogi": "38",
+          "lokalizacjaKmDrogi": 18,
+          "lokalizacjaHmDrogi": 249,
+          "lokalizacjaObszarZabudowany": true,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "OPOLSKIE",
+          "lokalizacjaAdresPowiat": "głubczycki",
+          "lokalizacjaAdresGmina": "Głubczyce",
+          "lokalizacjaAdresKodPocztowy": "48-100",
+          "lokalizacjaAdresMiejscowosc": "Grobniki",
+          "lokalizacjaAdresUlica": null,
+          "lokalizacjaDlugGeoSt": 17,
+          "lokalizacjaDlugGeoMin": 52,
+          "lokalizacjaDlugGeoSek": 27,
+          "lokalizacjaSzerGeoSt": 50,
+          "lokalizacjaSzerGeoMin": 11,
+          "lokalizacjaSzerGeoSek": 54,
+          "masztNrSeryjny": "LIFSR 010",
+          "masztTypUrzadzenia": "TraffiCompact",
+          "masztProducent": "Jenoptik Robot",
+          "masztRokProdukcji": 2025,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -20,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": "2027-09-26",
+          "dlugoscOdcinka1": null,
+          "dlugoscOdcinka2": null,
+          "dlugoscOdcinka1Str": null,
+          "dlugoscOdcinka2Str": null,
+          "nazwaKierunku1": null,
+          "nazwaKierunku2": null,
+          "lokalizacjaDrugiegoPunktu": null,
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": null,
+          "hmDrugiPunkt": null,
+          "dlugGeoStDp": null,
+          "dlugGeoMisDp": null,
+          "dlugGeoSekDp": null,
+          "szerGeoStDp": null,
+          "szerGeoMinDp": null,
+          "szerGeoSekDp": null,
+          "mobilne": false,
+          "jestStatystyka": false,
+          "jestLimit": true
+        },
+        "limity": [
+          {
+            "limitOsobowe": "40",
+            "limitCiezarowe": "40",
+            "typ": {
+              "kierunek": "",
+              "godziny": "",
+              "kierunekPikietazu": "MALEJACY"
+            }
+          }
+        ],
+        "swiadectwaLegalizacji": [
+          {
+            "id": 124330035,
+            "idUrzadzenia": 111871073,
+            "numerDokumentu": "OUM05.WL.45.1119.2026.21",
+            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
+            "dataWydania": "2026-08-26",
+            "dataWaznosci": "2027-09-26",
+            "zalacznikId": 124330036,
+            "zalacznikNazwa": "tsr_390_60063_20270926.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60063_2026-08-26_2027-09-26_124330036.pdf",
+            "fileHash": "094B81DDE0DB6C9CC7D2A7E437C2E2CE",
+            "liferayEntryId": 1656719,
+            "dataWeryfikacji": "2026-08-27T21:39:40"
+          },
+          {
+            "id": 112602335,
+            "idUrzadzenia": 111871073,
+            "numerDokumentu": "OUM05.WL.45.1098.2025.2",
+            "rodzajDokumentu": "Świadectwo legalizacji pierwotnej",
+            "dataWydania": "2025-08-01",
+            "dataWaznosci": "2026-09-01",
+            "zalacznikId": 112602337,
+            "zalacznikNazwa": "SR_60063_20260901 (003).pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60063_2025-08-01_2026-09-01_112602337.pdf",
+            "fileHash": "BCEBF040624B57ED36C74FCE896C5DDF",
+            "liferayEntryId": 1532663,
+            "dataWeryfikacji": "2026-08-22T21:38:55"
+          }
+        ],
+        "id": 111871073,
         "brdW1DaneZOkresu": [],
         "brdW2DaneSredniaPerMiesiac": [],
         "brdW3DaneSumaPerMiesiac": [],
@@ -75409,7 +75781,7 @@
             "link": "/documents/20123/39846/593-072-73257_2025-05-21_2026-06-16_107738921.pdf",
             "fileHash": "B1D28CC02D6BF10D71E4F2EB047FFDE4",
             "liferayEntryId": 1626456,
-            "dataWeryfikacji": "2026-08-19T21:39:05"
+            "dataWeryfikacji": "2026-08-27T21:39:02"
           }
         ],
         "id": 85248910,
@@ -78116,7 +78488,7 @@
             "link": "/documents/20123/39846/593-072-73164_2024-07-24_2025-08-19_98404278.pdf",
             "fileHash": "3C39A97596D80EE35205F4B657CD58F0",
             "liferayEntryId": 1501933,
-            "dataWeryfikacji": "2026-08-19T21:38:30"
+            "dataWeryfikacji": "2026-08-27T21:38:28"
           }
         ],
         "id": 70701356,
@@ -79569,7 +79941,7 @@
             "link": "/documents/20123/39846/593-072-73247_2026-05-13_2027-06-13_119685035.pdf",
             "fileHash": "70A2DEF2F57E5A1DCCDA9F50881983E2",
             "liferayEntryId": 1606497,
-            "dataWeryfikacji": "2026-08-19T21:38:57"
+            "dataWeryfikacji": "2026-08-27T21:38:54"
           },
           {
             "id": 106685347,
@@ -80149,7 +80521,7 @@
             "link": "/documents/20123/39846/593-072-73250_2026-06-03_2027-07-03_120697350.pdf",
             "fileHash": "CD40763EE61ADCEF4EA569742EE9F409",
             "liferayEntryId": 1618192,
-            "dataWeryfikacji": "2026-08-19T21:38:58"
+            "dataWeryfikacji": "2026-08-27T21:38:55"
           },
           {
             "id": 107324036,
@@ -81245,7 +81617,7 @@
             "link": "/documents/20123/39846/593-072_71598_2025-11-12_2026-12-12_113055558.pdf",
             "fileHash": "46E403EA80E8429EA8B3E0E1E3593D50",
             "liferayEntryId": 1535095,
-            "dataWeryfikacji": "2026-08-19T21:38:16"
+            "dataWeryfikacji": "2026-08-27T21:38:13"
           },
           {
             "id": 101111380,
@@ -81260,7 +81632,7 @@
             "link": "/documents/20123/39846/593-072_71598_2024-10-16_2025-11-11_101111381.pdf",
             "fileHash": "82441DCE1A62239FA24C13E6F4B7B039",
             "liferayEntryId": 1536137,
-            "dataWeryfikacji": "2026-08-19T21:38:15"
+            "dataWeryfikacji": "2026-08-27T21:38:13"
           }
         ],
         "id": 29112603,
@@ -81954,7 +82326,7 @@
             "link": "/documents/20123/39846/643294-60067_2025-10-24_2026-11-24_116400332.pdf",
             "fileHash": "9FB95A1C307E4B369A9C56050F7973A3",
             "liferayEntryId": 1599849,
-            "dataWeryfikacji": "2026-08-19T21:39:50"
+            "dataWeryfikacji": "2026-08-27T21:39:44"
           }
         ],
         "id": 114717872,
@@ -82906,7 +83278,7 @@
             "link": "/documents/20123/39846/004_2025-01-09_2025-12-16_103945990.PDF",
             "fileHash": "F4BB83082C696D810015C91D9F7A2849",
             "liferayEntryId": 1560618,
-            "dataWeryfikacji": "2026-08-19T21:38:51"
+            "dataWeryfikacji": "2026-08-27T21:38:48"
           }
         ],
         "id": 72888425,
@@ -86744,7 +87116,7 @@
             "link": "/documents/20123/39846/593-072-73249_2026-06-03_2027-07-03_120697544.pdf",
             "fileHash": "4CB69645F1CD2169A6501869341B33E8",
             "liferayEntryId": 1618176,
-            "dataWeryfikacji": "2026-08-19T21:38:57"
+            "dataWeryfikacji": "2026-08-27T21:38:54"
           },
           {
             "id": 107324053,
@@ -90403,7 +90775,7 @@
             "link": "/documents/20123/39846/593-072_71507_2025-10-08_2026-11-08_112056916.pdf",
             "fileHash": "C2B0090028813FAB76F47067DA482341",
             "liferayEntryId": 1520601,
-            "dataWeryfikacji": "2026-08-19T21:38:01"
+            "dataWeryfikacji": "2026-08-27T21:37:59"
           },
           {
             "id": 100238580,
@@ -90418,7 +90790,7 @@
             "link": "/documents/20123/39846/593-072_71507_2024-09-18_2025-10-07_100238582.pdf",
             "fileHash": "EFE43570A0CBE239469D664ED67C1994",
             "liferayEntryId": 1521098,
-            "dataWeryfikacji": "2026-08-19T21:38:01"
+            "dataWeryfikacji": "2026-08-27T21:37:58"
           }
         ],
         "id": 357710,
@@ -90998,7 +91370,7 @@
             "link": "/documents/20123/39846/23143FU10003700_2025-06-27_2026-07-09_109022624.pdf",
             "fileHash": "E5AF92BCF891C15EA5BC0C15C4497D5C",
             "liferayEntryId": 1637700,
-            "dataWeryfikacji": "2026-08-19T21:39:27"
+            "dataWeryfikacji": "2026-08-27T21:39:18"
           }
         ],
         "id": 87763526,
@@ -91836,7 +92208,7 @@
             "link": "/documents/20123/39846/593-072-73165_2025-05-21_2026-06-09_107740294.pdf",
             "fileHash": "8F4B9421FFABC6C7E75DC4EED78D78AC",
             "liferayEntryId": 1622298,
-            "dataWeryfikacji": "2026-08-19T21:38:36"
+            "dataWeryfikacji": "2026-08-27T21:38:33"
           }
         ],
         "id": 70764588,
@@ -92917,7 +93289,7 @@
             "link": "/documents/20123/39846/593-072-73173_2025-10-29_2026-11-29_112659934.pdf",
             "fileHash": "8988531ABDDD2374C4AC88D5355EB337",
             "liferayEntryId": 1529346,
-            "dataWeryfikacji": "2026-08-19T21:38:19"
+            "dataWeryfikacji": "2026-08-27T21:38:16"
           },
           {
             "id": 100597352,
@@ -93175,7 +93547,7 @@
             "link": "/documents/20123/39846/593-072-73178_2025-11-12_2026-12-12_113076030.pdf",
             "fileHash": "97013CEA89462C1969224594324A374D",
             "liferayEntryId": 1535596,
-            "dataWeryfikacji": "2026-08-19T21:38:28"
+            "dataWeryfikacji": "2026-08-27T21:38:26"
           },
           {
             "id": 101111478,
@@ -94479,7 +94851,7 @@
             "link": "/documents/20123/39846/593-072-73185_2025-07-02_2026-07-21_109097579.pdf",
             "fileHash": "E59722A5882F7C4CA01B0DC17B2516A6",
             "liferayEntryId": 1640927,
-            "dataWeryfikacji": "2026-08-19T21:38:39"
+            "dataWeryfikacji": "2026-08-27T21:38:37"
           }
         ],
         "id": 71087615,
@@ -98847,7 +99219,7 @@
             "link": "/documents/20123/39846/593-072-73187_2025-12-03_2027-01-03_113854810.pdf",
             "fileHash": "ABB949B2E330DA324B9D414E8B4ED1C5",
             "liferayEntryId": 1544446,
-            "dataWeryfikacji": "2026-08-19T21:38:42"
+            "dataWeryfikacji": "2026-08-27T21:38:40"
           },
           {
             "id": 102161240,
@@ -98862,7 +99234,7 @@
             "link": "/documents/20123/39846/593-072-73187_2024-11-20_2025-12-02_102161241.pdf",
             "fileHash": "374FFEA65FD23A7F2B54AE5568762981",
             "liferayEntryId": 1549058,
-            "dataWeryfikacji": "2026-08-19T21:38:42"
+            "dataWeryfikacji": "2026-08-27T21:38:39"
           }
         ],
         "id": 71840286,
@@ -100265,7 +100637,7 @@
             "link": "/documents/20123/39846/593-072-73281_2026-07-08_2027-08-08_122183117.pdf",
             "fileHash": "94CD979DC113019B1415B7F847480F3E",
             "liferayEntryId": 1635155,
-            "dataWeryfikacji": "2026-08-19T21:39:08"
+            "dataWeryfikacji": "2026-08-27T21:39:05"
           },
           {
             "id": 108572941,
@@ -105535,7 +105907,7 @@
             "link": "/documents/20123/39846/593-072-73280_2026-07-08_2027-08-08_122183188.pdf",
             "fileHash": "EE1FB91588409F787AE9DBD98F8898D2",
             "liferayEntryId": 1635139,
-            "dataWeryfikacji": "2026-08-19T21:39:07"
+            "dataWeryfikacji": "2026-08-27T21:39:04"
           },
           {
             "id": 108397478,
@@ -106504,6 +106876,135 @@
       "category": "point_speed",
       "label": "Pomiar punktowy",
       "summary": {
+        "id": 110154180,
+        "lon": 18.867722222222223,
+        "lat": 50.424277777777775,
+        "rodzajPomiaru": "PP",
+        "nrSeryjny": "643294-60055",
+        "lok2PktDlugosc": null,
+        "lok2PktSzerokosc": null
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PP",
+      "detail": {
+        "lon": 18.867722222222223,
+        "lat": 50.424277777777775,
+        "urzadzenie": {
+          "id": 110154180,
+          "nrSeryjny": "643294-60055",
+          "typUrzadzenia": "TraffiStar SR390",
+          "rodzajPomiaru": "PP",
+          "producent": "Jenoptik Robot",
+          "rokProdukcji": 2025,
+          "temperaturaPracyMax": 60,
+          "temperaturaPracyMin": -20,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar zabudowany",
+          "lokalizacjaKod": "SLA.2.095",
+          "lokalizacjaDelegatura": "Śląska",
+          "lokalizacjaNrDrogi": "11",
+          "lokalizacjaKmDrogi": 574,
+          "lokalizacjaHmDrogi": 781,
+          "lokalizacjaObszarZabudowany": true,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "ŚLĄSKIE",
+          "lokalizacjaAdresPowiat": "tarnogórski",
+          "lokalizacjaAdresGmina": "Tarnowskie Góry",
+          "lokalizacjaAdresKodPocztowy": "42-605",
+          "lokalizacjaAdresMiejscowosc": "Tarnowskie Góry",
+          "lokalizacjaAdresUlica": "J. Korola",
+          "lokalizacjaDlugGeoSt": 18,
+          "lokalizacjaDlugGeoMin": 52,
+          "lokalizacjaDlugGeoSek": 3.8,
+          "lokalizacjaSzerGeoSt": 50,
+          "lokalizacjaSzerGeoMin": 25,
+          "lokalizacjaSzerGeoSek": 27.4,
+          "masztNrSeryjny": "LIFSR 001",
+          "masztTypUrzadzenia": "TraffiCompact",
+          "masztProducent": "Jenoptik Robot",
+          "masztRokProdukcji": 2025,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -20,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": "2027-09-26",
+          "dlugoscOdcinka1": null,
+          "dlugoscOdcinka2": null,
+          "dlugoscOdcinka1Str": null,
+          "dlugoscOdcinka2Str": null,
+          "nazwaKierunku1": null,
+          "nazwaKierunku2": null,
+          "lokalizacjaDrugiegoPunktu": null,
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": null,
+          "hmDrugiPunkt": null,
+          "dlugGeoStDp": null,
+          "dlugGeoMisDp": null,
+          "dlugGeoSekDp": null,
+          "szerGeoStDp": null,
+          "szerGeoMinDp": null,
+          "szerGeoSekDp": null,
+          "mobilne": false,
+          "jestStatystyka": false,
+          "jestLimit": true
+        },
+        "limity": [
+          {
+            "limitOsobowe": "50",
+            "limitCiezarowe": "50",
+            "typ": {
+              "kierunek": "",
+              "godziny": "",
+              "kierunekPikietazu": "ROSNACY"
+            }
+          }
+        ],
+        "swiadectwaLegalizacji": [
+          {
+            "id": 124329944,
+            "idUrzadzenia": 110154180,
+            "numerDokumentu": "OUM05.WL.45.1119.2026.19",
+            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
+            "dataWydania": "2026-08-26",
+            "dataWaznosci": "2027-09-26",
+            "zalacznikId": 124329945,
+            "zalacznikNazwa": "tsr_390_60055_20270926.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60055_2026-08-26_2027-09-26_124329945.pdf",
+            "fileHash": "ACB3314D29665B0CB06F1DED4537C71B",
+            "liferayEntryId": 1656687,
+            "dataWeryfikacji": "2026-08-27T21:39:34"
+          },
+          {
+            "id": 110359652,
+            "idUrzadzenia": 110154180,
+            "numerDokumentu": "OUM05.WL.45.1098.2025.1",
+            "rodzajDokumentu": "Świadectwo legalizacji pierwotnej",
+            "dataWydania": "2025-08-01",
+            "dataWaznosci": "2026-09-01",
+            "zalacznikId": 110359655,
+            "zalacznikNazwa": "SR_60055_20260901.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60055_2025-08-01_2026-09-01_110359655.pdf",
+            "fileHash": "5E90AE675AC9DECF6352ED986EF0A0A8",
+            "liferayEntryId": 1498041,
+            "dataWeryfikacji": "2026-08-23T21:39:56"
+          }
+        ],
+        "id": 110154180,
+        "brdW1DaneZOkresu": [],
+        "brdW2DaneSredniaPerMiesiac": [],
+        "brdW3DaneSumaPerMiesiac": [],
+        "brdW4DaneSumaPerOkres": [],
+        "jestStatystyka": false,
+        "jestLimit": true,
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "point_speed",
+      "label": "Pomiar punktowy",
+      "summary": {
         "id": 87064060,
         "lon": 17.320816666666666,
         "lat": 52.189449999999994,
@@ -107181,7 +107682,7 @@
             "link": "/documents/20123/39846/23088FUS1000025_2026-06-03_2027-07-03_120705850.pdf",
             "fileHash": "5A9BD6B3B29989C14EA4730ACE208004",
             "liferayEntryId": 1618240,
-            "dataWeryfikacji": "2026-08-19T21:39:11"
+            "dataWeryfikacji": "2026-08-27T21:39:08"
           },
           {
             "id": 107734838,
@@ -107196,7 +107697,7 @@
             "link": "/documents/20123/39846/23088FUS1000025_2025-05-19_2026-06-02_107734840.pdf",
             "fileHash": "19C157297E8B0ACCA2C2C43D83E7FABC",
             "liferayEntryId": 1618224,
-            "dataWeryfikacji": "2026-08-19T21:39:10"
+            "dataWeryfikacji": "2026-08-27T21:39:07"
           }
         ],
         "id": 86773619,
@@ -107439,7 +107940,7 @@
             "link": "/documents/20123/39846/23111FU10003624_2026-07-30_2027-08-30_123549063.pdf",
             "fileHash": "7CB1704F769C23E1E1C51313205A654D",
             "liferayEntryId": 1648778,
-            "dataWeryfikacji": "2026-08-19T21:39:24"
+            "dataWeryfikacji": "2026-08-27T21:39:15"
           },
           {
             "id": 109384302,
@@ -110870,7 +111371,7 @@
             "link": "/documents/20123/39846/593-072-73284_2025-07-16_2026-08-04_109561875.pdf",
             "fileHash": "6D5C3FE02A04B66350F15F7ACC290D67",
             "liferayEntryId": 1648762,
-            "dataWeryfikacji": "2026-08-19T21:39:15"
+            "dataWeryfikacji": "2026-08-27T21:39:12"
           }
         ],
         "id": 87043364,
@@ -113884,7 +114385,7 @@
             "link": "/documents/20123/39846/071_2026-04-22_2027-05-22_119044035.pdf",
             "fileHash": "1FFF230C085959FAD25474B4A6C292FB",
             "liferayEntryId": 1599816,
-            "dataWeryfikacji": "2026-08-19T21:38:04"
+            "dataWeryfikacji": "2026-08-27T21:38:02"
           },
           {
             "id": 101311145,
@@ -113899,7 +114400,7 @@
             "link": "/documents/20123/39846/071_2024-10-16_2025-11-16_101311146.pdf",
             "fileHash": "CF498640293D977C8C8AA197D6B1EB58",
             "liferayEntryId": 1385182,
-            "dataWeryfikacji": "2026-08-19T21:38:04"
+            "dataWeryfikacji": "2026-08-27T21:38:01"
           }
         ],
         "id": 358750,
@@ -115967,7 +116468,7 @@
             "link": "/documents/20123/39846/593-072-73221_2026-02-25_2027-03-25_116902787.pdf",
             "fileHash": "3F0C10078483F32F9048E518393760D3",
             "liferayEntryId": 1578033,
-            "dataWeryfikacji": "2026-08-19T21:38:53"
+            "dataWeryfikacji": "2026-08-27T21:38:50"
           },
           {
             "id": 104386941,
@@ -115982,7 +116483,7 @@
             "link": "/documents/20123/39846/593-072-73221_2025-01-29_2026-02-24_104386942.pdf",
             "fileHash": "C28411C58A8640DABB4252FDC78DA182",
             "liferayEntryId": 1578020,
-            "dataWeryfikacji": "2026-08-19T21:38:52"
+            "dataWeryfikacji": "2026-08-27T21:38:49"
           }
         ],
         "id": 82076390,
@@ -116547,7 +117048,7 @@
             "link": "/documents/20123/39846/593-072_73127_2026-06-03_2027-07-03_120697190.pdf",
             "fileHash": "5A47003878BFED52E83B77900925361B",
             "liferayEntryId": 1618128,
-            "dataWeryfikacji": "2026-08-19T21:38:18"
+            "dataWeryfikacji": "2026-08-27T21:38:16"
           },
           {
             "id": 107324152,
@@ -117321,7 +117822,7 @@
             "link": "/documents/20123/39846/593-072-73255_2025-05-21_2026-06-16_107739894.pdf",
             "fileHash": "429B98A4C8D456907ECCCC7F343D0FE5",
             "liferayEntryId": 1626424,
-            "dataWeryfikacji": "2026-08-19T21:39:02"
+            "dataWeryfikacji": "2026-08-27T21:38:59"
           }
         ],
         "id": 85248871,
@@ -117435,7 +117936,7 @@
             "link": "/documents/20123/39846/593-072-73291_2025-08-06_2026-09-06_110186448.pdf",
             "fileHash": "0D140EFB1648F6593232EDF916A1A6C5",
             "liferayEntryId": 1626504,
-            "dataWeryfikacji": "2026-08-19T21:39:26"
+            "dataWeryfikacji": "2026-08-27T21:39:17"
           },
           {
             "id": 97861241,
@@ -117450,7 +117951,7 @@
             "link": "/documents/20123/39846/593-072-73291_2024-07-10_2025-08-05_97861242.pdf",
             "fileHash": "5D043087FE5BCAB5E64C8B6D4D1FABFE",
             "liferayEntryId": 1626488,
-            "dataWeryfikacji": "2026-08-19T21:39:25"
+            "dataWeryfikacji": "2026-08-27T21:39:17"
           }
         ],
         "id": 87755630,
@@ -121867,7 +122368,7 @@
             "link": "/documents/20123/39846/593-072-73235_2025-02-26_2026-03-17_105187555.pdf",
             "fileHash": "16251D604FEAFF6BBE6599946453A358",
             "liferayEntryId": 1583986,
-            "dataWeryfikacji": "2026-08-19T21:38:54"
+            "dataWeryfikacji": "2026-08-27T21:38:51"
           }
         ],
         "id": 82689409,
@@ -122561,7 +123062,7 @@
             "link": "/documents/20123/39846/23109FUS1000028_2026-07-30_2027-08-30_123550608.pdf",
             "fileHash": "578DDCF8AFC178FDE97E77013838CB2B",
             "liferayEntryId": 1648793,
-            "dataWeryfikacji": "2026-08-19T21:39:24"
+            "dataWeryfikacji": "2026-08-27T21:39:16"
           },
           {
             "id": 109384322,
@@ -133171,7 +133672,7 @@
             "link": "/documents/20123/39846/593-072_71599_2024-12-04_2026-01-04_102632357.PDF",
             "fileHash": "6541C3FE2F61A03422524C7E78B17D40",
             "liferayEntryId": 1404266,
-            "dataWeryfikacji": "2026-08-19T21:38:12"
+            "dataWeryfikacji": "2026-08-27T21:38:10"
           }
         ],
         "id": 28359667,
@@ -135397,7 +135898,7 @@
             "link": "/documents/20123/39846/593-072-73188_2026-01-07_2027-02-07_114895773.pdf",
             "fileHash": "26F1ECEE87DCFF3D10AABF3F9879BB8B",
             "liferayEntryId": 1557455,
-            "dataWeryfikacji": "2026-08-19T21:38:44"
+            "dataWeryfikacji": "2026-08-27T21:38:41"
           },
           {
             "id": 102875619,
@@ -135412,7 +135913,7 @@
             "link": "/documents/20123/39846/593-072-73188_2024-12-11_2026-01-06_102875621.PDF",
             "fileHash": "02DE931734AE929424F90811BD6A911E",
             "liferayEntryId": 1557824,
-            "dataWeryfikacji": "2026-08-19T21:38:44"
+            "dataWeryfikacji": "2026-08-27T21:38:41"
           }
         ],
         "id": 72153915,
@@ -135526,7 +136027,7 @@
             "link": "/documents/20123/39846/593-072-73175_2025-11-07_2026-12-07_113047924.pdf",
             "fileHash": "A73BCBE7A0C4B98D7A6FB0E72D3FC18D",
             "liferayEntryId": 1535127,
-            "dataWeryfikacji": "2026-08-19T21:38:25"
+            "dataWeryfikacji": "2026-08-27T21:38:23"
           },
           {
             "id": 99754516,
@@ -135541,7 +136042,7 @@
             "link": "/documents/20123/39846/593-072-73175_2024-09-04_2025-10-04_99754517.pdf",
             "fileHash": "B71928E9022C9DC82D29C29FB74245F2",
             "liferayEntryId": 1364605,
-            "dataWeryfikacji": "2026-08-19T21:38:25"
+            "dataWeryfikacji": "2026-08-27T21:38:22"
           }
         ],
         "id": 69798483,
@@ -135655,7 +136156,7 @@
             "link": "/documents/20123/39846/643294-60115_2026-05-08_2027-06-08_120441710.pdf",
             "fileHash": "36189FC29DA98057499F3AF9BEF6EAEE",
             "liferayEntryId": 1622314,
-            "dataWeryfikacji": "2026-08-19T21:39:59"
+            "dataWeryfikacji": "2026-08-27T21:39:51"
           }
         ],
         "id": 120121590,
@@ -137301,7 +137802,7 @@
             "link": "/documents/20123/39846/593-072-73251_2026-06-03_2027-07-03_120696964.pdf",
             "fileHash": "A80906EB777D7DCB236EB59D9E12F139",
             "liferayEntryId": 1618208,
-            "dataWeryfikacji": "2026-08-19T21:38:58"
+            "dataWeryfikacji": "2026-08-27T21:38:55"
           },
           {
             "id": 107324012,
@@ -137881,7 +138382,7 @@
             "link": "/documents/20123/39846/643294-60123_2026-05-29_2027-06-29_121127456.pdf",
             "fileHash": "D1C3B5940D1A22BE115CCF49D18003E1",
             "liferayEntryId": 1635203,
-            "dataWeryfikacji": "2026-08-19T21:40:00"
+            "dataWeryfikacji": "2026-08-27T21:39:53"
           }
         ],
         "id": 120186107,
@@ -138003,14 +138504,14 @@
             "numerDokumentu": "OUM01.WUM.L3.45.14.2.2025",
             "rodzajDokumentu": "Świadectwo legalizacji ponownej",
             "dataWydania": "2025-07-24",
-            "dataWaznosci": "2026-08-24",
+            "dataWaznosci": "2026-08-18",
             "zalacznikId": 109814781,
             "zalacznikNazwa": "MFRN_23137FU10003689_20260824.pdf",
             "zalacznikOpis": "",
-            "link": "/documents/20123/39846/23137FU10003689_2025-07-24_2026-08-24_109814781.pdf",
+            "link": "/documents/20123/39846/23137FU10003689_2025-07-24_2026-08-18_109814781.pdf",
             "fileHash": "9E85D9CA9D843316CDF7935319E4D86D",
-            "liferayEntryId": 1489730,
-            "dataWeryfikacji": "2026-08-19T21:39:42"
+            "liferayEntryId": 1656671,
+            "dataWeryfikacji": "2026-08-27T21:39:26"
           }
         ],
         "id": 87764242,
@@ -140043,7 +140544,7 @@
             "link": "/documents/20123/39846/593-072-73233_2026-05-13_2027-06-13_119684949.pdf",
             "fileHash": "606BCF1ECE2EA79E1B03CFD482D0488F",
             "liferayEntryId": 1606433,
-            "dataWeryfikacji": "2026-08-19T21:38:54"
+            "dataWeryfikacji": "2026-08-27T21:38:51"
           },
           {
             "id": 106685576,
@@ -140638,7 +141139,7 @@
             "link": "/documents/20123/39846/593-072-73254_2025-05-21_2026-06-16_107739986.pdf",
             "fileHash": "62D254A9946BBCB42F3355E4BEDCD66E",
             "liferayEntryId": 1626408,
-            "dataWeryfikacji": "2026-08-19T21:39:01"
+            "dataWeryfikacji": "2026-08-27T21:38:58"
           }
         ],
         "id": 85248836,
@@ -141818,7 +142319,7 @@
             "link": "/documents/20123/39846/593-072_71517_2026-04-22_2027-05-22_118804350.pdf",
             "fileHash": "4C1E6146AEC4E6F5ADBC7381488686A8",
             "liferayEntryId": 1596874,
-            "dataWeryfikacji": "2026-08-19T21:38:03"
+            "dataWeryfikacji": "2026-08-27T21:38:01"
           },
           {
             "id": 106081327,
@@ -141833,7 +142334,7 @@
             "link": "/documents/20123/39846/593-072_71517_2025-03-26_2026-04-21_106081328.pdf",
             "fileHash": "EE20C21A69039E0D21029FC462CDE5F5",
             "liferayEntryId": 1599801,
-            "dataWeryfikacji": "2026-08-19T21:38:03"
+            "dataWeryfikacji": "2026-08-27T21:38:00"
           }
         ],
         "id": 357760,
@@ -144976,7 +145477,7 @@
             "link": "/documents/20123/39846/593-072-73256_2025-05-21_2026-06-16_107739820.pdf",
             "fileHash": "10198049DFFC46059327353975AF8CA5",
             "liferayEntryId": 1626440,
-            "dataWeryfikacji": "2026-08-19T21:39:03"
+            "dataWeryfikacji": "2026-08-27T21:39:00"
           }
         ],
         "id": 85248886,
@@ -145685,7 +146186,7 @@
             "link": "/documents/20123/39846/593-072-73184_2025-12-03_2026-03-17_113854893.pdf",
             "fileHash": "0D738117AF610361448D0D5769314997",
             "liferayEntryId": 1583954,
-            "dataWeryfikacji": "2026-08-19T21:38:38"
+            "dataWeryfikacji": "2026-08-27T21:38:35"
           }
         ],
         "id": 71087603,
@@ -148908,7 +149409,7 @@
             "link": "/documents/20123/39846/593-072-73217_2025-02-19_2026-03-17_104979542.pdf",
             "fileHash": "9BA99710C8F1DED5475AE9546F86AE7B",
             "liferayEntryId": 1583970,
-            "dataWeryfikacji": "2026-08-19T21:38:49"
+            "dataWeryfikacji": "2026-08-27T21:38:47"
           }
         ],
         "id": 72653866,
@@ -151392,7 +151893,7 @@
             "link": "/documents/20123/39846/593-072_73126_2025-11-05_2026-12-05_112884157.pdf",
             "fileHash": "1954689D7D25A91FB2014D3B1F730677",
             "liferayEntryId": 1532547,
-            "dataWeryfikacji": "2026-08-19T21:38:18"
+            "dataWeryfikacji": "2026-08-27T21:38:15"
           },
           {
             "id": 100864647,
@@ -155988,7 +156489,7 @@
             "link": "/documents/20123/39846/593-072-73261_2026-07-01_2027-08-01_121807190.pdf",
             "fileHash": "A0F732000CD7C2BEB48FD484F5949925",
             "liferayEntryId": 1631936,
-            "dataWeryfikacji": "2026-08-19T21:39:07"
+            "dataWeryfikacji": "2026-08-27T21:39:04"
           },
           {
             "id": 108213200,
@@ -157245,6 +157746,135 @@
       "category": "point_speed",
       "label": "Pomiar punktowy",
       "summary": {
+        "id": 110154258,
+        "lon": 18.211944444444445,
+        "lat": 50.10166666666667,
+        "rodzajPomiaru": "PP",
+        "nrSeryjny": "643294-60054",
+        "lok2PktDlugosc": null,
+        "lok2PktSzerokosc": null
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PP",
+      "detail": {
+        "lon": 18.211944444444445,
+        "lat": 50.10166666666667,
+        "urzadzenie": {
+          "id": 110154258,
+          "nrSeryjny": "643294-60054",
+          "typUrzadzenia": "TraffiStar SR390",
+          "rodzajPomiaru": "PP",
+          "producent": "Jenoptik Robot",
+          "rokProdukcji": 2025,
+          "temperaturaPracyMax": 60,
+          "temperaturaPracyMin": -20,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar zabudowany",
+          "lokalizacjaKod": "SLA.2.094",
+          "lokalizacjaDelegatura": "Śląska",
+          "lokalizacjaNrDrogi": "45",
+          "lokalizacjaKmDrogi": 23,
+          "lokalizacjaHmDrogi": 352,
+          "lokalizacjaObszarZabudowany": true,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "ŚLĄSKIE",
+          "lokalizacjaAdresPowiat": "raciborski",
+          "lokalizacjaAdresGmina": "Racibórz",
+          "lokalizacjaAdresKodPocztowy": "47-400",
+          "lokalizacjaAdresMiejscowosc": "Racibórz",
+          "lokalizacjaAdresUlica": "Kozielska",
+          "lokalizacjaDlugGeoSt": 18,
+          "lokalizacjaDlugGeoMin": 12,
+          "lokalizacjaDlugGeoSek": 43,
+          "lokalizacjaSzerGeoSt": 50,
+          "lokalizacjaSzerGeoMin": 6,
+          "lokalizacjaSzerGeoSek": 6,
+          "masztNrSeryjny": "LIFSR 002",
+          "masztTypUrzadzenia": "TraffiCompact",
+          "masztProducent": "Jenoptik Robot",
+          "masztRokProdukcji": 2025,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -20,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": "2027-09-26",
+          "dlugoscOdcinka1": null,
+          "dlugoscOdcinka2": null,
+          "dlugoscOdcinka1Str": null,
+          "dlugoscOdcinka2Str": null,
+          "nazwaKierunku1": null,
+          "nazwaKierunku2": null,
+          "lokalizacjaDrugiegoPunktu": null,
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": null,
+          "hmDrugiPunkt": null,
+          "dlugGeoStDp": null,
+          "dlugGeoMisDp": null,
+          "dlugGeoSekDp": null,
+          "szerGeoStDp": null,
+          "szerGeoMinDp": null,
+          "szerGeoSekDp": null,
+          "mobilne": false,
+          "jestStatystyka": false,
+          "jestLimit": true
+        },
+        "limity": [
+          {
+            "limitOsobowe": "50",
+            "limitCiezarowe": "50",
+            "typ": {
+              "kierunek": "",
+              "godziny": "",
+              "kierunekPikietazu": "MALEJACY"
+            }
+          }
+        ],
+        "swiadectwaLegalizacji": [
+          {
+            "id": 124329818,
+            "idUrzadzenia": 110154258,
+            "numerDokumentu": "OUM05.WL.45.1119.2026.18",
+            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
+            "dataWydania": "2026-08-26",
+            "dataWaznosci": "2027-09-26",
+            "zalacznikId": 124329819,
+            "zalacznikNazwa": "tsr_390_60054_20270926.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60054_2026-08-26_2027-09-26_124329819.pdf",
+            "fileHash": "F11B3CEF0F9637A4EE7AC25293E00521",
+            "liferayEntryId": 1656703,
+            "dataWeryfikacji": "2026-08-27T21:39:36"
+          },
+          {
+            "id": 110359253,
+            "idUrzadzenia": 110154258,
+            "numerDokumentu": "OUM05.WL.45.1098.2025",
+            "rodzajDokumentu": "Świadectwo legalizacji pierwotnej",
+            "dataWydania": "2025-08-01",
+            "dataWaznosci": "2026-09-01",
+            "zalacznikId": 110359254,
+            "zalacznikNazwa": "SR_60054_20260901.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/643294-60054_2025-08-01_2026-09-01_110359254.pdf",
+            "fileHash": "5A1FFCAC044A578E9A1E0E755894FEA5",
+            "liferayEntryId": 1498057,
+            "dataWeryfikacji": "2026-08-22T21:38:54"
+          }
+        ],
+        "id": 110154258,
+        "brdW1DaneZOkresu": [],
+        "brdW2DaneSredniaPerMiesiac": [],
+        "brdW3DaneSumaPerMiesiac": [],
+        "brdW4DaneSumaPerOkres": [],
+        "jestStatystyka": false,
+        "jestLimit": true,
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "point_speed",
+      "label": "Pomiar punktowy",
+      "summary": {
         "id": 91258683,
         "lon": 21.87955277777778,
         "lat": 49.920677777777776,
@@ -158245,7 +158875,7 @@
             "link": "/documents/20123/39846/CAM22010779_2024-12-02_2025-12-08_102549796.PDF",
             "fileHash": "DEEF088D6114304D72D30084092C7B17",
             "liferayEntryId": 1552932,
-            "dataWeryfikacji": "2026-08-19T21:39:45"
+            "dataWeryfikacji": "2026-08-27T21:39:30"
           }
         ],
         "id": 90797708,
@@ -158731,7 +159361,7 @@
             "link": "/documents/20123/39846/CAM25004057_2026-04-23_2027-05-22_118990542.pdf",
             "fileHash": "6AB7CDB24A9B99AE2248A6EFA02D0244",
             "liferayEntryId": 1618288,
-            "dataWeryfikacji": "2026-08-19T21:39:54"
+            "dataWeryfikacji": "2026-08-27T21:39:47"
           }
         ],
         "id": 117740867,
@@ -161467,7 +162097,7 @@
             "link": "/documents/20123/39846/CAM23000026_2026-08-04_2027-09-04_123542689.pdf",
             "fileHash": "12AC087264676149C3936351067E7169",
             "liferayEntryId": 1648746,
-            "dataWeryfikacji": "2026-08-19T21:39:12"
+            "dataWeryfikacji": "2026-08-27T21:39:09"
           },
           {
             "id": 109472103,
@@ -161596,7 +162226,7 @@
             "link": "/documents/20123/39846/CAM15001384_2026-06-12_2027-07-12_121033433.pdf",
             "fileHash": "2C84BC267F0EE6396BDE46A36FBE8F5F",
             "liferayEntryId": 1622282,
-            "dataWeryfikacji": "2026-08-19T21:38:10"
+            "dataWeryfikacji": "2026-08-27T21:38:08"
           },
           {
             "id": 107665343,
@@ -162340,7 +162970,7 @@
             "link": "/documents/20123/39846/CAM25004549_2025-10-16_2026-11-16_115813613.pdf",
             "fileHash": "4DE03EB71FCF4872A4A8D8DF0B0CD059",
             "liferayEntryId": 1626520,
-            "dataWeryfikacji": "2026-08-19T21:39:49"
+            "dataWeryfikacji": "2026-08-27T21:39:37"
           }
         ],
         "id": 110977275,
@@ -163798,7 +164428,7 @@
             "link": "/documents/20123/39846/CAM15001367_2026-01-14_2027-02-14_115136916.pdf",
             "fileHash": "F3009FB9D7454E71AA34E195A657EF2B",
             "liferayEntryId": 1560146,
-            "dataWeryfikacji": "2026-08-19T21:38:08"
+            "dataWeryfikacji": "2026-08-27T21:38:05"
           },
           {
             "id": 103144260,
@@ -164428,7 +165058,7 @@
             "link": "/documents/20123/39846/CAM25004046_2026-02-12_2027-03-12_116429579.pdf",
             "fileHash": "DD00A26E7056B13C838F46394AA3CDBA",
             "liferayEntryId": 1574889,
-            "dataWeryfikacji": "2026-08-19T21:39:52"
+            "dataWeryfikacji": "2026-08-27T21:39:45"
           }
         ],
         "id": 116215931,
@@ -166258,139 +166888,10 @@
             "link": "/documents/20123/39846/CAM15001368_2025-04-28_2026-05-18_107246450.pdf",
             "fileHash": "AD0302E0EE19511070764800A4477AB2",
             "liferayEntryId": 1614858,
-            "dataWeryfikacji": "2026-08-19T21:38:11"
+            "dataWeryfikacji": "2026-08-27T21:38:09"
           }
         ],
         "id": 13862031,
-        "brdW1DaneZOkresu": [],
-        "brdW2DaneSredniaPerMiesiac": [],
-        "brdW3DaneSumaPerMiesiac": [],
-        "brdW4DaneSumaPerOkres": [],
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "URZADZENIE"
-      }
-    },
-    {
-      "category": "section_speed",
-      "label": "Pomiar odcinkowy",
-      "summary": {
-        "id": 13501525,
-        "lon": 19.904555555555554,
-        "lat": 49.650999999999996,
-        "rodzajPomiaru": "PO",
-        "nrSeryjny": "CAM15001390",
-        "lok2PktDlugosc": 19.889944444,
-        "lok2PktSzerokosc": 49.667222222
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=OPP",
-      "detail": {
-        "lon": 19.904555555555554,
-        "lat": 49.650999999999996,
-        "urzadzenie": {
-          "id": 13501525,
-          "nrSeryjny": "CAM15001390",
-          "typUrzadzenia": "UnicamVELOCITY3",
-          "rodzajPomiaru": "PO",
-          "producent": "CAMEA spol. s r. o.",
-          "rokProdukcji": 2015,
-          "temperaturaPracyMax": null,
-          "temperaturaPracyMin": null,
-          "stanTechniczny": "Sprawne",
-          "lokalizacjaMiejsce": "Obszar niezabudowany",
-          "lokalizacjaKod": "PLD.O.3.003",
-          "lokalizacjaDelegatura": "Południowa",
-          "lokalizacjaNrDrogi": "S7",
-          "lokalizacjaKmDrogi": 26,
-          "lokalizacjaHmDrogi": 50,
-          "lokalizacjaObszarZabudowany": false,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAŁOPOLSKIE",
-          "lokalizacjaAdresPowiat": "myślenicki",
-          "lokalizacjaAdresGmina": "Lubień",
-          "lokalizacjaAdresKodPocztowy": "32-434",
-          "lokalizacjaAdresMiejscowosc": "Skomielna Biała",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 19,
-          "lokalizacjaDlugGeoMin": 54,
-          "lokalizacjaDlugGeoSek": 16.4,
-          "lokalizacjaSzerGeoSt": 49,
-          "lokalizacjaSzerGeoMin": 39,
-          "lokalizacjaSzerGeoSek": 3.6,
-          "masztNrSeryjny": "Belka i wkręty w tunelu S7 pod sklepieniem",
-          "masztTypUrzadzenia": "Istniejąca obudowa użyczona dla GITD przez inny podmiot",
-          "masztProducent": "Zarządca drogi",
-          "masztRokProdukcji": 2022,
-          "masztTemperaturaPracyMax": 60,
-          "masztTemperaturaPracyMin": -30,
-          "masztStanTechniczny": "Sprawne",
-          "masztKierunekPomiaru": "Pikietaz rosnacy",
-          "dataUplywuWazLegalizacji": "2027-01-02",
-          "dlugoscOdcinka1": 2042,
-          "dlugoscOdcinka2": 2040,
-          "dlugoscOdcinka1Str": "2 042,00",
-          "dlugoscOdcinka2Str": "2 040,00",
-          "nazwaKierunku1": "Tunel S7, wyjazd Naprawa,kier. Kraków",
-          "nazwaKierunku2": "Tunel S7, wyjazd Skomielna B.,k. Zakopane",
-          "lokalizacjaDrugiegoPunktu": "19.889944444;49.667222222",
-          "lok2PktDlugosc": null,
-          "lok2PktSzerokosc": null,
-          "kmDrugiPunkt": 24,
-          "hmDrugiPunkt": 10,
-          "dlugGeoStDp": 19,
-          "dlugGeoMisDp": 53,
-          "dlugGeoSekDp": 23.8,
-          "szerGeoStDp": 49,
-          "szerGeoMinDp": 40,
-          "szerGeoSekDp": 2,
-          "mobilne": false,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "100",
-            "limitCiezarowe": "80",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY"
-            }
-          }
-        ],
-        "swiadectwaLegalizacji": [
-          {
-            "id": 114002686,
-            "idUrzadzenia": 13501525,
-            "numerDokumentu": "OUM02.WUM.W2.45.7.17.2025",
-            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
-            "dataWydania": "2025-12-02",
-            "dataWaznosci": "2027-01-02",
-            "zalacznikId": 114002687,
-            "zalacznikNazwa": "UV3_CAM15001390_20270102.pdf",
-            "zalacznikOpis": "",
-            "link": "/documents/20123/39846/CAM15001390_2025-12-02_2027-01-02_114002687.pdf",
-            "fileHash": "B4ADEC23C3645483B8FBD8A201463502",
-            "liferayEntryId": 1546621,
-            "dataWeryfikacji": "2026-08-19T21:38:09"
-          },
-          {
-            "id": 102903603,
-            "idUrzadzenia": 13501525,
-            "numerDokumentu": "OUM02.WUM.W2.45.7.13.2024",
-            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
-            "dataWydania": "2024-12-12",
-            "dataWaznosci": "2025-12-01",
-            "zalacznikId": 102903604,
-            "zalacznikNazwa": "UV3_CAM15001390_20260104.pdf",
-            "zalacznikOpis": "",
-            "link": "/documents/20123/39846/CAM15001390_2024-12-12_2025-12-01_102903604.pdf",
-            "fileHash": "F8201BC65BA4E05ABE4CE5CFFD806C73",
-            "liferayEntryId": 1549569,
-            "dataWeryfikacji": "2026-08-19T21:38:09"
-          }
-        ],
-        "id": 13501525,
         "brdW1DaneZOkresu": [],
         "brdW2DaneSredniaPerMiesiac": [],
         "brdW3DaneSumaPerMiesiac": [],
@@ -166501,7 +167002,7 @@
             "link": "/documents/20123/39846/CAM21003327_2025-09-17_2026-10-17_111457721.pdf",
             "fileHash": "64A110831BFDE4AB5D976DE1F63F581D",
             "liferayEntryId": 1512844,
-            "dataWeryfikacji": "2026-08-19T21:38:40"
+            "dataWeryfikacji": "2026-08-27T21:38:38"
           },
           {
             "id": 99459494,
@@ -166516,10 +167017,139 @@
             "link": "/documents/20123/39846/CAM21003327_2024-08-23_2025-09-16_99459495.pdf",
             "fileHash": "FE0E5083EE17C376629B101EB5794AA7",
             "liferayEntryId": 1514534,
-            "dataWeryfikacji": "2026-08-19T21:38:40"
+            "dataWeryfikacji": "2026-08-27T21:38:37"
           }
         ],
         "id": 71652912,
+        "brdW1DaneZOkresu": [],
+        "brdW2DaneSredniaPerMiesiac": [],
+        "brdW3DaneSumaPerMiesiac": [],
+        "brdW4DaneSumaPerOkres": [],
+        "jestStatystyka": false,
+        "jestLimit": true,
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "section_speed",
+      "label": "Pomiar odcinkowy",
+      "summary": {
+        "id": 13501525,
+        "lon": 19.904555555555554,
+        "lat": 49.650999999999996,
+        "rodzajPomiaru": "PO",
+        "nrSeryjny": "CAM15001390",
+        "lok2PktDlugosc": 19.889944444,
+        "lok2PktSzerokosc": 49.667222222
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=OPP",
+      "detail": {
+        "lon": 19.904555555555554,
+        "lat": 49.650999999999996,
+        "urzadzenie": {
+          "id": 13501525,
+          "nrSeryjny": "CAM15001390",
+          "typUrzadzenia": "UnicamVELOCITY3",
+          "rodzajPomiaru": "PO",
+          "producent": "CAMEA spol. s r. o.",
+          "rokProdukcji": 2015,
+          "temperaturaPracyMax": null,
+          "temperaturaPracyMin": null,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar niezabudowany",
+          "lokalizacjaKod": "PLD.O.3.003",
+          "lokalizacjaDelegatura": "Południowa",
+          "lokalizacjaNrDrogi": "S7",
+          "lokalizacjaKmDrogi": 26,
+          "lokalizacjaHmDrogi": 50,
+          "lokalizacjaObszarZabudowany": false,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "MAŁOPOLSKIE",
+          "lokalizacjaAdresPowiat": "myślenicki",
+          "lokalizacjaAdresGmina": "Lubień",
+          "lokalizacjaAdresKodPocztowy": "32-434",
+          "lokalizacjaAdresMiejscowosc": "Skomielna Biała",
+          "lokalizacjaAdresUlica": null,
+          "lokalizacjaDlugGeoSt": 19,
+          "lokalizacjaDlugGeoMin": 54,
+          "lokalizacjaDlugGeoSek": 16.4,
+          "lokalizacjaSzerGeoSt": 49,
+          "lokalizacjaSzerGeoMin": 39,
+          "lokalizacjaSzerGeoSek": 3.6,
+          "masztNrSeryjny": "Belka i wkręty w tunelu S7 pod sklepieniem",
+          "masztTypUrzadzenia": "Istniejąca obudowa użyczona dla GITD przez inny podmiot",
+          "masztProducent": "Zarządca drogi",
+          "masztRokProdukcji": 2022,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -30,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": "2027-01-02",
+          "dlugoscOdcinka1": 2042,
+          "dlugoscOdcinka2": 2040,
+          "dlugoscOdcinka1Str": "2 042,00",
+          "dlugoscOdcinka2Str": "2 040,00",
+          "nazwaKierunku1": "Tunel S7, wyjazd Naprawa,kier. Kraków",
+          "nazwaKierunku2": "Tunel S7, wyjazd Skomielna B.,k. Zakopane",
+          "lokalizacjaDrugiegoPunktu": "19.889944444;49.667222222",
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": 24,
+          "hmDrugiPunkt": 10,
+          "dlugGeoStDp": 19,
+          "dlugGeoMisDp": 53,
+          "dlugGeoSekDp": 23.8,
+          "szerGeoStDp": 49,
+          "szerGeoMinDp": 40,
+          "szerGeoSekDp": 2,
+          "mobilne": false,
+          "jestStatystyka": false,
+          "jestLimit": true
+        },
+        "limity": [
+          {
+            "limitOsobowe": "100",
+            "limitCiezarowe": "80",
+            "typ": {
+              "kierunek": "",
+              "godziny": "",
+              "kierunekPikietazu": "ROSNACY"
+            }
+          }
+        ],
+        "swiadectwaLegalizacji": [
+          {
+            "id": 114002686,
+            "idUrzadzenia": 13501525,
+            "numerDokumentu": "OUM02.WUM.W2.45.7.17.2025",
+            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
+            "dataWydania": "2025-12-02",
+            "dataWaznosci": "2027-01-02",
+            "zalacznikId": 114002687,
+            "zalacznikNazwa": "UV3_CAM15001390_20270102.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/CAM15001390_2025-12-02_2027-01-02_114002687.pdf",
+            "fileHash": "B4ADEC23C3645483B8FBD8A201463502",
+            "liferayEntryId": 1546621,
+            "dataWeryfikacji": "2026-08-27T21:38:07"
+          },
+          {
+            "id": 102903603,
+            "idUrzadzenia": 13501525,
+            "numerDokumentu": "OUM02.WUM.W2.45.7.13.2024",
+            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
+            "dataWydania": "2024-12-12",
+            "dataWaznosci": "2025-12-01",
+            "zalacznikId": 102903604,
+            "zalacznikNazwa": "UV3_CAM15001390_20260104.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/CAM15001390_2024-12-12_2025-12-01_102903604.pdf",
+            "fileHash": "F8201BC65BA4E05ABE4CE5CFFD806C73",
+            "liferayEntryId": 1549569,
+            "dataWeryfikacji": "2026-08-27T21:38:06"
+          }
+        ],
+        "id": 13501525,
         "brdW1DaneZOkresu": [],
         "brdW2DaneSredniaPerMiesiac": [],
         "brdW3DaneSumaPerMiesiac": [],
@@ -166858,7 +167488,7 @@
             "link": "/documents/20123/39846/CAM23001429_2025-09-08_2026-10-08_111222077.pdf",
             "fileHash": "472D27404E947E137330798F7EE67F70",
             "liferayEntryId": 1508792,
-            "dataWeryfikacji": "2026-08-19T21:39:14"
+            "dataWeryfikacji": "2026-08-27T21:39:11"
           },
           {
             "id": 99001464,
@@ -166873,7 +167503,7 @@
             "link": "/documents/20123/39846/CAM23001429_2024-08-12_2025-09-07_99001466.pdf",
             "fileHash": "BABF70972DD1FED6178A2EFDCAB9A013",
             "liferayEntryId": 1511050,
-            "dataWeryfikacji": "2026-08-19T21:39:14"
+            "dataWeryfikacji": "2026-08-27T21:39:10"
           }
         ],
         "id": 86963966,
@@ -167374,7 +168004,7 @@
             "link": "/documents/20123/39846/CAM15001364_2025-04-24_2025-08-03_107082266.pdf",
             "fileHash": "9F145A926157E5F095A59976BD02DDF0",
             "liferayEntryId": 1495466,
-            "dataWeryfikacji": "2026-08-19T21:38:05"
+            "dataWeryfikacji": "2026-08-27T21:38:03"
           }
         ],
         "id": 12825860,
@@ -168350,135 +168980,6 @@
           }
         ],
         "id": 118679980,
-        "brdW1DaneZOkresu": [],
-        "brdW2DaneSredniaPerMiesiac": [],
-        "brdW3DaneSumaPerMiesiac": [],
-        "brdW4DaneSumaPerOkres": [],
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "rodzaj": "URZADZENIE"
-      }
-    },
-    {
-      "category": "section_speed",
-      "label": "Pomiar odcinkowy",
-      "summary": {
-        "id": 10764316,
-        "lon": 23.289683333333336,
-        "lat": 53.04821666666666,
-        "rodzajPomiaru": "PO",
-        "nrSeryjny": "CAM15001389",
-        "lok2PktDlugosc": 23.321283333,
-        "lok2PktSzerokosc": 53.021066667
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=OPP",
-      "detail": {
-        "lon": 23.289683333333336,
-        "lat": 53.04821666666666,
-        "urzadzenie": {
-          "id": 10764316,
-          "nrSeryjny": "CAM15001389",
-          "typUrzadzenia": "UnicamVELOCITY3",
-          "rodzajPomiaru": "PO",
-          "producent": "CAMEA spol. s r. o.",
-          "rokProdukcji": 2015,
-          "temperaturaPracyMax": null,
-          "temperaturaPracyMin": null,
-          "stanTechniczny": "Sprawne",
-          "lokalizacjaMiejsce": "Obszar niezabudowany",
-          "lokalizacjaKod": "PNW.O.2.001",
-          "lokalizacjaDelegatura": "Północno-Wschodnia",
-          "lokalizacjaNrDrogi": "19",
-          "lokalizacjaKmDrogi": 70,
-          "lokalizacjaHmDrogi": 378,
-          "lokalizacjaObszarZabudowany": false,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "PODLASKIE",
-          "lokalizacjaAdresPowiat": "białostocki",
-          "lokalizacjaAdresGmina": "Zabłudów",
-          "lokalizacjaAdresKodPocztowy": "16-060",
-          "lokalizacjaAdresMiejscowosc": "Zwierki",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 23,
-          "lokalizacjaDlugGeoMin": 17,
-          "lokalizacjaDlugGeoSek": 22.86,
-          "lokalizacjaSzerGeoSt": 53,
-          "lokalizacjaSzerGeoMin": 2,
-          "lokalizacjaSzerGeoSek": 53.58,
-          "masztNrSeryjny": "0032",
-          "masztTypUrzadzenia": "TRAFFIC LN",
-          "masztProducent": "Valmont sp. z o. o.",
-          "masztRokProdukcji": 2015,
-          "masztTemperaturaPracyMax": 60,
-          "masztTemperaturaPracyMin": -30,
-          "masztStanTechniczny": "Sprawne",
-          "masztKierunekPomiaru": "Pikietaz rosnacy",
-          "dataUplywuWazLegalizacji": "2027-08-17",
-          "dlugoscOdcinka1": 3827,
-          "dlugoscOdcinka2": 3823,
-          "dlugoscOdcinka1Str": "3 827,00",
-          "dlugoscOdcinka2Str": "3 823,00",
-          "nazwaKierunku1": "od strony Białegostoku",
-          "nazwaKierunku2": "od strony Zabłudów",
-          "lokalizacjaDrugiegoPunktu": "23.321283333;53.021066667",
-          "lok2PktDlugosc": null,
-          "lok2PktSzerokosc": null,
-          "kmDrugiPunkt": 74,
-          "hmDrugiPunkt": 230,
-          "dlugGeoStDp": 23,
-          "dlugGeoMisDp": 19,
-          "dlugGeoSekDp": 16.62,
-          "szerGeoStDp": 53,
-          "szerGeoMinDp": 1,
-          "szerGeoSekDp": 15.84,
-          "mobilne": false,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "90",
-            "limitCiezarowe": "70",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY"
-            }
-          }
-        ],
-        "swiadectwaLegalizacji": [
-          {
-            "id": 122680130,
-            "idUrzadzenia": 10764316,
-            "numerDokumentu": "OUM10.WL.45.925.2026",
-            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
-            "dataWydania": "2026-07-17",
-            "dataWaznosci": "2027-08-17",
-            "zalacznikId": 122680131,
-            "zalacznikNazwa": "UV3_CAM15001389_20270816.pdf",
-            "zalacznikOpis": "",
-            "link": "/documents/20123/39846/CAM15001389_2026-07-17_2027-08-17_122680131.pdf",
-            "fileHash": "7FC0A85F64BC2273C95C15592B408A91",
-            "liferayEntryId": 1639061,
-            "dataWeryfikacji": "2026-08-22T21:37:56"
-          },
-          {
-            "id": 108860517,
-            "idUrzadzenia": 10764316,
-            "numerDokumentu": "OUM10.WUM.L1.45.4.2025.1",
-            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
-            "dataWydania": "2025-06-23",
-            "dataWaznosci": "2026-07-16",
-            "zalacznikId": 108860518,
-            "zalacznikNazwa": "UV3_CAM15001389_20260723.pdf",
-            "zalacznikOpis": "",
-            "link": "/documents/20123/39846/CAM15001389_2025-06-23_2026-07-16_108860518.pdf",
-            "fileHash": "AE68FEFA5B264187B9A50B6CDBC54BAE",
-            "liferayEntryId": 1639048,
-            "dataWeryfikacji": "2026-08-22T21:37:55"
-          }
-        ],
-        "id": 10764316,
         "brdW1DaneZOkresu": [],
         "brdW2DaneSredniaPerMiesiac": [],
         "brdW3DaneSumaPerMiesiac": [],
@@ -170305,7 +170806,7 @@
             "link": "/documents/20123/39846/CAM23000029_2025-09-08_2026-10-08_111222317.pdf",
             "fileHash": "EA8031BCCAF7159B6287E8618F054FB3",
             "liferayEntryId": 1508776,
-            "dataWeryfikacji": "2026-08-19T21:39:13"
+            "dataWeryfikacji": "2026-08-27T21:39:10"
           },
           {
             "id": 99001641,
@@ -170314,13 +170815,13 @@
             "rodzajDokumentu": "Świadectwo legalizacji ponownej",
             "dataWydania": "2024-08-12",
             "dataWaznosci": "2025-09-07",
-            "zalacznikId": 111222101,
-            "zalacznikNazwa": "UV3_CAM23000029_20261008.pdf",
+            "zalacznikId": 99001642,
+            "zalacznikNazwa": "UV3_CAM23000029_20250912.pdf",
             "zalacznikOpis": "",
-            "link": "/documents/20123/39846/CAM23000029_2024-08-12_2025-09-07_111222101.pdf",
-            "fileHash": "EA8031BCCAF7159B6287E8618F054FB3",
-            "liferayEntryId": 1509795,
-            "dataWeryfikacji": "2026-08-26T21:37:56"
+            "link": "/documents/20123/39846/CAM23000029_2024-08-12_2025-09-07_99001642.pdf",
+            "fileHash": "0E7340F9CBBEA7D0E708044852E02656",
+            "liferayEntryId": 1509279,
+            "dataWeryfikacji": "2026-08-27T21:39:09"
           }
         ],
         "id": 86963938,
@@ -171064,7 +171565,7 @@
             "link": "/documents/20123/39846/CAM25004388_2026-05-06_2027-06-06_120778642.pdf",
             "fileHash": "5053EBE5FECE466150CF572AAFED92B9",
             "liferayEntryId": 1626552,
-            "dataWeryfikacji": "2026-08-19T21:39:56"
+            "dataWeryfikacji": "2026-08-27T21:39:48"
           }
         ],
         "id": 118679746,
@@ -171178,7 +171679,7 @@
             "link": "/documents/20123/39846/CAM25004053_2026-05-15_2027-06-15_119966138.pdf",
             "fileHash": "D87C46EB8FE9577D34B79DCB671A4B09",
             "liferayEntryId": 1618320,
-            "dataWeryfikacji": "2026-08-19T21:39:57"
+            "dataWeryfikacji": "2026-08-27T21:39:50"
           }
         ],
         "id": 118679789,
@@ -171664,7 +172165,7 @@
             "link": "/documents/20123/39846/CAM23000030_2026-08-13_2027-09-13_123933015.pdf",
             "fileHash": "5403043E5BB8114A8C5C6F6F4E4E3BE6",
             "liferayEntryId": 1653542,
-            "dataWeryfikacji": "2026-08-19T21:39:48"
+            "dataWeryfikacji": "2026-08-27T21:39:30"
           },
           {
             "id": 109812645,
@@ -172165,7 +172666,7 @@
             "link": "/documents/20123/39846/CAM15001369_2025-12-19_2027-01-19_114475221.pdf",
             "fileHash": "E533D42388F0D10C102E539457286329",
             "liferayEntryId": 1552916,
-            "dataWeryfikacji": "2026-08-19T21:38:07"
+            "dataWeryfikacji": "2026-08-27T21:38:05"
           },
           {
             "id": 102321897,
@@ -172180,7 +172681,7 @@
             "link": "/documents/20123/39846/CAM15001369_2024-11-25_2025-12-18_102321898.pdf",
             "fileHash": "545F60F33D214583AAF2132F78CFBBAA",
             "liferayEntryId": 1553211,
-            "dataWeryfikacji": "2026-08-19T21:38:06"
+            "dataWeryfikacji": "2026-08-27T21:38:04"
           }
         ],
         "id": 12931379,
@@ -172294,7 +172795,7 @@
             "link": "/documents/20123/39846/CAM25004387_2026-04-23_2027-05-23_120089059.pdf",
             "fileHash": "649EE2EF4A8093E1BDA486C7D9BEFB96",
             "liferayEntryId": 1618272,
-            "dataWeryfikacji": "2026-08-19T21:39:53"
+            "dataWeryfikacji": "2026-08-27T21:39:47"
           }
         ],
         "id": 116594860,
@@ -172795,7 +173296,7 @@
             "link": "/documents/20123/39846/CAM25004392_2026-05-15_2027-06-15_119965993.pdf",
             "fileHash": "33DB652F7ED3A3890E3EC67D261868D9",
             "liferayEntryId": 1618335,
-            "dataWeryfikacji": "2026-08-19T21:39:58"
+            "dataWeryfikacji": "2026-08-27T21:39:50"
           }
         ],
         "id": 118679802,
@@ -172909,7 +173410,7 @@
             "link": "/documents/20123/39846/CAM25004045_2026-05-06_2027-06-06_120778549.pdf",
             "fileHash": "7135F873FB92D93119F7E68C8A4F8E7A",
             "liferayEntryId": 1626536,
-            "dataWeryfikacji": "2026-08-19T21:39:55"
+            "dataWeryfikacji": "2026-08-27T21:39:48"
           }
         ],
         "id": 118679732,
@@ -173137,7 +173638,7 @@
             "link": "/documents/20123/39846/CAM25004041_2026-04-23_2027-05-23_120088863.pdf",
             "fileHash": "88EF62A89FC3CF1C314CBF2ED748DF2B",
             "liferayEntryId": 1618256,
-            "dataWeryfikacji": "2026-08-19T21:39:53"
+            "dataWeryfikacji": "2026-08-27T21:39:46"
           }
         ],
         "id": 116594833,
@@ -173494,7 +173995,7 @@
             "link": "/documents/20123/39846/CAM25004044_2026-05-05_2027-06-05_119894451.pdf",
             "fileHash": "C0820043A0E64CAF7B0938647A612464",
             "liferayEntryId": 1618304,
-            "dataWeryfikacji": "2026-08-19T21:39:56"
+            "dataWeryfikacji": "2026-08-27T21:39:49"
           }
         ],
         "id": 118679763,
@@ -174347,6 +174848,94 @@
         "brdW4DaneSumaPerOkres": [],
         "jestStatystyka": false,
         "jestLimit": true,
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "red_light",
+      "label": "Rejestracja przejazdu na czerwonym świetle",
+      "summary": {
+        "id": 117620144,
+        "lon": 18.092694444444444,
+        "lat": 50.34377777777778,
+        "rodzajPomiaru": "PC",
+        "nrSeryjny": "0220301",
+        "lok2PktDlugosc": null,
+        "lok2PktSzerokosc": null
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=RL",
+      "detail": {
+        "lon": 18.092694444444444,
+        "lat": 50.34377777777778,
+        "urzadzenie": {
+          "id": 117620144,
+          "nrSeryjny": "0220301",
+          "typUrzadzenia": "VITRONIC SSP-X",
+          "rodzajPomiaru": "PC",
+          "producent": "VITRONIC Machine Vision GmbH",
+          "rokProdukcji": 2025,
+          "temperaturaPracyMax": null,
+          "temperaturaPracyMin": null,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar niezabudowany",
+          "lokalizacjaKod": "SLA.C.008",
+          "lokalizacjaDelegatura": "Śląska",
+          "lokalizacjaNrDrogi": "45",
+          "lokalizacjaKmDrogi": null,
+          "lokalizacjaHmDrogi": null,
+          "lokalizacjaObszarZabudowany": false,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "OPOLSKIE",
+          "lokalizacjaAdresPowiat": "kędzierzyńsko-kozielski",
+          "lokalizacjaAdresGmina": "Reńska Wieś",
+          "lokalizacjaAdresKodPocztowy": "47-208",
+          "lokalizacjaAdresMiejscowosc": "Większyce",
+          "lokalizacjaAdresUlica": null,
+          "lokalizacjaDlugGeoSt": 18,
+          "lokalizacjaDlugGeoMin": 5,
+          "lokalizacjaDlugGeoSek": 33.7,
+          "lokalizacjaSzerGeoSt": 50,
+          "lokalizacjaSzerGeoMin": 20,
+          "lokalizacjaSzerGeoSek": 37.6,
+          "masztNrSeryjny": "PKP3 S1",
+          "masztTypUrzadzenia": "Supply Hub",
+          "masztProducent": "VITRONIC Machine Vision GmbH",
+          "masztRokProdukcji": 2026,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -30,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": null,
+          "dlugoscOdcinka1": null,
+          "dlugoscOdcinka2": null,
+          "dlugoscOdcinka1Str": null,
+          "dlugoscOdcinka2Str": null,
+          "nazwaKierunku1": null,
+          "nazwaKierunku2": null,
+          "lokalizacjaDrugiegoPunktu": null,
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": null,
+          "hmDrugiPunkt": null,
+          "dlugGeoStDp": null,
+          "dlugGeoMisDp": null,
+          "dlugGeoSekDp": null,
+          "szerGeoStDp": null,
+          "szerGeoMinDp": null,
+          "szerGeoSekDp": null,
+          "mobilne": false,
+          "jestStatystyka": false,
+          "jestLimit": false
+        },
+        "limity": [],
+        "swiadectwaLegalizacji": [],
+        "id": 117620144,
+        "brdW1DaneZOkresu": [],
+        "brdW2DaneSredniaPerMiesiac": [],
+        "brdW3DaneSumaPerMiesiac": [],
+        "brdW4DaneSumaPerOkres": [],
+        "jestStatystyka": false,
+        "jestLimit": false,
         "rodzaj": "URZADZENIE"
       }
     },
@@ -187013,6 +187602,94 @@
         "limity": [],
         "swiadectwaLegalizacji": [],
         "id": 6289941,
+        "brdW1DaneZOkresu": [],
+        "brdW2DaneSredniaPerMiesiac": [],
+        "brdW3DaneSumaPerMiesiac": [],
+        "brdW4DaneSumaPerOkres": [],
+        "jestStatystyka": false,
+        "jestLimit": false,
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "red_light",
+      "label": "Rejestracja przejazdu na czerwonym świetle",
+      "summary": {
+        "id": 119255957,
+        "lon": 20.299083333333336,
+        "lat": 49.971805555555555,
+        "rodzajPomiaru": "PC",
+        "nrSeryjny": "0110701",
+        "lok2PktDlugosc": null,
+        "lok2PktSzerokosc": null
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=RL",
+      "detail": {
+        "lon": 20.299083333333336,
+        "lat": 49.971805555555555,
+        "urzadzenie": {
+          "id": 119255957,
+          "nrSeryjny": "0110701",
+          "typUrzadzenia": "VITRONIC SSP-X",
+          "rodzajPomiaru": "PC",
+          "producent": "VITRONIC Machine Vision GmbH",
+          "rokProdukcji": 2026,
+          "temperaturaPracyMax": null,
+          "temperaturaPracyMin": null,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar niezabudowany",
+          "lokalizacjaKod": "PLD.C.009",
+          "lokalizacjaDelegatura": "Południowa",
+          "lokalizacjaNrDrogi": "94",
+          "lokalizacjaKmDrogi": 21,
+          "lokalizacjaHmDrogi": 150,
+          "lokalizacjaObszarZabudowany": false,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "MAŁOPOLSKIE",
+          "lokalizacjaAdresPowiat": "wielicki",
+          "lokalizacjaAdresGmina": "Kłaj",
+          "lokalizacjaAdresKodPocztowy": "32-015",
+          "lokalizacjaAdresMiejscowosc": "Targowisko",
+          "lokalizacjaAdresUlica": null,
+          "lokalizacjaDlugGeoSt": 20,
+          "lokalizacjaDlugGeoMin": 17,
+          "lokalizacjaDlugGeoSek": 56.7,
+          "lokalizacjaSzerGeoSt": 49,
+          "lokalizacjaSzerGeoMin": 58,
+          "lokalizacjaSzerGeoSek": 18.5,
+          "masztNrSeryjny": "RL7 S3",
+          "masztTypUrzadzenia": "Supply Hub",
+          "masztProducent": "VITRONIC Machine Vision GmbH",
+          "masztRokProdukcji": 2026,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -30,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": null,
+          "dlugoscOdcinka1": null,
+          "dlugoscOdcinka2": null,
+          "dlugoscOdcinka1Str": null,
+          "dlugoscOdcinka2Str": null,
+          "nazwaKierunku1": null,
+          "nazwaKierunku2": null,
+          "lokalizacjaDrugiegoPunktu": null,
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": null,
+          "hmDrugiPunkt": null,
+          "dlugGeoStDp": null,
+          "dlugGeoMisDp": null,
+          "dlugGeoSekDp": null,
+          "szerGeoStDp": null,
+          "szerGeoMinDp": null,
+          "szerGeoSekDp": null,
+          "mobilne": false,
+          "jestStatystyka": false,
+          "jestLimit": false
+        },
+        "limity": [],
+        "swiadectwaLegalizacji": [],
+        "id": 119255957,
         "brdW1DaneZOkresu": [],
         "brdW2DaneSredniaPerMiesiac": [],
         "brdW3DaneSumaPerMiesiac": [],
