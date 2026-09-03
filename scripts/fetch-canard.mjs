@@ -1,4 +1,4 @@
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 
 const PAGE_URL = "https://www.canard.gitd.gov.pl/cms/o-nas/mapa-urzadzen";
@@ -7,6 +7,8 @@ const BASE64_ALPHABET =
 const OUTPUT_FILE = resolve(process.env.CANARD_OUTPUT_FILE ?? "canard.json");
 const CONCURRENCY = 8;
 const DEFAULT_ITEM_RETRIES = 2;
+
+class EmptyDetailResponseError extends Error {}
 
 function readItemRetries(args) {
   const inlineOption = args.find((argument) =>
@@ -264,6 +266,12 @@ async function fetchDetail(item, namespace) {
       [`${namespace}id`]: String(item.summary.id),
     }),
   });
+  if (compressed.length === 0) {
+    throw new EmptyDetailResponseError(
+      `Empty response for ${item.category} object ${item.summary.id}`,
+    );
+  }
+
   const decoded = decompressFromUtf16(compressed);
   if (!decoded) {
     throw new Error(
@@ -281,18 +289,30 @@ async function fetchDetail(item, namespace) {
   return { ...item, detail };
 }
 
-async function fetchDetailWithRetry(item, namespace) {
+async function fetchDetailWithRetry(item, namespace, previousDetails) {
   for (let attempt = 0; attempt <= ITEM_RETRIES; attempt += 1) {
     try {
       return await fetchDetail(item, namespace);
     } catch (error) {
       if (attempt === ITEM_RETRIES) {
+        const previousDetail = previousDetails.get(
+          `${item.category}:${item.summary.id}`,
+        );
+        if (error instanceof EmptyDetailResponseError && previousDetail) {
+          console.warn(
+            `Using previous detail for ${item.category} object ` +
+              `${item.summary.id} after ${ITEM_RETRIES + 1} empty responses`,
+          );
+          return { ...item, detail: previousDetail };
+        }
+
         throw error;
       }
 
       console.warn(
         `Retrying ${item.category} object ${item.summary.id} ` +
-          `after failed attempt ${attempt + 1}/${ITEM_RETRIES + 1}`,
+          `after failed attempt ${attempt + 1}/${ITEM_RETRIES + 1}: ` +
+          `${error instanceof Error ? error.message : String(error)}`,
       );
       await new Promise((resolveDelay) =>
         setTimeout(resolveDelay, (attempt + 1) * 1_000),
@@ -303,7 +323,31 @@ async function fetchDetailWithRetry(item, namespace) {
   throw new Error(`Could not fetch ${item.category} object ${item.summary.id}`);
 }
 
-async function fetchAllRecords() {
+async function readPreviousDetails() {
+  let contents;
+  try {
+    contents = await readFile(OUTPUT_FILE, "utf8");
+  } catch (error) {
+    if (error instanceof Error && "code" in error && error.code === "ENOENT") {
+      return new Map();
+    }
+    throw error;
+  }
+
+  const previousDocument = JSON.parse(contents);
+  if (!Array.isArray(previousDocument.records)) {
+    throw new Error(`${OUTPUT_FILE} does not contain a records array`);
+  }
+
+  return new Map(
+    previousDocument.records.map((record) => [
+      `${record.category}:${record.summary.id}`,
+      record.detail,
+    ]),
+  );
+}
+
+async function fetchAllRecords(previousDetails) {
   const html = await fetchText(PAGE_URL);
   const { namespace, items } = parseIndex(html);
   const records = new Array(items.length);
@@ -314,7 +358,11 @@ async function fetchAllRecords() {
     while (nextIndex < items.length) {
       const index = nextIndex;
       nextIndex += 1;
-      records[index] = await fetchDetailWithRetry(items[index], namespace);
+      records[index] = await fetchDetailWithRetry(
+        items[index],
+        namespace,
+        previousDetails,
+      );
       completed += 1;
       console.info(`CANARD download: ${completed}/${items.length}`);
     }
@@ -330,7 +378,8 @@ async function fetchAllRecords() {
   return records;
 }
 
-const records = await fetchAllRecords();
+const previousDetails = await readPreviousDetails();
+const records = await fetchAllRecords(previousDetails);
 const document = {
   count: records.length,
   records,
