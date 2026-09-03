@@ -7,6 +7,7 @@ const BASE64_ALPHABET =
 const OUTPUT_FILE = resolve(process.env.CANARD_OUTPUT_FILE ?? "canard.json");
 const CONCURRENCY = 8;
 const DEFAULT_ITEM_RETRIES = 2;
+const DETAIL_REQUEST_DELAY_MS = 1_000;
 
 class DetailUnavailableError extends Error {}
 class DetailRequestError extends DetailUnavailableError {}
@@ -274,6 +275,10 @@ async function fetchDetail(item, namespace) {
     throw new DetailRequestError(
       `Request failed for ${item.category} object ${item.summary.id}`,
       { cause: error },
+    );
+  } finally {
+    await new Promise((resolveDelay) =>
+      setTimeout(resolveDelay, DETAIL_REQUEST_DELAY_MS),
     );
   }
 
