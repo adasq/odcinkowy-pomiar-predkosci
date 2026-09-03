@@ -8,7 +8,9 @@ const OUTPUT_FILE = resolve(process.env.CANARD_OUTPUT_FILE ?? "canard.json");
 const CONCURRENCY = 8;
 const DEFAULT_ITEM_RETRIES = 2;
 
-class EmptyDetailResponseError extends Error {}
+class DetailUnavailableError extends Error {}
+class DetailRequestError extends DetailUnavailableError {}
+class EmptyDetailResponseError extends DetailUnavailableError {}
 
 function readItemRetries(args) {
   const inlineOption = args.find((argument) =>
@@ -256,16 +258,25 @@ function parseIndex(html) {
 }
 
 async function fetchDetail(item, namespace) {
-  const compressed = await fetchText(item.detailUrl, {
-    method: "POST",
-    headers: {
-      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
-      referer: PAGE_URL,
-    },
-    body: new URLSearchParams({
-      [`${namespace}id`]: String(item.summary.id),
-    }),
-  });
+  let compressed;
+  try {
+    compressed = await fetchText(item.detailUrl, {
+      method: "POST",
+      headers: {
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+        referer: PAGE_URL,
+      },
+      body: new URLSearchParams({
+        [`${namespace}id`]: String(item.summary.id),
+      }),
+    });
+  } catch (error) {
+    throw new DetailRequestError(
+      `Request failed for ${item.category} object ${item.summary.id}`,
+      { cause: error },
+    );
+  }
+
   if (compressed.length === 0) {
     throw new EmptyDetailResponseError(
       `Empty response for ${item.category} object ${item.summary.id}`,
@@ -294,14 +305,22 @@ async function fetchDetailWithRetry(item, namespace, previousDetails) {
     try {
       return await fetchDetail(item, namespace);
     } catch (error) {
-      if (attempt === ITEM_RETRIES) {
-        const previousDetail = previousDetails.get(
-          `${item.category}:${item.summary.id}`,
+      const previousDetail = previousDetails.get(
+        `${item.category}:${item.summary.id}`,
+      );
+      if (error instanceof EmptyDetailResponseError && previousDetail) {
+        console.warn(
+          `Using previous detail for ${item.category} object ` +
+            `${item.summary.id} after an empty response`,
         );
-        if (error instanceof EmptyDetailResponseError && previousDetail) {
+        return { ...item, detail: previousDetail };
+      }
+
+      if (attempt === ITEM_RETRIES) {
+        if (error instanceof DetailUnavailableError && previousDetail) {
           console.warn(
             `Using previous detail for ${item.category} object ` +
-              `${item.summary.id} after ${ITEM_RETRIES + 1} empty responses`,
+              `${item.summary.id} after ${ITEM_RETRIES + 1} failed requests`,
           );
           return { ...item, detail: previousDetail };
         }
@@ -309,14 +328,13 @@ async function fetchDetailWithRetry(item, namespace, previousDetails) {
         throw error;
       }
 
+      const retryDelayMs = 2 ** attempt * 5_000 + Math.random() * 2_000;
       console.warn(
         `Retrying ${item.category} object ${item.summary.id} ` +
           `after failed attempt ${attempt + 1}/${ITEM_RETRIES + 1}: ` +
           `${error instanceof Error ? error.message : String(error)}`,
       );
-      await new Promise((resolveDelay) =>
-        setTimeout(resolveDelay, (attempt + 1) * 1_000),
-      );
+      await new Promise((resolveDelay) => setTimeout(resolveDelay, retryDelayMs));
     }
   }
 
