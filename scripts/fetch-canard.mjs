@@ -313,6 +313,17 @@ async function fetchDetailWithRetry(item, namespace, previousDetails) {
       const previousDetail = previousDetails.get(
         `${item.category}:${item.summary.id}`,
       );
+      if (
+        item.category === "control_point" &&
+        error instanceof EmptyDetailResponseError
+      ) {
+        console.warn(
+          `Leaving detail null for ${item.category} object ` +
+            `${item.summary.id} after an empty response`,
+        );
+        return { ...item, detail: null };
+      }
+
       if (error instanceof EmptyDetailResponseError && previousDetail) {
         console.warn(
           `Using previous detail for ${item.category} object ` +
@@ -322,6 +333,17 @@ async function fetchDetailWithRetry(item, namespace, previousDetails) {
       }
 
       if (attempt === ITEM_RETRIES) {
+        if (
+          item.category === "control_point" &&
+          error instanceof DetailUnavailableError
+        ) {
+          console.warn(
+            `Leaving detail null for ${item.category} object ` +
+              `${item.summary.id} after ${ITEM_RETRIES + 1} failed requests`,
+          );
+          return { ...item, detail: null };
+        }
+
         if (error instanceof DetailUnavailableError && previousDetail) {
           console.warn(
             `Using previous detail for ${item.category} object ` +
