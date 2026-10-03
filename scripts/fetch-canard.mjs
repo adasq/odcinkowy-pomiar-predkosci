@@ -233,14 +233,21 @@ async function fetchText(url, options = {}, attempts = 4) {
 function parseIndex(html) {
   const namespace = extractNamespace(html);
   const items = definitions.flatMap((definition) => {
+    const dataset = extractDataset(html, definition.configKey);
+    if (
+      definition.category === "control_point" &&
+      (dataset === "[{}]" || dataset === "[]")
+    ) {
+      console.warn("CANARD returned an empty control-point dataset; skipping it");
+      return [];
+    }
+
     const detailUrl = extractDetailUrl(
       html,
       definition.detailUrlKey,
       definition.legacyType,
     );
-    const decoded = decompressFromBase64(
-      extractDataset(html, definition.configKey),
-    );
+    const decoded = decompressFromBase64(dataset);
     if (!decoded) {
       throw new Error(
         `Could not decompress map dataset: ${definition.configKey}`,

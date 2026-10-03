@@ -8,5 +8,9 @@ Run `node scripts/fetch-canard.mjs` to update it locally. The updater waits one
 second after each detail request. Failed item downloads are retried twice with
 exponential backoff. Unavailable control-point details are stored as `null`. For
 other categories, the updater keeps the last known detail from `canard.json`.
+CANARD's uncompressed empty control-point placeholders, `[{}]` and `[]`, are
+treated as an empty dataset and skipped with a warning.
 Set another retry count with `--item-retries`, for example
 `node scripts/fetch-canard.mjs --item-retries 5`.
+
+Run `node --test scripts/fetch-canard.test.mjs` to check the updater.
