@@ -14,3 +14,9 @@ Set another retry count with `--item-retries`, for example
 `node scripts/fetch-canard.mjs --item-retries 5`.
 
 Run `node --test scripts/fetch-canard.test.mjs` to check the updater.
+
+The map index is parsed within the request retry loop: HTTP failures and pages
+with missing or invalid map configuration are retried up to four total attempts.
+Retry warnings include the parsing error; a missing namespace also reports the
+page title and response length. If all attempts fail, the updater exits without
+overwriting `canard.json`.
