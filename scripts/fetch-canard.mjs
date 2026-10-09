@@ -180,7 +180,12 @@ function extractNamespace(html) {
 
   const legacy = html.match(/([A-Za-z0-9_]+_)id\s*:\s*id/);
   if (!legacy) {
-    throw new Error("Could not find map configuration key: namespace");
+    const title = html.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i)?.[1]
+      ?.trim().slice(0, 120);
+    throw new Error(
+      "Could not find map configuration key: namespace " +
+        `(page title: ${title || "missing"}; ${html.length} characters)`,
+    );
   }
   return legacy[1];
 }
@@ -202,7 +207,12 @@ function extractDetailUrl(html, key, legacyType) {
   return legacy[1].replaceAll("&amp;", "&");
 }
 
-async function fetchText(url, options = {}, attempts = 4) {
+async function fetchResponse(
+  url,
+  options = {},
+  parseResponse = (text) => text,
+  attempts = 4,
+) {
   let lastError;
 
   for (let attempt = 1; attempt <= attempts; attempt += 1) {
@@ -214,10 +224,14 @@ async function fetchText(url, options = {}, attempts = 4) {
           `HTTP ${response.status} ${response.statusText}\n${responseText}`,
         );
       }
-      return responseText;
+      return parseResponse(responseText);
     } catch (error) {
       lastError = error;
       if (attempt < attempts) {
+        console.warn(
+          `Retrying CANARD request after failed attempt ${attempt}/${attempts}: ` +
+            `${error instanceof Error ? error.message : String(error)}`,
+        );
         await new Promise((resolveDelay) =>
           setTimeout(resolveDelay, attempt * 750),
         );
@@ -268,7 +282,7 @@ function parseIndex(html) {
 async function fetchDetail(item, namespace) {
   let compressed;
   try {
-    compressed = await fetchText(item.detailUrl, {
+    compressed = await fetchResponse(item.detailUrl, {
       method: "POST",
       headers: {
         "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
@@ -400,8 +414,7 @@ async function readPreviousDetails() {
 }
 
 async function fetchAllRecords(previousDetails) {
-  const html = await fetchText(PAGE_URL);
-  const { namespace, items } = parseIndex(html);
+  const { namespace, items } = await fetchResponse(PAGE_URL, {}, parseIndex);
   const records = new Array(items.length);
   let completed = 0;
   let nextIndex = 0;

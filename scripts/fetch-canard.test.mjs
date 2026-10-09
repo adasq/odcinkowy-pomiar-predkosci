@@ -35,15 +35,18 @@ function mapHtml(controlPoints, legacy) {
   ].join("\n");
 }
 
-async function runUpdater(controlPoints, legacy = false) {
+async function runUpdater(controlPoints, legacy = false, indexResponses) {
   const directory = await mkdtemp(join(tmpdir(), "fetch-canard-test-"));
   const outputFile = join(directory, "canard.json");
   const previousContents = '{"count":0,"records":[]}\n';
   const preload = `
     globalThis.setTimeout = (callback) => callback();
+    const indexResponses = ${JSON.stringify(indexResponses ?? [mapHtml(controlPoints, legacy)])};
+    let indexRequests = 0;
     globalThis.fetch = async (url, options) => {
       if (options?.method !== "POST") {
-        return new Response(${JSON.stringify(mapHtml(controlPoints, legacy))});
+        console.info("Index request " + (++indexRequests));
+        return new Response(indexResponses[Math.min(indexRequests - 1, indexResponses.length - 1)]);
       }
       const id = options.body.get("map_id");
       if (id !== "1" && id !== "2") {
@@ -120,4 +123,42 @@ test("rejects malformed control-point data without overwriting the output", asyn
   const result = await runUpdater("[invalid]");
   assert.notEqual(result.status, 0);
   assert.match(result.stderr, /Invalid LZString payload/);
+});
+
+test("retries a page without map configuration before downloading details", async () => {
+  const result = await runUpdater(COMPRESSED_CONTROL_POINT, false, [
+    "<html><title>Temporarily unavailable</title></html>",
+    mapHtml(COMPRESSED_CONTROL_POINT, false),
+  ]);
+
+  assert.equal(result.status, 0, result.stderr);
+  assert.match(result.stdout, /Index request 2/);
+  assert.match(result.stderr, /namespace/);
+  assert.match(result.stderr, /Temporarily unavailable/);
+  assert.equal(result.document.count, 4);
+  assert.ok(result.document.records.every((record) => record.detail));
+});
+
+test("retries an incomplete map configuration before downloading details", async () => {
+  const result = await runUpdater(COMPRESSED_CONTROL_POINT, false, [
+    'namespace:"map_"',
+    mapHtml(COMPRESSED_CONTROL_POINT, false),
+  ]);
+
+  assert.equal(result.status, 0, result.stderr);
+  assert.match(result.stdout, /Index request 2/);
+  assert.match(result.stderr, /Could not find map dataset: fotoradaryPP/);
+  assert.equal(result.document.count, 4);
+});
+
+test("stops after four invalid index responses without overwriting the output", async () => {
+  const result = await runUpdater(COMPRESSED_CONTROL_POINT, false, [
+    "<html><title>Temporarily unavailable</title></html>",
+  ]);
+
+  assert.notEqual(result.status, 0);
+  assert.match(result.stdout, /Index request 4/);
+  assert.doesNotMatch(result.stdout, /Index request 5|CANARD download/);
+  assert.match(result.stderr, /Could not find map configuration key: namespace/);
+  assert.equal(result.document.count, 0);
 });
