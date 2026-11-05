@@ -1,5 +1,5 @@
 {
-  "count": 804,
+  "count": 803,
   "records": [
     {
       "category": "point_speed",
@@ -1877,7 +1877,7 @@
             "link": "/documents/20123/39846/23143FU10003698_2026-08-12_2027-09-12_123831685.pdf",
             "fileHash": "423457A84D471B0C962526877229BE87",
             "liferayEntryId": 1651883,
-            "dataWeryfikacji": "2026-10-27T22:39:00"
+            "dataWeryfikacji": "2026-11-04T22:39:06"
           },
           {
             "id": 109595117,
@@ -10370,7 +10370,7 @@
             "link": "/documents/20123/39846/23114FU10003627_2026-08-13_2027-09-13_123843424.pdf",
             "fileHash": "23C7A31E2ABD9C756C0BFA223E5E7CA2",
             "liferayEntryId": 1651851,
-            "dataWeryfikacji": "2026-10-27T22:38:56"
+            "dataWeryfikacji": "2026-11-04T22:39:01"
           },
           {
             "id": 109545166,
@@ -16592,7 +16592,7 @@
             "link": "/documents/20123/39846/23114FU10003625_2026-08-13_2027-09-13_123843378.pdf",
             "fileHash": "00D29047AD42C41D7CD11779BA16F333",
             "liferayEntryId": 1651835,
-            "dataWeryfikacji": "2026-10-27T22:38:55"
+            "dataWeryfikacji": "2026-11-04T22:39:01"
           },
           {
             "id": 109545013,
@@ -19106,7 +19106,7 @@
             "link": "/documents/20123/39846/23080FUS1000002_2026-07-23_2027-08-23_122766221.pdf",
             "fileHash": "637DDA60D8F13AF1780E45BDBF495A1C",
             "liferayEntryId": 1639750,
-            "dataWeryfikacji": "2026-10-27T22:38:52"
+            "dataWeryfikacji": "2026-11-04T22:38:58"
           },
           {
             "id": 109048253,
@@ -19680,13 +19680,13 @@
             "rodzajDokumentu": "Świadectwo legalizacji ponownej",
             "dataWydania": "2026-09-15",
             "dataWaznosci": "2027-10-15",
-            "zalacznikId": 125485879,
-            "zalacznikNazwa": "MFRN_23088FUS10000026_20271015..pdf",
+            "zalacznikId": 125370696,
+            "zalacznikNazwa": "MFRN_23088FUS10000026_20271015.pdf",
             "zalacznikOpis": "",
-            "link": "/documents/20123/39846/23088FUS1000026_2026-09-15_2027-10-15_125485879.pdf",
-            "fileHash": "13CAE73FAFE7D66E4832044379F0417E",
-            "liferayEntryId": 1672855,
-            "dataWeryfikacji": "2026-10-30T22:40:37"
+            "link": "/documents/20123/39846/23088FUS1000026_2026-09-15_2027-10-15_125370696.pdf",
+            "fileHash": "9BA9FAFD0F806A7C772C929A21D20F11",
+            "liferayEntryId": 1669064,
+            "dataWeryfikacji": "2026-11-04T22:39:38"
           },
           {
             "id": 110813689,
@@ -22329,7 +22329,7 @@
             "link": "/documents/20123/39846/593-072-73245_2025-04-16_2026-05-12_106685604.pdf",
             "fileHash": "EE2F1BD54816C183072E0EE6CE8282AF",
             "liferayEntryId": 1608953,
-            "dataWeryfikacji": "2026-10-27T22:38:40"
+            "dataWeryfikacji": "2026-11-04T22:38:45"
           }
         ],
         "id": 83727151,
@@ -26409,7 +26409,7 @@
             "link": "/documents/20123/39846/23145FU10003713_2026-07-16_2027-08-16_122471389.pdf",
             "fileHash": "5DDDA3F93E9598E7DE9319FE8A5CF957",
             "liferayEntryId": 1637215,
-            "dataWeryfikacji": "2026-10-27T22:39:29"
+            "dataWeryfikacji": "2026-11-04T22:39:37"
           },
           {
             "id": 108609008,
@@ -28506,7 +28506,7 @@
             "link": "/documents/20123/39846/23170FU10003804_2026-09-14_2027-10-14_125213250.pdf",
             "fileHash": "7A376A1770AD37E139687122BB3FF84E",
             "liferayEntryId": 1666997,
-            "dataWeryfikacji": "2026-10-27T22:39:30"
+            "dataWeryfikacji": "2026-11-04T22:39:38"
           },
           {
             "id": 111176145,
@@ -31357,7 +31357,7 @@
             "link": "/documents/20123/39846/643294-60083_2026-01-23_2026-06-23_115839435.pdf",
             "fileHash": "2EFA96DF1656E7C8D56A0F97ABA93DC6",
             "liferayEntryId": 1627879,
-            "dataWeryfikacji": "2026-10-27T22:39:37"
+            "dataWeryfikacji": "2026-11-04T22:39:46"
           }
         ],
         "id": 115839265,
@@ -33132,7 +33132,7 @@
             "link": "/documents/20123/39846/23081FUS1000005_2026-06-19_2027-07-19_121383941.pdf",
             "fileHash": "D11315A81EAB33EF2136941BBDF8029E",
             "liferayEntryId": 1625910,
-            "dataWeryfikacji": "2026-10-27T22:38:49"
+            "dataWeryfikacji": "2026-11-04T22:38:54"
           },
           {
             "id": 107799929,
@@ -33712,7 +33712,7 @@
             "link": "/documents/20123/39846/23081FUS1000006_2026-07-23_2027-08-23_122766282.pdf",
             "fileHash": "EECAAEE96EBAA652A4EE9C3A225D420F",
             "liferayEntryId": 1639766,
-            "dataWeryfikacji": "2026-10-27T22:38:53"
+            "dataWeryfikacji": "2026-11-04T22:38:58"
           },
           {
             "id": 109048320,
@@ -35502,7 +35502,7 @@
             "link": "/documents/20123/39846/23144FU10003706_2026-09-15_2027-10-15_125213966.pdf",
             "fileHash": "BD0C92C295DA723A9AD7C82234008BDF",
             "liferayEntryId": 1666904,
-            "dataWeryfikacji": "2026-10-27T22:39:24"
+            "dataWeryfikacji": "2026-11-04T22:39:32"
           },
           {
             "id": 110674779,
@@ -36484,7 +36484,7 @@
             "link": "/documents/20123/39846/593-072-73246_2025-04-16_2026-05-12_106685689.pdf",
             "fileHash": "48F5EF08DA09747140C58F8B8B26E69B",
             "liferayEntryId": 1608969,
-            "dataWeryfikacji": "2026-10-27T22:38:41"
+            "dataWeryfikacji": "2026-11-04T22:38:46"
           }
         ],
         "id": 83727354,
@@ -39305,7 +39305,7 @@
             "link": "/documents/20123/39846/23076FUS1000001_2026-07-16_2027-08-16_122470567.pdf",
             "fileHash": "2CE703E76D5BD59751767FFEB5D06A97",
             "liferayEntryId": 1637039,
-            "dataWeryfikacji": "2026-10-27T22:38:44"
+            "dataWeryfikacji": "2026-11-04T22:38:49"
           },
           {
             "id": 108609108,
@@ -39910,120 +39910,6 @@
             "kolizjeBrd": null
           }
         ],
-        "rodzaj": "URZADZENIE"
-      }
-    },
-    {
-      "category": "point_speed",
-      "label": "Pomiar punktowy",
-      "summary": {
-        "id": 113122295,
-        "lon": 17.365166666666667,
-        "lat": 50.88733333333333,
-        "rodzajPomiaru": "PP",
-        "nrSeryjny": "643294-60065",
-        "lok2PktDlugosc": null,
-        "lok2PktSzerokosc": null
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PP",
-      "detail": {
-        "lon": 17.365166666666667,
-        "lat": 50.88733333333333,
-        "urzadzenie": {
-          "id": 113122295,
-          "nrSeryjny": "643294-60065",
-          "typUrzadzenia": "TraffiStar SR390",
-          "rodzajPomiaru": "PP",
-          "producent": "Jenoptik Robot",
-          "rokProdukcji": 2025,
-          "temperaturaPracyMax": 60,
-          "temperaturaPracyMin": -20,
-          "stanTechniczny": "Sprawne",
-          "lokalizacjaMiejsce": "Obszar zabudowany",
-          "lokalizacjaKod": "PDZ.2.098",
-          "lokalizacjaDelegatura": "Południowo-Zachodnia",
-          "lokalizacjaNrDrogi": "94",
-          "lokalizacjaKmDrogi": 132,
-          "lokalizacjaHmDrogi": 467,
-          "lokalizacjaObszarZabudowany": true,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "DOLNOŚLĄSKIE",
-          "lokalizacjaAdresPowiat": "oławski",
-          "lokalizacjaAdresGmina": "Oława",
-          "lokalizacjaAdresKodPocztowy": "55-200",
-          "lokalizacjaAdresMiejscowosc": "Gać",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 17,
-          "lokalizacjaDlugGeoMin": 21,
-          "lokalizacjaDlugGeoSek": 54.6,
-          "lokalizacjaSzerGeoSt": 50,
-          "lokalizacjaSzerGeoMin": 53,
-          "lokalizacjaSzerGeoSek": 14.4,
-          "masztNrSeryjny": "LIFSR 012",
-          "masztTypUrzadzenia": "TraffiCompact",
-          "masztProducent": "Jenoptik Robot",
-          "masztRokProdukcji": 2025,
-          "masztTemperaturaPracyMax": 60,
-          "masztTemperaturaPracyMin": -20,
-          "masztStanTechniczny": "Sprawne",
-          "masztKierunekPomiaru": "Pikietaz rosnacy",
-          "dataUplywuWazLegalizacji": "2026-11-24",
-          "dlugoscOdcinka1": null,
-          "dlugoscOdcinka2": null,
-          "dlugoscOdcinka1Str": null,
-          "dlugoscOdcinka2Str": null,
-          "nazwaKierunku1": null,
-          "nazwaKierunku2": null,
-          "lokalizacjaDrugiegoPunktu": null,
-          "lok2PktDlugosc": null,
-          "lok2PktSzerokosc": null,
-          "kmDrugiPunkt": null,
-          "hmDrugiPunkt": null,
-          "dlugGeoStDp": null,
-          "dlugGeoMisDp": null,
-          "dlugGeoSekDp": null,
-          "szerGeoStDp": null,
-          "szerGeoMinDp": null,
-          "szerGeoSekDp": null,
-          "mobilne": false,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "50",
-            "limitCiezarowe": "50",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY"
-            }
-          }
-        ],
-        "swiadectwaLegalizacji": [
-          {
-            "id": 114968800,
-            "idUrzadzenia": 113122295,
-            "numerDokumentu": "OUM05.WL.45.1520.2025.2",
-            "rodzajDokumentu": "Świadectwo legalizacji pierwotnej",
-            "dataWydania": "2025-10-24",
-            "dataWaznosci": "2026-11-24",
-            "zalacznikId": 114968801,
-            "zalacznikNazwa": "SR390_60065_20261124.pdf",
-            "zalacznikOpis": "",
-            "link": "/documents/20123/39846/643294-60065_2025-10-24_2026-11-24_114968801.pdf",
-            "fileHash": "C500BD85964930D8A56A34E7BCFB3CE5",
-            "liferayEntryId": 1559264,
-            "dataWeryfikacji": "2026-10-27T22:39:32"
-          }
-        ],
-        "id": 113122295,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "brdW1DaneZOkresu": [],
-        "brdW2DaneSredniaPerMiesiac": [],
-        "brdW3DaneSumaPerMiesiac": [],
-        "brdW4DaneSumaPerOkres": [],
         "rodzaj": "URZADZENIE"
       }
     },
@@ -41095,7 +40981,7 @@
             "link": "/documents/20123/39846/23167FU10003792_2026-09-14_2027-10-14_125213751.pdf",
             "fileHash": "A34BDDF4EA970CB6B100706B7FFBC576",
             "liferayEntryId": 1666984,
-            "dataWeryfikacji": "2026-10-27T22:39:30"
+            "dataWeryfikacji": "2026-11-04T22:39:37"
           },
           {
             "id": 111176098,
@@ -41690,7 +41576,7 @@
             "link": "/documents/20123/39846/593-072-73242_2025-04-16_2026-05-12_106685655.pdf",
             "fileHash": "CC4EC147EBDDA7D45EEB219737449470",
             "liferayEntryId": 1608937,
-            "dataWeryfikacji": "2026-10-27T22:38:38"
+            "dataWeryfikacji": "2026-11-04T22:38:43"
           }
         ],
         "id": 83494583,
@@ -42255,7 +42141,7 @@
             "link": "/documents/20123/39846/23136FU10003684_2026-07-09_2027-08-09_122488292.pdf",
             "fileHash": "B848E81ADEEE299F93AB33741308639E",
             "liferayEntryId": 1637167,
-            "dataWeryfikacji": "2026-10-27T22:38:59"
+            "dataWeryfikacji": "2026-11-04T22:39:05"
           },
           {
             "id": 108448873,
@@ -45929,7 +45815,7 @@
             "link": "/documents/20123/39846/593-072_71992_2026-10-16_2027-11-16_126411700.pdf",
             "fileHash": "0CA511E9D314A2044F27B782333F1A54",
             "liferayEntryId": 1683267,
-            "dataWeryfikacji": "2026-10-26T22:38:19"
+            "dataWeryfikacji": "2026-11-04T22:38:31"
           },
           {
             "id": 122183370,
@@ -47233,7 +47119,7 @@
             "link": "/documents/20123/39846/643294-60057_2025-07-25_2026-08-18_111998617.pdf",
             "fileHash": "B36CFEF21FF4FA0DDC061F8C4F0A82FE",
             "liferayEntryId": 1655925,
-            "dataWeryfikacji": "2026-10-27T22:39:31"
+            "dataWeryfikacji": "2026-11-04T22:39:39"
           }
         ],
         "id": 111995342,
@@ -47461,7 +47347,7 @@
             "link": "/documents/20123/39846/23081FUS1000008_2026-07-23_2027-08-23_122766363.pdf",
             "fileHash": "61BD32875D5FF1B7FBB6EC3C8514A7B1",
             "liferayEntryId": 1639782,
-            "dataWeryfikacji": "2026-10-27T22:38:53"
+            "dataWeryfikacji": "2026-11-04T22:38:59"
           },
           {
             "id": 109048478,
@@ -53569,7 +53455,7 @@
             "link": "/documents/20123/39846/23088FUS1000021_2026-06-12_2027-07-12_121384232.pdf",
             "fileHash": "9A73F6FF29B752F3260BE9E28063ADF5",
             "liferayEntryId": 1625894,
-            "dataWeryfikacji": "2026-10-27T22:38:48"
+            "dataWeryfikacji": "2026-11-04T22:38:54"
           },
           {
             "id": 107734341,
@@ -54858,7 +54744,7 @@
             "link": "/documents/20123/39846/23087FUS1000017_2026-06-19_2027-07-19_121383802.pdf",
             "fileHash": "D8D656AF21A3F534D07031D7E89DDE79",
             "liferayEntryId": 1625942,
-            "dataWeryfikacji": "2026-10-27T22:38:50"
+            "dataWeryfikacji": "2026-11-04T22:38:55"
           },
           {
             "id": 108363929,
@@ -55438,7 +55324,7 @@
             "link": "/documents/20123/39846/23088FUS1000020_2026-06-19_2027-07-19_121383119.pdf",
             "fileHash": "BCB504133563DED02F66AB2BCCC620FB",
             "liferayEntryId": 1625974,
-            "dataWeryfikacji": "2026-10-27T22:38:51"
+            "dataWeryfikacji": "2026-11-04T22:38:57"
           },
           {
             "id": 108363736,
@@ -57550,7 +57436,7 @@
             "link": "/documents/20123/39846/23143FU10003701_2026-08-05_2027-09-05_123847751.pdf",
             "fileHash": "F8E394CF0C62E28F8097C27905A366A4",
             "liferayEntryId": 1651912,
-            "dataWeryfikacji": "2026-10-27T22:39:10"
+            "dataWeryfikacji": "2026-11-04T22:39:16"
           },
           {
             "id": 110429442,
@@ -57565,7 +57451,7 @@
             "link": "/documents/20123/39846/23143FU10003701_2025-08-05_2026-08-04_110429444.pdf",
             "fileHash": "95AD01309E19277A277F0F31CAB63558",
             "liferayEntryId": 1655877,
-            "dataWeryfikacji": "2026-10-27T22:39:10"
+            "dataWeryfikacji": "2026-11-04T22:39:15"
           }
         ],
         "id": 89564044,
@@ -61338,7 +61224,7 @@
             "link": "/documents/20123/39846/23136FU10003685_2026-09-16_2027-10-16_125214286.pdf",
             "fileHash": "EF163CDC4B8F7737D65CFB3C33F161A4",
             "liferayEntryId": 1666936,
-            "dataWeryfikacji": "2026-10-27T22:39:27"
+            "dataWeryfikacji": "2026-11-04T22:39:34"
           },
           {
             "id": 110674584,
@@ -61467,7 +61353,7 @@
             "link": "/documents/20123/39846/23142FU10003692_2026-09-16_2027-10-16_125214214.pdf",
             "fileHash": "E5BFE2C6C3D23DD15CFCBF039750B899",
             "liferayEntryId": 1666920,
-            "dataWeryfikacji": "2026-10-27T22:39:25"
+            "dataWeryfikacji": "2026-11-04T22:39:33"
           },
           {
             "id": 110675058,
@@ -63272,7 +63158,7 @@
             "link": "/documents/20123/39846/23081FUS1000007_2026-07-16_2027-08-16_122470117.pdf",
             "fileHash": "CE3BA1FF635697036E5436CC743CD4B1",
             "liferayEntryId": 1637087,
-            "dataWeryfikacji": "2026-10-27T22:38:46"
+            "dataWeryfikacji": "2026-11-04T22:38:51"
           },
           {
             "id": 108609245,
@@ -64368,7 +64254,7 @@
             "link": "/documents/20123/39846/23083FUS1000013_2026-07-23_2027-08-23_122766156.pdf",
             "fileHash": "4D6A7BE1B3470BA22FA0B5070D2614E6",
             "liferayEntryId": 1639734,
-            "dataWeryfikacji": "2026-10-27T22:38:52"
+            "dataWeryfikacji": "2026-11-04T22:38:57"
           },
           {
             "id": 109048182,
@@ -64948,7 +64834,7 @@
             "link": "/documents/20123/39846/23087FUS1000016_2026-06-19_2027-07-19_121383068.pdf",
             "fileHash": "26317662308CEEAB8815A39ACB41F803",
             "liferayEntryId": 1625958,
-            "dataWeryfikacji": "2026-10-27T22:38:51"
+            "dataWeryfikacji": "2026-11-04T22:38:56"
           },
           {
             "id": 108363855,
@@ -66834,6 +66720,860 @@
       "category": "point_speed",
       "label": "Pomiar punktowy",
       "summary": {
+        "id": 570296,
+        "lon": 21.08,
+        "lat": 50.77638888888889,
+        "rodzajPomiaru": "PP",
+        "nrSeryjny": "593-072/71670",
+        "lok2PktDlugosc": null,
+        "lok2PktSzerokosc": null
+      },
+      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=PP",
+      "detail": {
+        "lon": 21.08,
+        "lat": 50.77638888888889,
+        "urzadzenie": {
+          "id": 570296,
+          "nrSeryjny": "593-072/71670",
+          "typUrzadzenia": "Multaradar CD",
+          "rodzajPomiaru": "PP",
+          "producent": "Jenoptik Robot",
+          "rokProdukcji": 2013,
+          "temperaturaPracyMax": 60,
+          "temperaturaPracyMin": -30,
+          "stanTechniczny": "Sprawne",
+          "lokalizacjaMiejsce": "Obszar zabudowany",
+          "lokalizacjaKod": "PLD.2.090",
+          "lokalizacjaDelegatura": "Południowa",
+          "lokalizacjaNrDrogi": "74",
+          "lokalizacjaKmDrogi": 117,
+          "lokalizacjaHmDrogi": 715,
+          "lokalizacjaObszarZabudowany": true,
+          "lokalizacjaObiektUzytPubl": false,
+          "lokalizacjaAdresWojewodztwo": "ŚWIĘTOKRZYSKIE",
+          "lokalizacjaAdresPowiat": "kielecki",
+          "lokalizacjaAdresGmina": "Łagów",
+          "lokalizacjaAdresKodPocztowy": "26-025",
+          "lokalizacjaAdresMiejscowosc": "Łagów",
+          "lokalizacjaAdresUlica": null,
+          "lokalizacjaDlugGeoSt": 21,
+          "lokalizacjaDlugGeoMin": 4,
+          "lokalizacjaDlugGeoSek": 48,
+          "lokalizacjaSzerGeoSt": 50,
+          "lokalizacjaSzerGeoMin": 46,
+          "lokalizacjaSzerGeoSek": 35,
+          "masztNrSeryjny": "GITD 41",
+          "masztTypUrzadzenia": "Crown",
+          "masztProducent": "Crown International",
+          "masztRokProdukcji": 2013,
+          "masztTemperaturaPracyMax": 60,
+          "masztTemperaturaPracyMin": -30,
+          "masztStanTechniczny": "Sprawne",
+          "masztKierunekPomiaru": "Pikietaz rosnacy",
+          "dataUplywuWazLegalizacji": "2027-04-11",
+          "dlugoscOdcinka1": null,
+          "dlugoscOdcinka2": null,
+          "dlugoscOdcinka1Str": null,
+          "dlugoscOdcinka2Str": null,
+          "nazwaKierunku1": null,
+          "nazwaKierunku2": null,
+          "lokalizacjaDrugiegoPunktu": null,
+          "lok2PktDlugosc": null,
+          "lok2PktSzerokosc": null,
+          "kmDrugiPunkt": null,
+          "hmDrugiPunkt": null,
+          "dlugGeoStDp": null,
+          "dlugGeoMisDp": null,
+          "dlugGeoSekDp": null,
+          "szerGeoStDp": null,
+          "szerGeoMinDp": null,
+          "szerGeoSekDp": null,
+          "mobilne": false,
+          "jestStatystyka": true,
+          "jestLimit": true
+        },
+        "limity": [
+          {
+            "limitOsobowe": "50",
+            "limitCiezarowe": "50",
+            "typ": {
+              "kierunek": "",
+              "godziny": "",
+              "kierunekPikietazu": "MALEJACY"
+            }
+          }
+        ],
+        "swiadectwaLegalizacji": [
+          {
+            "id": 117161396,
+            "idUrzadzenia": 570296,
+            "numerDokumentu": "OUM05.WL.45.408.2026.1",
+            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
+            "dataWydania": "2026-03-11",
+            "dataWaznosci": "2027-04-11",
+            "zalacznikId": 117161397,
+            "zalacznikNazwa": "MRCD_71670_20270411.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/593-072_71670_2026-03-11_2027-04-11_117161397.pdf",
+            "fileHash": "6A987F1E061CBEB3E848029CC92B1A49",
+            "liferayEntryId": 1580228,
+            "dataWeryfikacji": "2026-11-02T22:38:03"
+          },
+          {
+            "id": 103772527,
+            "idUrzadzenia": 570296,
+            "numerDokumentu": "OUM05.WL.45.1.2025.4",
+            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
+            "dataWydania": "2025-01-08",
+            "dataWaznosci": "2026-02-08",
+            "zalacznikId": 103772529,
+            "zalacznikNazwa": "MCD_71670_20260208.pdf",
+            "zalacznikOpis": "",
+            "link": "/documents/20123/39846/593-072_71670_2025-01-08_2026-02-08_103772529.pdf",
+            "fileHash": "9E16DE307C515C89CF4EB7432D5B6B7B",
+            "liferayEntryId": 1415147,
+            "dataWeryfikacji": "2026-11-02T22:38:02"
+          }
+        ],
+        "id": 570296,
+        "jestStatystyka": true,
+        "jestLimit": true,
+        "brdW1DaneZOkresu": [
+          {
+            "id": 1414,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "srWypadki": 0.2,
+            "srZabici": 0.1,
+            "srRanni": 0.3,
+            "srCiezkoRanni": null,
+            "srKolizje": 1.1,
+            "sumaWypadki": 12,
+            "sumaZabici": 5,
+            "sumaRanni": 19,
+            "sumaCiezkoRanni": null,
+            "sumaKolizje": 64,
+            "danePerRok": [
+              {
+                "id": 15377,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2013,
+                "srWypadki": 0.2,
+                "srWypadkiBrd": 16.7,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0.2,
+                "srRanniBrd": 47.4,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.8,
+                "srKolizjeBrd": 29.7,
+                "sumaWypadki": 2,
+                "sumaZabici": 0,
+                "sumaRanni": 2,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 9
+              },
+              {
+                "id": 15388,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2014,
+                "srWypadki": 0.1,
+                "srWypadkiBrd": 58.3,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0.1,
+                "srRanniBrd": 73.7,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.3,
+                "srKolizjeBrd": 68.8,
+                "sumaWypadki": 1,
+                "sumaZabici": 0,
+                "sumaRanni": 1,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 4
+              },
+              {
+                "id": 15383,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2015,
+                "srWypadki": 0,
+                "srWypadkiBrd": 100,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0,
+                "srRanniBrd": 100,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.3,
+                "srKolizjeBrd": 76.6,
+                "sumaWypadki": 0,
+                "sumaZabici": 0,
+                "sumaRanni": 0,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 3
+              },
+              {
+                "id": 15378,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2016,
+                "srWypadki": 0.2,
+                "srWypadkiBrd": 16.7,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0.2,
+                "srRanniBrd": 47.4,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.7,
+                "srKolizjeBrd": 37.5,
+                "sumaWypadki": 2,
+                "sumaZabici": 0,
+                "sumaRanni": 2,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 8
+              },
+              {
+                "id": 15385,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2017,
+                "srWypadki": 0.2,
+                "srWypadkiBrd": 16.7,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0.3,
+                "srRanniBrd": 21.1,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.8,
+                "srKolizjeBrd": 29.7,
+                "sumaWypadki": 2,
+                "sumaZabici": 0,
+                "sumaRanni": 3,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 9
+              },
+              {
+                "id": 15386,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2018,
+                "srWypadki": 0,
+                "srWypadkiBrd": 100,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0,
+                "srRanniBrd": 100,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.8,
+                "srKolizjeBrd": 21.9,
+                "sumaWypadki": 0,
+                "sumaZabici": 0,
+                "sumaRanni": 0,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 10
+              },
+              {
+                "id": 15382,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2019,
+                "srWypadki": 0,
+                "srWypadkiBrd": 100,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0,
+                "srRanniBrd": 100,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.4,
+                "srKolizjeBrd": 60.9,
+                "sumaWypadki": 0,
+                "sumaZabici": 0,
+                "sumaRanni": 0,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 5
+              },
+              {
+                "id": 15379,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2020,
+                "srWypadki": 0.1,
+                "srWypadkiBrd": 58.3,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0.1,
+                "srRanniBrd": 73.7,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.8,
+                "srKolizjeBrd": 21.9,
+                "sumaWypadki": 1,
+                "sumaZabici": 0,
+                "sumaRanni": 1,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 10
+              },
+              {
+                "id": 15381,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2021,
+                "srWypadki": 0.3,
+                "srWypadkiBrd": null,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0.5,
+                "srRanniBrd": null,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.7,
+                "srKolizjeBrd": 37.5,
+                "sumaWypadki": 4,
+                "sumaZabici": 0,
+                "sumaRanni": 6,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 8
+              },
+              {
+                "id": 15389,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2022,
+                "srWypadki": 0,
+                "srWypadkiBrd": 100,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0,
+                "srRanniBrd": 100,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.2,
+                "srKolizjeBrd": 84.4,
+                "sumaWypadki": 0,
+                "sumaZabici": 0,
+                "sumaRanni": 0,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 2
+              },
+              {
+                "id": 15380,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2023,
+                "srWypadki": 0.1,
+                "srWypadkiBrd": 58.3,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0.1,
+                "srRanniBrd": 73.7,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.3,
+                "srKolizjeBrd": 76.6,
+                "sumaWypadki": 1,
+                "sumaZabici": 0,
+                "sumaRanni": 1,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 3
+              },
+              {
+                "id": 15384,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2024,
+                "srWypadki": 0.1,
+                "srWypadkiBrd": 58.3,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0.1,
+                "srRanniBrd": 73.7,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.3,
+                "srKolizjeBrd": 68.8,
+                "sumaWypadki": 1,
+                "sumaZabici": 0,
+                "sumaRanni": 1,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 4
+              },
+              {
+                "id": 15387,
+                "daneDla": "URZADZENIE",
+                "idOkresu": 1414,
+                "rok": 2025,
+                "srWypadki": 0.1,
+                "srWypadkiBrd": 54.5,
+                "srZabici": 0,
+                "srZabiciBrd": 100,
+                "srRanni": 0.1,
+                "srRanniBrd": 71.3,
+                "srCiezkoRanni": null,
+                "srCiezkoRanniBrd": null,
+                "srKolizje": 0.2,
+                "srKolizjeBrd": 83,
+                "sumaWypadki": 1,
+                "sumaZabici": 0,
+                "sumaRanni": 1,
+                "sumaCiezkoRanni": null,
+                "sumaKolizje": 2
+              }
+            ],
+            "opisOkresu": "Dane za okres od 01-2008 do 12-2012"
+          }
+        ],
+        "brdW2DaneSredniaPerMiesiac": [
+          {
+            "id": 16259,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2013,
+            "rokKoncowy": 2014,
+            "srWypadki1": 0.2,
+            "srWypadki2": 0.1,
+            "srWypadkiBrd": 50,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0.2,
+            "srRanni2": 0.1,
+            "srRanniBrd": 50,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.8,
+            "srKolizje2": 0.3,
+            "srKolizjeBrd": 55.6,
+            "sumaWypadki1": 2,
+            "sumaZabici1": 0,
+            "sumaRanni1": 2,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 9,
+            "sumaWypadki2": 1,
+            "sumaZabici2": 0,
+            "sumaRanni2": 1,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 4
+          },
+          {
+            "id": 16260,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2014,
+            "rokKoncowy": 2015,
+            "srWypadki1": 0.1,
+            "srWypadki2": 0,
+            "srWypadkiBrd": 100,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0.1,
+            "srRanni2": 0,
+            "srRanniBrd": 100,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.3,
+            "srKolizje2": 0.3,
+            "srKolizjeBrd": 25,
+            "sumaWypadki1": 1,
+            "sumaZabici1": 0,
+            "sumaRanni1": 1,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 4,
+            "sumaWypadki2": 0,
+            "sumaZabici2": 0,
+            "sumaRanni2": 0,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 3
+          },
+          {
+            "id": 16261,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2015,
+            "rokKoncowy": 2016,
+            "srWypadki1": 0,
+            "srWypadki2": 0.2,
+            "srWypadkiBrd": null,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0,
+            "srRanni2": 0.2,
+            "srRanniBrd": null,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.3,
+            "srKolizje2": 0.7,
+            "srKolizjeBrd": null,
+            "sumaWypadki1": 0,
+            "sumaZabici1": 0,
+            "sumaRanni1": 0,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 3,
+            "sumaWypadki2": 2,
+            "sumaZabici2": 0,
+            "sumaRanni2": 2,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 8
+          },
+          {
+            "id": 16262,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2016,
+            "rokKoncowy": 2017,
+            "srWypadki1": 0.2,
+            "srWypadki2": 0.2,
+            "srWypadkiBrd": null,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0.2,
+            "srRanni2": 0.3,
+            "srRanniBrd": null,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.7,
+            "srKolizje2": 0.8,
+            "srKolizjeBrd": null,
+            "sumaWypadki1": 2,
+            "sumaZabici1": 0,
+            "sumaRanni1": 2,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 8,
+            "sumaWypadki2": 2,
+            "sumaZabici2": 0,
+            "sumaRanni2": 3,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 9
+          },
+          {
+            "id": 16263,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2017,
+            "rokKoncowy": 2018,
+            "srWypadki1": 0.2,
+            "srWypadki2": 0,
+            "srWypadkiBrd": 100,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0.3,
+            "srRanni2": 0,
+            "srRanniBrd": 100,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.8,
+            "srKolizje2": 0.8,
+            "srKolizjeBrd": null,
+            "sumaWypadki1": 2,
+            "sumaZabici1": 0,
+            "sumaRanni1": 3,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 9,
+            "sumaWypadki2": 0,
+            "sumaZabici2": 0,
+            "sumaRanni2": 0,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 10
+          },
+          {
+            "id": 16264,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2018,
+            "rokKoncowy": 2019,
+            "srWypadki1": 0,
+            "srWypadki2": 0,
+            "srWypadkiBrd": null,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0,
+            "srRanni2": 0,
+            "srRanniBrd": null,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.8,
+            "srKolizje2": 0.4,
+            "srKolizjeBrd": 50,
+            "sumaWypadki1": 0,
+            "sumaZabici1": 0,
+            "sumaRanni1": 0,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 10,
+            "sumaWypadki2": 0,
+            "sumaZabici2": 0,
+            "sumaRanni2": 0,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 5
+          },
+          {
+            "id": 16265,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2019,
+            "rokKoncowy": 2020,
+            "srWypadki1": 0,
+            "srWypadki2": 0.1,
+            "srWypadkiBrd": null,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0,
+            "srRanni2": 0.1,
+            "srRanniBrd": null,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.4,
+            "srKolizje2": 0.8,
+            "srKolizjeBrd": null,
+            "sumaWypadki1": 0,
+            "sumaZabici1": 0,
+            "sumaRanni1": 0,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 5,
+            "sumaWypadki2": 1,
+            "sumaZabici2": 0,
+            "sumaRanni2": 1,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 10
+          },
+          {
+            "id": 16266,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2020,
+            "rokKoncowy": 2021,
+            "srWypadki1": 0.1,
+            "srWypadki2": 0.3,
+            "srWypadkiBrd": null,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0.1,
+            "srRanni2": 0.5,
+            "srRanniBrd": null,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.8,
+            "srKolizje2": 0.7,
+            "srKolizjeBrd": 20,
+            "sumaWypadki1": 1,
+            "sumaZabici1": 0,
+            "sumaRanni1": 1,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 10,
+            "sumaWypadki2": 4,
+            "sumaZabici2": 0,
+            "sumaRanni2": 6,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 8
+          },
+          {
+            "id": 16267,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2021,
+            "rokKoncowy": 2022,
+            "srWypadki1": 0.3,
+            "srWypadki2": 0,
+            "srWypadkiBrd": 100,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0.5,
+            "srRanni2": 0,
+            "srRanniBrd": 100,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.7,
+            "srKolizje2": 0.2,
+            "srKolizjeBrd": 75,
+            "sumaWypadki1": 4,
+            "sumaZabici1": 0,
+            "sumaRanni1": 6,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 8,
+            "sumaWypadki2": 0,
+            "sumaZabici2": 0,
+            "sumaRanni2": 0,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 2
+          },
+          {
+            "id": 16268,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2022,
+            "rokKoncowy": 2023,
+            "srWypadki1": 0,
+            "srWypadki2": 0.1,
+            "srWypadkiBrd": null,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0,
+            "srRanni2": 0.1,
+            "srRanniBrd": null,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.2,
+            "srKolizje2": 0.3,
+            "srKolizjeBrd": null,
+            "sumaWypadki1": 0,
+            "sumaZabici1": 0,
+            "sumaRanni1": 0,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 2,
+            "sumaWypadki2": 1,
+            "sumaZabici2": 0,
+            "sumaRanni2": 1,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 3
+          },
+          {
+            "id": 16269,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2023,
+            "rokKoncowy": 2024,
+            "srWypadki1": 0.1,
+            "srWypadki2": 0.1,
+            "srWypadkiBrd": null,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0.1,
+            "srRanni2": 0.1,
+            "srRanniBrd": null,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.3,
+            "srKolizje2": 0.3,
+            "srKolizjeBrd": null,
+            "sumaWypadki1": 1,
+            "sumaZabici1": 0,
+            "sumaRanni1": 1,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 3,
+            "sumaWypadki2": 1,
+            "sumaZabici2": 0,
+            "sumaRanni2": 1,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 4
+          },
+          {
+            "id": 16270,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "rokStartowy": 2024,
+            "rokKoncowy": 2025,
+            "srWypadki1": 0.1,
+            "srWypadki2": 0.1,
+            "srWypadkiBrd": null,
+            "srZabici1": 0,
+            "srZabici2": 0,
+            "srZabiciBrd": null,
+            "srRanni1": 0.1,
+            "srRanni2": 0.1,
+            "srRanniBrd": null,
+            "srCiezkoRanni1": null,
+            "srCiezkoRanni2": null,
+            "srCiezkoRanniBrd": null,
+            "srKolizje1": 0.3,
+            "srKolizje2": 0.2,
+            "srKolizjeBrd": 33.3,
+            "sumaWypadki1": 1,
+            "sumaZabici1": 0,
+            "sumaRanni1": 1,
+            "sumaCiezkoRanni1": null,
+            "sumaKolizje1": 3,
+            "sumaWypadki2": 1,
+            "sumaZabici2": 0,
+            "sumaRanni2": 1,
+            "sumaCiezkoRanni2": null,
+            "sumaKolizje2": 2
+          }
+        ],
+        "brdW3DaneSumaPerMiesiac": [
+          {
+            "id": 2375,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "miesiac": "XI",
+            "rokStartowy": 2024,
+            "rokKoncowy": 2025,
+            "wypadki1": 0,
+            "wypadki2": 0,
+            "wypadkiBrd": null,
+            "zabici1": 0,
+            "zabici2": 0,
+            "zabiciBrd": null,
+            "ranni1": 0,
+            "ranni2": 0,
+            "ranniBrd": null,
+            "ciezkoRanni1": null,
+            "ciezkoRanni2": null,
+            "ciezkoRanniBrd": null,
+            "kolizje1": 1,
+            "kolizje2": 0,
+            "kolizjeBrd": 100
+          }
+        ],
+        "brdW4DaneSumaPerOkres": [
+          {
+            "id": 2375,
+            "idUrzadzenia": 570296,
+            "idPunktuKontrolnego": null,
+            "okres": "I-XI",
+            "rokStartowy": 2024,
+            "rokKoncowy": 2025,
+            "wypadki1": 1,
+            "wypadki2": 1,
+            "wypadkiBrd": null,
+            "zabici1": 0,
+            "zabici2": 0,
+            "zabiciBrd": null,
+            "ranni1": 1,
+            "ranni2": 1,
+            "ranniBrd": null,
+            "ciezkoRanni1": null,
+            "ciezkoRanni2": null,
+            "ciezkoRanniBrd": null,
+            "kolizje1": 3,
+            "kolizje2": 2,
+            "kolizjeBrd": 33.3
+          }
+        ],
+        "rodzaj": "URZADZENIE"
+      }
+    },
+    {
+      "category": "point_speed",
+      "label": "Pomiar punktowy",
+      "summary": {
         "id": 315970,
         "lon": 15.902416666666667,
         "lat": 51.54593333333333,
@@ -67640,7 +68380,7 @@
             "link": "/documents/20123/39846/23080FUS1000003_2026-06-17_2027-07-17_121383724.pdf",
             "fileHash": "5E4B97CC26EC415055CD8AB734515800",
             "liferayEntryId": 1625862,
-            "dataWeryfikacji": "2026-10-27T22:38:47"
+            "dataWeryfikacji": "2026-11-04T22:38:52"
           },
           {
             "id": 107769225,
@@ -67769,7 +68509,7 @@
             "link": "/documents/20123/39846/643294-60113_2026-05-08_2027-06-08_120866035.pdf",
             "fileHash": "8BEAE12D95761BAF113AD7A558B03B78",
             "liferayEntryId": 1629912,
-            "dataWeryfikacji": "2026-10-27T22:39:48"
+            "dataWeryfikacji": "2026-11-04T22:39:58"
           }
         ],
         "id": 119842192,
@@ -72816,7 +73556,7 @@
             "link": "/documents/20123/39846/23115FU10003633_2026-07-16_2027-08-16_122469728.pdf",
             "fileHash": "3683C13A65686EE9D8CA9C8610F5F4B2",
             "liferayEntryId": 1637119,
-            "dataWeryfikacji": "2026-10-27T22:38:57"
+            "dataWeryfikacji": "2026-11-04T22:39:02"
           },
           {
             "id": 108609351,
@@ -75057,7 +75797,7 @@
             "link": "/documents/20123/39846/593-072_71691_2026-04-22_2027-05-22_118804138.pdf",
             "fileHash": "EC0AAC5E17DD360FD43D39953435D2DC",
             "liferayEntryId": 1596906,
-            "dataWeryfikacji": "2026-10-27T22:38:36"
+            "dataWeryfikacji": "2026-11-04T22:38:30"
           },
           {
             "id": 106081303,
@@ -75072,7 +75812,7 @@
             "link": "/documents/20123/39846/593-072_71691_2025-03-26_2026-04-21_106081304.pdf",
             "fileHash": "465B0DC149A334A17235E07F5B3DF8C9",
             "liferayEntryId": 1599833,
-            "dataWeryfikacji": "2026-10-27T22:38:36"
+            "dataWeryfikacji": "2026-11-04T22:38:30"
           }
         ],
         "id": 1203338,
@@ -77055,7 +77795,7 @@
             "link": "/documents/20123/39846/23137FU10003688_2026-09-07_2027-10-07_124886299.pdf",
             "fileHash": "87EA44A487F3A3088A1B5B15133E1FF2",
             "liferayEntryId": 1662508,
-            "dataWeryfikacji": "2026-10-27T22:39:14"
+            "dataWeryfikacji": "2026-11-04T22:39:20"
           },
           {
             "id": 110429230,
@@ -77070,7 +77810,7 @@
             "link": "/documents/20123/39846/23137FU10003688_2025-08-07_2026-09-06_110429231.pdf",
             "fileHash": "A77A7D66E8E71F9AF936E30DDE30E371",
             "liferayEntryId": 1662495,
-            "dataWeryfikacji": "2026-10-27T22:39:13"
+            "dataWeryfikacji": "2026-11-04T22:39:19"
           }
         ],
         "id": 89564142,
@@ -78473,7 +79213,7 @@
             "link": "/documents/20123/39846/23083FUS1000011_2026-07-16_2027-08-16_122470310.pdf",
             "fileHash": "D3A15ADDDF1ED538410A435DAC25B01D",
             "liferayEntryId": 1637023,
-            "dataWeryfikacji": "2026-10-27T22:38:44"
+            "dataWeryfikacji": "2026-11-04T22:38:49"
           },
           {
             "id": 108609296,
@@ -81116,7 +81856,7 @@
             "link": "/documents/20123/39846/593-072-73247_2025-04-16_2026-05-12_106685348.pdf",
             "fileHash": "9FC5BBA3984A860A57BF00CF79C4E05D",
             "liferayEntryId": 1608985,
-            "dataWeryfikacji": "2026-10-27T22:38:42"
+            "dataWeryfikacji": "2026-11-04T22:38:47"
           }
         ],
         "id": 83727701,
@@ -83729,7 +84469,7 @@
             "link": "/documents/20123/39846/23083FUS1000015_2026-07-16_2027-08-16_122471571.pdf",
             "fileHash": "DE18396ABF538338F43439643B5A69B3",
             "liferayEntryId": 1637071,
-            "dataWeryfikacji": "2026-10-27T22:38:45"
+            "dataWeryfikacji": "2026-11-04T22:38:50"
           },
           {
             "id": 108607512,
@@ -84438,7 +85178,7 @@
             "link": "/documents/20123/39846/23116FU10003636_2026-07-23_2027-08-23_122766249.pdf",
             "fileHash": "7D0BA80115582CFFA1E3A057D79C0A63",
             "liferayEntryId": 1639798,
-            "dataWeryfikacji": "2026-10-27T22:38:54"
+            "dataWeryfikacji": "2026-11-04T22:39:00"
           },
           {
             "id": 109048431,
@@ -86888,7 +87628,7 @@
             "link": "/documents/20123/39846/643294-60082_2026-01-23_2026-07-28_116649287.pdf",
             "fileHash": "FA32889DF6D50CC02A0505BC44DE8F38",
             "liferayEntryId": 1643549,
-            "dataWeryfikacji": "2026-10-27T22:39:39"
+            "dataWeryfikacji": "2026-11-04T22:39:48"
           }
         ],
         "id": 116570766,
@@ -87711,7 +88451,7 @@
             "link": "/documents/20123/39846/23144FU10003710_2026-09-16_2027-10-16_125212911.pdf",
             "fileHash": "CF3EBC3D32340CF2AEE88991DD79F616",
             "liferayEntryId": 1666952,
-            "dataWeryfikacji": "2026-10-27T22:39:28"
+            "dataWeryfikacji": "2026-11-04T22:39:36"
           },
           {
             "id": 110674459,
@@ -90740,7 +91480,7 @@
             "link": "/documents/20123/39846/23143FU10003699_2026-08-05_2027-09-05_124282691.pdf",
             "fileHash": "6A3D2960601B96FCF76872C811AF0DF3",
             "liferayEntryId": 1656257,
-            "dataWeryfikacji": "2026-10-27T22:39:03"
+            "dataWeryfikacji": "2026-11-04T22:39:08"
           },
           {
             "id": 110008401,
@@ -90755,7 +91495,7 @@
             "link": "/documents/20123/39846/23143FU10003699_2025-07-28_2026-08-04_110008403.pdf",
             "fileHash": "90AF3F7E29685B43071008F2EDD2A5C7",
             "liferayEntryId": 1656241,
-            "dataWeryfikacji": "2026-10-27T22:39:02"
+            "dataWeryfikacji": "2026-11-04T22:39:08"
           }
         ],
         "id": 87764188,
@@ -91241,7 +91981,7 @@
             "link": "/documents/20123/39846/23145FU10003715_2026-09-15_2027-10-15_125212605.pdf",
             "fileHash": "97FEEC6FDD6B53E10062ED90975690D5",
             "liferayEntryId": 1666888,
-            "dataWeryfikacji": "2026-10-27T22:39:23"
+            "dataWeryfikacji": "2026-11-04T22:39:30"
           },
           {
             "id": 110674722,
@@ -91821,7 +92561,7 @@
             "link": "/documents/20123/39846/23143FU10003700_2026-07-10_2027-08-10_122485444.pdf",
             "fileHash": "62B8D28C95193A0E627FD55A4498A2FB",
             "liferayEntryId": 1637135,
-            "dataWeryfikacji": "2026-10-27T22:38:58"
+            "dataWeryfikacji": "2026-11-04T22:39:04"
           },
           {
             "id": 109022622,
@@ -93046,7 +93786,7 @@
             "link": "/documents/20123/39846/23088FUS1000019_2026-07-16_2027-08-16_122469935.pdf",
             "fileHash": "01ACE956E8FE2B151B2FDB2DC6F712D7",
             "liferayEntryId": 1637103,
-            "dataWeryfikacji": "2026-10-27T22:38:47"
+            "dataWeryfikacji": "2026-11-04T22:38:52"
           },
           {
             "id": 108609217,
@@ -93175,7 +93915,7 @@
             "link": "/documents/20123/39846/593-072-73304_2026-05-27_2027-06-27_120231921.pdf",
             "fileHash": "89EC68BDE9122E07BA5D6721B5606508",
             "liferayEntryId": 1613499,
-            "dataWeryfikacji": "2026-10-27T22:39:06"
+            "dataWeryfikacji": "2026-11-04T22:39:12"
           },
           {
             "id": 107089669,
@@ -93190,7 +93930,7 @@
             "link": "/documents/20123/39846/593-072-73304_2025-04-29_2026-05-26_107089670.pdf",
             "fileHash": "64578CF410556388828B05691E4E6DF5",
             "liferayEntryId": 1614607,
-            "dataWeryfikacji": "2026-10-27T22:39:05"
+            "dataWeryfikacji": "2026-11-04T22:39:11"
           }
         ],
         "id": 88685870,
@@ -93884,7 +94624,7 @@
             "link": "/documents/20123/39846/23144FU10003708_2026-08-04_2027-09-04_123831179.pdf",
             "fileHash": "C336A0F3CC6C9967FC7DFF36712F8CD9",
             "liferayEntryId": 1651944,
-            "dataWeryfikacji": "2026-10-27T22:39:16"
+            "dataWeryfikacji": "2026-11-04T22:39:22"
           },
           {
             "id": 110429487,
@@ -93899,7 +94639,7 @@
             "link": "/documents/20123/39846/23144FU10003708_2025-08-06_2026-08-03_110429488.pdf",
             "fileHash": "B125131042705A624A3298D59F52A3FC",
             "liferayEntryId": 1655909,
-            "dataWeryfikacji": "2026-10-27T22:39:15"
+            "dataWeryfikacji": "2026-11-04T22:39:21"
           }
         ],
         "id": 89564161,
@@ -100394,7 +101134,7 @@
             "link": "/documents/20123/39846/23083FUS1000010_2026-07-16_2027-08-16_122470945.pdf",
             "fileHash": "404B494E961A0A5EBC1D2B74F97577F2",
             "liferayEntryId": 1637007,
-            "dataWeryfikacji": "2026-10-27T22:38:43"
+            "dataWeryfikacji": "2026-11-04T22:38:48"
           },
           {
             "id": 108608611,
@@ -106036,7 +106776,7 @@
             "link": "/documents/20123/39846/085_2025-11-21_2026-12-21_113683549.pdf",
             "fileHash": "BE54A1FD62CD86B4C5A363B0769A2D8E",
             "liferayEntryId": 1542075,
-            "dataWeryfikacji": "2026-10-26T22:38:33"
+            "dataWeryfikacji": "2026-11-04T22:38:41"
           },
           {
             "id": 101311190,
@@ -106051,7 +106791,7 @@
             "link": "/documents/20123/39846/085_2024-10-17_2025-11-17_101311191.pdf",
             "fileHash": "1C942F881AC76368F8ECEECBB6FEDE13",
             "liferayEntryId": 1385309,
-            "dataWeryfikacji": "2026-10-26T22:38:33"
+            "dataWeryfikacji": "2026-11-04T22:38:41"
           }
         ],
         "id": 28220443,
@@ -106165,7 +106905,7 @@
             "link": "/documents/20123/39846/643294-60093_2026-03-06_2027-04-06_117948633.pdf",
             "fileHash": "865163CD62DD8AAC5B855C6FF63874A7",
             "liferayEntryId": 1589634,
-            "dataWeryfikacji": "2026-10-27T22:39:43"
+            "dataWeryfikacji": "2026-11-04T22:39:52"
           }
         ],
         "id": 117605372,
@@ -106408,7 +107148,7 @@
             "link": "/documents/20123/39846/23115FU10003634_2026-07-23_2027-08-23_122766067.pdf",
             "fileHash": "03786B6150899B3FE9DC7F331DC377D6",
             "liferayEntryId": 1639814,
-            "dataWeryfikacji": "2026-10-27T22:38:55"
+            "dataWeryfikacji": "2026-11-04T22:39:00"
           },
           {
             "id": 109048445,
@@ -109373,7 +110113,7 @@
             "link": "/documents/20123/39846/593-072_71669_2026-03-04_2027-04-04_116934540.pdf",
             "fileHash": "4BFA3AFB9CE38E05F4675733DA93CD6F",
             "liferayEntryId": 1578455,
-            "dataWeryfikacji": "2026-10-27T22:38:31"
+            "dataWeryfikacji": "2026-11-04T22:38:24"
           },
           {
             "id": 104980147,
@@ -109388,7 +110128,7 @@
             "link": "/documents/20123/39846/593-072_71669_2025-02-19_2026-03-03_104980148.pdf",
             "fileHash": "7B6054F1449FB26EB57AD69042BBFBBF",
             "liferayEntryId": 1580212,
-            "dataWeryfikacji": "2026-10-27T22:38:30"
+            "dataWeryfikacji": "2026-11-04T22:38:23"
           }
         ],
         "id": 570284,
@@ -111113,7 +111853,7 @@
             "link": "/documents/20123/39846/23019FU10003526_2026-05-05_2027-06-05_119648493.pdf",
             "fileHash": "D4F84D79EEB714C703A74F685EDCCC49",
             "liferayEntryId": 1606062,
-            "dataWeryfikacji": "2026-10-27T22:38:38"
+            "dataWeryfikacji": "2026-11-04T22:38:43"
           },
           {
             "id": 107090461,
@@ -113741,7 +114481,7 @@
             "link": "/documents/20123/39846/643294-60079_2026-01-23_2027-02-23_115605462.pdf",
             "fileHash": "1E2D9CB11D5ECA42168EFB56CAB83E2B",
             "liferayEntryId": 1577203,
-            "dataWeryfikacji": "2026-10-27T22:39:36"
+            "dataWeryfikacji": "2026-11-04T22:39:45"
           }
         ],
         "id": 115605338,
@@ -113984,7 +114724,7 @@
             "link": "/documents/20123/39846/643294-60086_2026-03-06_2027-04-06_117161991.pdf",
             "fileHash": "786A915807476BB50EB5A8E921AECBF9",
             "liferayEntryId": 1588018,
-            "dataWeryfikacji": "2026-10-27T22:39:41"
+            "dataWeryfikacji": "2026-11-04T22:39:50"
           }
         ],
         "id": 117160432,
@@ -115774,7 +116514,7 @@
             "link": "/documents/20123/39846/643294-60080_2026-01-23_2027-02-23_116222312.pdf",
             "fileHash": "691B44F0B39BADB3123A10B09D44414F",
             "liferayEntryId": 1589602,
-            "dataWeryfikacji": "2026-10-27T22:39:38"
+            "dataWeryfikacji": "2026-11-04T22:39:47"
           }
         ],
         "id": 116222191,
@@ -123191,7 +123931,7 @@
             "link": "/documents/20123/39846/23088FUS1000023_2026-06-17_2027-07-17_121383510.pdf",
             "fileHash": "78F46F9F116A440642B2369ECAEE0FF0",
             "liferayEntryId": 1625878,
-            "dataWeryfikacji": "2026-10-27T22:38:48"
+            "dataWeryfikacji": "2026-11-04T22:38:53"
           },
           {
             "id": 107769410,
@@ -123771,7 +124511,7 @@
             "link": "/documents/20123/39846/593-072_71608_2026-04-01_2027-05-01_117916550.pdf",
             "fileHash": "060D527C669198A1105B49E57038B807",
             "liferayEntryId": 1588287,
-            "dataWeryfikacji": "2026-10-27T22:38:33"
+            "dataWeryfikacji": "2026-11-04T22:38:26"
           },
           {
             "id": 105390304,
@@ -123786,7 +124526,7 @@
             "link": "/documents/20123/39846/593-072_71608_2025-03-05_2026-03-31_105390306.pdf",
             "fileHash": "6896D087D3B1EA34266297FE5DB27515",
             "liferayEntryId": 1589922,
-            "dataWeryfikacji": "2026-10-27T22:38:32"
+            "dataWeryfikacji": "2026-11-04T22:38:25"
           }
         ],
         "id": 570285,
@@ -124014,7 +124754,7 @@
             "link": "/documents/20123/39846/23167FU10003791_2026-08-12_2027-09-12_123831652.pdf",
             "fileHash": "594F3ADCFE91266F89813CC3CBC82BB3",
             "liferayEntryId": 1651979,
-            "dataWeryfikacji": "2026-10-27T22:39:28"
+            "dataWeryfikacji": "2026-11-04T22:39:36"
           },
           {
             "id": 109594884,
@@ -124594,7 +125334,7 @@
             "link": "/documents/20123/39846/23125FU10003670_2026-08-05_2027-09-05_123831150.pdf",
             "fileHash": "ADEAA6FD56A75393CB206B67D1642116",
             "liferayEntryId": 1651928,
-            "dataWeryfikacji": "2026-10-27T22:39:12"
+            "dataWeryfikacji": "2026-11-04T22:39:18"
           },
           {
             "id": 110429378,
@@ -124609,7 +125349,7 @@
             "link": "/documents/20123/39846/23125FU10003670_2025-08-05_2026-08-04_110429379.pdf",
             "fileHash": "82576A71BC61D7F3A841044FA50FC62A",
             "liferayEntryId": 1655893,
-            "dataWeryfikacji": "2026-10-27T22:39:12"
+            "dataWeryfikacji": "2026-11-04T22:39:17"
           }
         ],
         "id": 89564073,
@@ -125303,7 +126043,7 @@
             "link": "/documents/20123/39846/643294-60108_2026-04-24_2027-05-24_119541197.pdf",
             "fileHash": "9AC96C0631D6755F6E9BF0243048DDAA",
             "liferayEntryId": 1614342,
-            "dataWeryfikacji": "2026-10-27T22:39:45"
+            "dataWeryfikacji": "2026-11-04T22:39:54"
           }
         ],
         "id": 118176829,
@@ -127336,7 +128076,7 @@
             "link": "/documents/20123/39846/643294-60078_2026-01-13_2027-02-13_116222102.pdf",
             "fileHash": "9699DCA07050F94BE0A9D09B3CEAD342",
             "liferayEntryId": 1578536,
-            "dataWeryfikacji": "2026-10-27T22:39:38"
+            "dataWeryfikacji": "2026-11-04T22:39:47"
           }
         ],
         "id": 116221632,
@@ -128997,7 +129737,7 @@
             "link": "/documents/20123/39846/23129FU10003673_2026-08-10_2027-09-10_123509165.pdf",
             "fileHash": "FDB4EC0A4A6732D2CF4F31FC71741D65",
             "liferayEntryId": 1647866,
-            "dataWeryfikacji": "2026-10-27T22:39:01"
+            "dataWeryfikacji": "2026-11-04T22:39:07"
           },
           {
             "id": 109476547,
@@ -129706,7 +130446,7 @@
             "link": "/documents/20123/39846/23110FUS1000029_2026-07-23_2027-08-23_123048305.pdf",
             "fileHash": "104F3C54C79A5E7CE6756261D8B44807",
             "liferayEntryId": 1643264,
-            "dataWeryfikacji": "2026-10-27T22:38:57"
+            "dataWeryfikacji": "2026-11-04T22:39:03"
           },
           {
             "id": 109120452,
@@ -129949,7 +130689,7 @@
             "link": "/documents/20123/39846/643294-60090_2026-03-06_2027-04-06_117323501.pdf",
             "fileHash": "DF43D19A2838F068B825ED10FCDD540A",
             "liferayEntryId": 1588034,
-            "dataWeryfikacji": "2026-10-27T22:39:42"
+            "dataWeryfikacji": "2026-11-04T22:39:51"
           }
         ],
         "id": 117323355,
@@ -130321,7 +131061,7 @@
             "link": "/documents/20123/39846/23088FUS1000022_2026-07-09_2027-08-09_122488131.pdf",
             "fileHash": "39294325E2C5DC40BD7A948BA299078F",
             "liferayEntryId": 1637151,
-            "dataWeryfikacji": "2026-10-27T22:38:59"
+            "dataWeryfikacji": "2026-11-04T22:39:04"
           },
           {
             "id": 108448714,
@@ -131144,7 +131884,7 @@
             "link": "/documents/20123/39846/593-072_71686_2026-01-28_2027-02-28_115579055.pdf",
             "fileHash": "B4332CCED8E116B9C10CFDD212F656A9",
             "liferayEntryId": 1565595,
-            "dataWeryfikacji": "2026-10-27T22:38:34"
+            "dataWeryfikacji": "2026-11-04T22:38:28"
           },
           {
             "id": 105805980,
@@ -131159,7 +131899,7 @@
             "link": "/documents/20123/39846/593-072_71686_2025-03-19_2026-01-27_105806021.pdf",
             "fileHash": "DAE41537AB645F5AC624FC100F657AD8",
             "liferayEntryId": 1566425,
-            "dataWeryfikacji": "2026-10-27T22:38:34"
+            "dataWeryfikacji": "2026-11-04T22:38:27"
           }
         ],
         "id": 1203334,
@@ -134466,7 +135206,7 @@
             "link": "/documents/20123/39846/23131FU10003675_2026-08-13_2027-09-13_123831576.pdf",
             "fileHash": "41C05AC902EAD62B8F5A42909B66A645",
             "liferayEntryId": 1651867,
-            "dataWeryfikacji": "2026-10-27T22:39:00"
+            "dataWeryfikacji": "2026-11-04T22:39:05"
           },
           {
             "id": 109595191,
@@ -136707,7 +137447,7 @@
             "link": "/documents/20123/39846/23087FUS1000018_2026-07-16_2027-08-16_122471151.pdf",
             "fileHash": "CF977AB271310515F46982AB3C279C40",
             "liferayEntryId": 1637055,
-            "dataWeryfikacji": "2026-10-27T22:38:45"
+            "dataWeryfikacji": "2026-11-04T22:38:50"
           },
           {
             "id": 108609268,
@@ -138368,7 +139108,7 @@
             "link": "/documents/20123/39846/643294-60114_2026-05-08_2027-06-08_120869915.pdf",
             "fileHash": "15C5CD3A06DEDF9310C00213F08936DA",
             "liferayEntryId": 1629928,
-            "dataWeryfikacji": "2026-10-27T22:39:49"
+            "dataWeryfikacji": "2026-11-04T22:39:59"
           }
         ],
         "id": 119842327,
@@ -143222,7 +143962,7 @@
             "link": "/documents/20123/39846/23088FUS1000024_2026-06-19_2027-07-19_121384010.pdf",
             "fileHash": "35A01B29B546AAED29E1751C88DCEF91",
             "liferayEntryId": 1625926,
-            "dataWeryfikacji": "2026-10-27T22:38:50"
+            "dataWeryfikacji": "2026-11-04T22:38:55"
           },
           {
             "id": 107800074,
@@ -147283,7 +148023,7 @@
             "link": "/documents/20123/39846/643294-60074_2026-01-13_2027-02-13_115163795.pdf",
             "fileHash": "5F81583B30D25B66A916185695018A37",
             "liferayEntryId": 1577190,
-            "dataWeryfikacji": "2026-10-27T22:39:36"
+            "dataWeryfikacji": "2026-11-04T22:39:45"
           }
         ],
         "id": 115163592,
@@ -147805,281 +148545,7 @@
             "sumaRanni": 6,
             "sumaCiezkoRanni": null,
             "sumaKolizje": 34,
-            "danePerRok": [
-              {
-                "id": 15369,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2013,
-                "srWypadki": 0.2,
-                "srWypadkiBrd": null,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0.2,
-                "srRanniBrd": null,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 1.1,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 2,
-                "sumaZabici": 0,
-                "sumaRanni": 2,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 13
-              },
-              {
-                "id": 15373,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2014,
-                "srWypadki": 0.2,
-                "srWypadkiBrd": null,
-                "srZabici": 0.1,
-                "srZabiciBrd": null,
-                "srRanni": 0.3,
-                "srRanniBrd": null,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 0.8,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 2,
-                "sumaZabici": 1,
-                "sumaRanni": 3,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 10
-              },
-              {
-                "id": 15370,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2015,
-                "srWypadki": 0.3,
-                "srWypadkiBrd": null,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0.3,
-                "srRanniBrd": null,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 2.7,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 3,
-                "sumaZabici": 0,
-                "sumaRanni": 4,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 32
-              },
-              {
-                "id": 15368,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2016,
-                "srWypadki": 0.2,
-                "srWypadkiBrd": null,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0.2,
-                "srRanniBrd": null,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 2.3,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 2,
-                "sumaZabici": 0,
-                "sumaRanni": 2,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 28
-              },
-              {
-                "id": 15365,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2017,
-                "srWypadki": 0.1,
-                "srWypadkiBrd": 22.2,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0.1,
-                "srRanniBrd": 22.2,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 2,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 1,
-                "sumaZabici": 0,
-                "sumaRanni": 1,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 24
-              },
-              {
-                "id": 15367,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2018,
-                "srWypadki": 0,
-                "srWypadkiBrd": 100,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0,
-                "srRanniBrd": 100,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 1.3,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 0,
-                "sumaZabici": 0,
-                "sumaRanni": 0,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 16
-              },
-              {
-                "id": 15374,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2019,
-                "srWypadki": 0.1,
-                "srWypadkiBrd": 22.2,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0.2,
-                "srRanniBrd": null,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 2.2,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 1,
-                "sumaZabici": 0,
-                "sumaRanni": 2,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 26
-              },
-              {
-                "id": 15376,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2020,
-                "srWypadki": 0,
-                "srWypadkiBrd": 100,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0,
-                "srRanniBrd": 100,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 2.1,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 0,
-                "sumaZabici": 0,
-                "sumaRanni": 0,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 25
-              },
-              {
-                "id": 15364,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2021,
-                "srWypadki": 0,
-                "srWypadkiBrd": 100,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0,
-                "srRanniBrd": 100,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 1.6,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 0,
-                "sumaZabici": 0,
-                "sumaRanni": 0,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 19
-              },
-              {
-                "id": 15375,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2022,
-                "srWypadki": 0,
-                "srWypadkiBrd": 100,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0,
-                "srRanniBrd": 100,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 0.9,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 0,
-                "sumaZabici": 0,
-                "sumaRanni": 0,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 11
-              },
-              {
-                "id": 15366,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2023,
-                "srWypadki": 0,
-                "srWypadkiBrd": 100,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0,
-                "srRanniBrd": 100,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 0.9,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 0,
-                "sumaZabici": 0,
-                "sumaRanni": 0,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 11
-              },
-              {
-                "id": 15371,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2024,
-                "srWypadki": 0,
-                "srWypadkiBrd": 100,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0,
-                "srRanniBrd": 100,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 1.7,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 0,
-                "sumaZabici": 0,
-                "sumaRanni": 0,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 20
-              },
-              {
-                "id": 15372,
-                "daneDla": "URZADZENIE",
-                "idOkresu": 1413,
-                "rok": 2025,
-                "srWypadki": 0.2,
-                "srWypadkiBrd": null,
-                "srZabici": 0,
-                "srZabiciBrd": null,
-                "srRanni": 0.5,
-                "srRanniBrd": null,
-                "srCiezkoRanni": null,
-                "srCiezkoRanniBrd": null,
-                "srKolizje": 2.2,
-                "srKolizjeBrd": null,
-                "sumaWypadki": 2,
-                "sumaZabici": 0,
-                "sumaRanni": 5,
-                "sumaCiezkoRanni": null,
-                "sumaKolizje": 24
-              }
-            ],
+            "danePerRok": [],
             "opisOkresu": "Dane za okres od 05-2008 do 12-2012"
           }
         ],
@@ -148623,7 +149089,7 @@
             "link": "/documents/20123/39846/23129FU10003672_2026-08-05_2027-09-05_123831083.pdf",
             "fileHash": "E3334FC81198D54E4541D3A901FE5E36",
             "liferayEntryId": 1651899,
-            "dataWeryfikacji": "2026-10-27T22:39:08"
+            "dataWeryfikacji": "2026-11-04T22:39:14"
           },
           {
             "id": 110429327,
@@ -148638,7 +149104,7 @@
             "link": "/documents/20123/39846/23129FU10003672_2025-08-05_2026-08-04_110429328.pdf",
             "fileHash": "B0C25B0E313F11CAB1CBD66EB89102B6",
             "liferayEntryId": 1655861,
-            "dataWeryfikacji": "2026-10-27T22:39:07"
+            "dataWeryfikacji": "2026-11-04T22:39:13"
           }
         ],
         "id": 89563904,
@@ -151910,7 +152376,7 @@
             "link": "/documents/20123/39846/643294-60087_2026-03-06_2027-04-06_117323269.pdf",
             "fileHash": "DA536BB2F6A901F779617C0D0B6D0B77",
             "liferayEntryId": 1589618,
-            "dataWeryfikacji": "2026-10-27T22:39:42"
+            "dataWeryfikacji": "2026-11-04T22:39:51"
           }
         ],
         "id": 117320446,
@@ -152976,7 +153442,7 @@
             "link": "/documents/20123/39846/643294-60056_2026-08-12_2027-09-12_123886609.pdf",
             "fileHash": "8759007A0B90B83401F3678304E4485F",
             "liferayEntryId": 1652598,
-            "dataWeryfikacji": "2026-10-27T22:39:32"
+            "dataWeryfikacji": "2026-11-04T22:39:40"
           },
           {
             "id": 112450213,
@@ -152991,7 +153457,7 @@
             "link": "/documents/20123/39846/643294-60056_2025-07-23_2026-08-11_112450214.pdf",
             "fileHash": "4E133574DD59CE85273691D2FAC15A70",
             "liferayEntryId": 1655940,
-            "dataWeryfikacji": "2026-10-27T22:39:31"
+            "dataWeryfikacji": "2026-11-04T22:39:40"
           }
         ],
         "id": 112422888,
@@ -153105,7 +153571,7 @@
             "link": "/documents/20123/39846/23137FU10003687_2026-09-15_2027-10-15_125212188.pdf",
             "fileHash": "8C05842914155E8058529E4221A3EC2B",
             "liferayEntryId": 1666872,
-            "dataWeryfikacji": "2026-10-27T22:39:22"
+            "dataWeryfikacji": "2026-11-04T22:39:29"
           },
           {
             "id": 110674904,
@@ -155833,7 +156299,7 @@
             "link": "/documents/20123/39846/ICAR5C2501_2025-12-22_2027-01-22_115623318.pdf",
             "fileHash": "D19D5C5E310BCAF653AE604F264CE321",
             "liferayEntryId": 1565954,
-            "dataWeryfikacji": "2026-10-27T22:39:34"
+            "dataWeryfikacji": "2026-11-04T22:39:42"
           },
           {
             "id": 114302586,
@@ -155848,7 +156314,7 @@
             "link": "/documents/20123/39846/ICAR5C2501_2025-12-12_2025-12-21_115649592.pdf",
             "fileHash": "36EDD34C957F1AE16812422E11AC7CAE",
             "liferayEntryId": 1647133,
-            "dataWeryfikacji": "2026-10-27T22:39:33"
+            "dataWeryfikacji": "2026-11-04T22:39:42"
           }
         ],
         "id": 113414005,
@@ -156334,139 +156800,10 @@
             "link": "/documents/20123/39846/CAM25004050_2026-06-12_2027-07-12_120993610.pdf",
             "fileHash": "F5A04A0EBD501CFD2AAE8912A7E26DC4",
             "liferayEntryId": 1629880,
-            "dataWeryfikacji": "2026-10-27T22:39:47"
+            "dataWeryfikacji": "2026-11-04T22:39:57"
           }
         ],
         "id": 118680294,
-        "jestStatystyka": false,
-        "jestLimit": true,
-        "brdW1DaneZOkresu": [],
-        "brdW2DaneSredniaPerMiesiac": [],
-        "brdW3DaneSumaPerMiesiac": [],
-        "brdW4DaneSumaPerOkres": [],
-        "rodzaj": "URZADZENIE"
-      }
-    },
-    {
-      "category": "section_speed",
-      "label": "Pomiar odcinkowy",
-      "summary": {
-        "id": 13862446,
-        "lon": 20.994555555555557,
-        "lat": 49.99254722222222,
-        "rodzajPomiaru": "PO",
-        "nrSeryjny": "CAM15001378",
-        "lok2PktDlugosc": 21.049105556,
-        "lok2PktSzerokosc": 50.008269444
-      },
-      "detailUrl": "https://www.canard.gitd.gov.pl/cms/web/guest/o-nas/mapa-urzadzen?p_p_id=pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fobjdata&p_p_cacheability=cacheLevelPage&_pl_canard_cms_portlet_mapa_INSTANCE_URMGfsNrnTYd_type=OPP",
-      "detail": {
-        "lon": 20.994555555555557,
-        "lat": 49.99254722222222,
-        "urzadzenie": {
-          "id": 13862446,
-          "nrSeryjny": "CAM15001378",
-          "typUrzadzenia": "UnicamVELOCITY3",
-          "rodzajPomiaru": "PO",
-          "producent": "CAMEA spol. s r. o.",
-          "rokProdukcji": 2015,
-          "temperaturaPracyMax": null,
-          "temperaturaPracyMin": null,
-          "stanTechniczny": "Sprawne",
-          "lokalizacjaMiejsce": "Obszar niezabudowany",
-          "lokalizacjaKod": "PLD.O.2.002",
-          "lokalizacjaDelegatura": "Południowa",
-          "lokalizacjaNrDrogi": "94",
-          "lokalizacjaKmDrogi": 74,
-          "lokalizacjaHmDrogi": 510,
-          "lokalizacjaObszarZabudowany": false,
-          "lokalizacjaObiektUzytPubl": false,
-          "lokalizacjaAdresWojewodztwo": "MAŁOPOLSKIE",
-          "lokalizacjaAdresPowiat": "Tarnów",
-          "lokalizacjaAdresGmina": "Tarnów",
-          "lokalizacjaAdresKodPocztowy": "33-100",
-          "lokalizacjaAdresMiejscowosc": "Tarnów",
-          "lokalizacjaAdresUlica": null,
-          "lokalizacjaDlugGeoSt": 20,
-          "lokalizacjaDlugGeoMin": 59,
-          "lokalizacjaDlugGeoSek": 40.4,
-          "lokalizacjaSzerGeoSt": 49,
-          "lokalizacjaSzerGeoMin": 59,
-          "lokalizacjaSzerGeoSek": 33.17,
-          "masztNrSeryjny": "38-2015 SP-3 SP-4",
-          "masztTypUrzadzenia": "BETSTAL",
-          "masztProducent": "BETSTAL",
-          "masztRokProdukcji": 2015,
-          "masztTemperaturaPracyMax": 60,
-          "masztTemperaturaPracyMin": -30,
-          "masztStanTechniczny": "Sprawne",
-          "masztKierunekPomiaru": "Pikietaz rosnacy",
-          "dataUplywuWazLegalizacji": "2027-06-06",
-          "dlugoscOdcinka1": 4393,
-          "dlugoscOdcinka2": 4381,
-          "dlugoscOdcinka1Str": "4 393,00",
-          "dlugoscOdcinka2Str": "4 381,00",
-          "nazwaKierunku1": "W stronę Rzeszowa",
-          "nazwaKierunku2": "W stronę Krakowa",
-          "lokalizacjaDrugiegoPunktu": "21.049105556;50.008269444",
-          "lok2PktDlugosc": null,
-          "lok2PktSzerokosc": null,
-          "kmDrugiPunkt": 78,
-          "hmDrugiPunkt": 900,
-          "dlugGeoStDp": 21,
-          "dlugGeoMisDp": 2,
-          "dlugGeoSekDp": 56.78,
-          "szerGeoStDp": 50,
-          "szerGeoMinDp": 0,
-          "szerGeoSekDp": 29.77,
-          "mobilne": false,
-          "jestStatystyka": false,
-          "jestLimit": true
-        },
-        "limity": [
-          {
-            "limitOsobowe": "100",
-            "limitCiezarowe": "80",
-            "typ": {
-              "kierunek": "",
-              "godziny": "",
-              "kierunekPikietazu": "ROSNACY"
-            }
-          }
-        ],
-        "swiadectwaLegalizacji": [
-          {
-            "id": 119815790,
-            "idUrzadzenia": 13862446,
-            "numerDokumentu": "OUM02.WUM.W2.45.20.4.2026",
-            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
-            "dataWydania": "2026-05-06",
-            "dataWaznosci": "2027-06-06",
-            "zalacznikId": 119815791,
-            "zalacznikNazwa": "UV3_CAM15001378_ 20270606.pdf",
-            "zalacznikOpis": "",
-            "link": "/documents/20123/39846/CAM15001378_2026-05-06_2027-06-06_119815791.pdf",
-            "fileHash": "F41AB337EEF7C3413DF62C5E6AC2B6A4",
-            "liferayEntryId": 1607336,
-            "dataWeryfikacji": "2026-10-26T22:38:30"
-          },
-          {
-            "id": 106684223,
-            "idUrzadzenia": 13862446,
-            "numerDokumentu": "OUM02.WUM.W2.45.7.2.2025",
-            "rodzajDokumentu": "Świadectwo legalizacji ponownej",
-            "dataWydania": "2025-04-15",
-            "dataWaznosci": "2026-05-05",
-            "zalacznikId": 106684224,
-            "zalacznikNazwa": "UV3_CAM15001378_20260515.pdf",
-            "zalacznikOpis": "",
-            "link": "/documents/20123/39846/CAM15001378_2025-04-15_2026-05-05_106684224.pdf",
-            "fileHash": "72362063260C4E8121BA7056A0C7C7DF",
-            "liferayEntryId": 1608921,
-            "dataWeryfikacji": "2026-10-26T22:38:29"
-          }
-        ],
-        "id": 13862446,
         "jestStatystyka": false,
         "jestLimit": true,
         "brdW1DaneZOkresu": [],
@@ -157321,7 +157658,7 @@
             "link": "/documents/20123/39846/CAM23001426_2025-11-27_2026-12-27_113848130.pdf",
             "fileHash": "00FF0CDD81C283EE3A2A0D8C42733B19",
             "liferayEntryId": 1544462,
-            "dataWeryfikacji": "2026-10-27T22:39:19"
+            "dataWeryfikacji": "2026-11-04T22:39:26"
           },
           {
             "id": 104519660,
@@ -157336,7 +157673,7 @@
             "link": "/documents/20123/39846/CAM23001426_2024-10-29_2025-11-26_104519661.pdf",
             "fileHash": "19A89B956208C641685674E0CFBA8A3A",
             "liferayEntryId": 1548490,
-            "dataWeryfikacji": "2026-10-27T22:39:19"
+            "dataWeryfikacji": "2026-11-04T22:39:25"
           }
         ],
         "id": 89607603,
@@ -157837,7 +158174,7 @@
             "link": "/documents/20123/39846/CAM25004030_2026-03-02_2027-04-02_117863640.pdf",
             "fileHash": "0E49B7CD63180871A5AAC8D2ECE3945B",
             "liferayEntryId": 1589586,
-            "dataWeryfikacji": "2026-10-27T22:39:35"
+            "dataWeryfikacji": "2026-11-04T22:39:44"
           }
         ],
         "id": 113783696,
@@ -157951,7 +158288,7 @@
             "link": "/documents/20123/39846/CAM16003406_2026-03-26_2027-04-26_117994540.pdf",
             "fileHash": "A3965EB725AE5C2EEC096177A0AFCDAC",
             "liferayEntryId": 1589568,
-            "dataWeryfikacji": "2026-10-26T22:38:32"
+            "dataWeryfikacji": "2026-11-04T22:38:40"
           },
           {
             "id": 113658312,
@@ -157966,7 +158303,7 @@
             "link": "/documents/20123/39846/CAM16003406_2025-11-17_2026-03-25_113658313.pdf",
             "fileHash": "D04CB736F9A96BD3B460CDB856D9287D",
             "liferayEntryId": 1589554,
-            "dataWeryfikacji": "2026-10-26T22:38:31"
+            "dataWeryfikacji": "2026-11-04T22:38:39"
           }
         ],
         "id": 25181164,
@@ -158842,7 +159179,7 @@
             "link": "/documents/20123/39846/CAM15001387_2026-04-02_2027-05-02_117998527.pdf",
             "fileHash": "02738C962C0A392612BE9B164671BE60",
             "liferayEntryId": 1589538,
-            "dataWeryfikacji": "2026-10-26T22:38:26"
+            "dataWeryfikacji": "2026-11-04T22:38:34"
           },
           {
             "id": 105392310,
@@ -158857,7 +159194,7 @@
             "link": "/documents/20123/39846/CAM15001387_2025-03-04_2026-04-01_105392311.pdf",
             "fileHash": "5B93055D587E5ECA2F760098DD4CD3F5",
             "liferayEntryId": 1589753,
-            "dataWeryfikacji": "2026-10-26T22:38:26"
+            "dataWeryfikacji": "2026-11-04T22:38:33"
           }
         ],
         "id": 13862149,
@@ -159229,7 +159566,7 @@
             "link": "/documents/20123/39846/CAM25004391_2026-06-12_2027-07-12_120993722.pdf",
             "fileHash": "98772C45BC04DEB314EAC43F9453B95D",
             "liferayEntryId": 1629896,
-            "dataWeryfikacji": "2026-10-27T22:39:48"
+            "dataWeryfikacji": "2026-11-04T22:39:57"
           }
         ],
         "id": 118680302,
@@ -161332,7 +161669,7 @@
             "link": "/documents/20123/39846/CAM25004042_2026-02-26_2027-03-26_117147306.pdf",
             "fileHash": "21184E2AC285126CDDCAC45B7027F788",
             "liferayEntryId": 1583361,
-            "dataWeryfikacji": "2026-10-27T22:39:40"
+            "dataWeryfikacji": "2026-11-04T22:39:49"
           }
         ],
         "id": 116594640,
@@ -162175,7 +162512,7 @@
             "link": "/documents/20123/39846/CAM25004040_2026-03-12_2027-04-12_117863772.pdf",
             "fileHash": "ED5A20FD1FB095B98A34D5BAC788CA88",
             "liferayEntryId": 1593987,
-            "dataWeryfikacji": "2026-10-27T22:39:40"
+            "dataWeryfikacji": "2026-11-04T22:39:49"
           }
         ],
         "id": 116594825,
@@ -162889,7 +163226,7 @@
             "link": "/documents/20123/39846/CAM25004022_2026-06-11_2027-07-11_120993469.pdf",
             "fileHash": "C406D7207C06EFE507F358725C2F0F05",
             "liferayEntryId": 1629864,
-            "dataWeryfikacji": "2026-10-27T22:39:47"
+            "dataWeryfikacji": "2026-11-04T22:39:56"
           }
         ],
         "id": 118679827,
@@ -163132,7 +163469,7 @@
             "link": "/documents/20123/39846/CAM22010786_2026-05-14_2027-06-14_119928671.pdf",
             "fileHash": "10AF835DC49A095EC7FE5836D5FAB754",
             "liferayEntryId": 1609803,
-            "dataWeryfikacji": "2026-10-27T22:39:18"
+            "dataWeryfikacji": "2026-11-04T22:39:25"
           },
           {
             "id": 113143762,
@@ -163147,7 +163484,7 @@
             "link": "/documents/20123/39846/CAM22010786_2025-11-04_2026-05-13_113143763.pdf",
             "fileHash": "5772983D18403654358FEF81F2C07BF8",
             "liferayEntryId": 1609787,
-            "dataWeryfikacji": "2026-10-27T22:39:18"
+            "dataWeryfikacji": "2026-11-04T22:39:24"
           }
         ],
         "id": 89607520,
@@ -163648,7 +163985,7 @@
             "link": "/documents/20123/39846/CAM25004035_2026-03-09_2027-04-09_119041436.pdf",
             "fileHash": "B1A740B61BC66EBFEDD88BB961AFF32E",
             "liferayEntryId": 1600595,
-            "dataWeryfikacji": "2026-10-27T22:39:44"
+            "dataWeryfikacji": "2026-11-04T22:39:54"
           }
         ],
         "id": 117740738,
@@ -164635,7 +164972,7 @@
             "link": "/documents/20123/39846/ICAR5C2502_2025-12-22_2027-01-22_115623431.pdf",
             "fileHash": "D5916DB8C1CF80686D79820ECB9C9B3B",
             "liferayEntryId": 1565970,
-            "dataWeryfikacji": "2026-10-27T22:39:35"
+            "dataWeryfikacji": "2026-11-04T22:39:43"
           },
           {
             "id": 114302652,
@@ -164650,7 +164987,7 @@
             "link": "/documents/20123/39846/ICAR5C2502_2025-12-12_2025-12-21_115649465.pdf",
             "fileHash": "0C3F424E7D471F22448030231AC17B30",
             "liferayEntryId": 1647149,
-            "dataWeryfikacji": "2026-10-27T22:39:34"
+            "dataWeryfikacji": "2026-11-04T22:39:43"
           }
         ],
         "id": 113414032,
@@ -164893,7 +165230,7 @@
             "link": "/documents/20123/39846/CAM25004021_2026-05-28_2027-06-28_120996503.pdf",
             "fileHash": "0AD68AE877D4E006EE06D5CE543F5E39",
             "liferayEntryId": 1629832,
-            "dataWeryfikacji": "2026-10-27T22:39:46"
+            "dataWeryfikacji": "2026-11-04T22:39:55"
           }
         ],
         "id": 118679807,
@@ -165607,7 +165944,7 @@
             "link": "/documents/20123/39846/CAM25004380_2026-05-28_2027-06-28_120996574.pdf",
             "fileHash": "A8036127B82D2FC56C7C4807E7AE546E",
             "liferayEntryId": 1629848,
-            "dataWeryfikacji": "2026-10-27T22:39:46"
+            "dataWeryfikacji": "2026-11-04T22:39:55"
           }
         ],
         "id": 118679818,
@@ -166951,7 +167288,7 @@
             "link": "/documents/20123/39846/CAM15001376_2026-10-23_2027-11-20_126698777.pdf",
             "fileHash": "A7B31A703C0200A796FC2BEB8603DF39",
             "liferayEntryId": 1688042,
-            "dataWeryfikacji": "2026-10-26T22:38:25"
+            "dataWeryfikacji": "2026-11-04T22:38:32"
           },
           {
             "id": 111692216,
@@ -167194,7 +167531,7 @@
             "link": "/documents/20123/39846/CAM15001385_2025-12-03_2027-01-03_114002527.pdf",
             "fileHash": "A132D6FDAB6FC7AEF388898DB4F187AB",
             "liferayEntryId": 1546637,
-            "dataWeryfikacji": "2026-10-26T22:38:28"
+            "dataWeryfikacji": "2026-11-04T22:38:36"
           },
           {
             "id": 102903559,
@@ -167209,7 +167546,7 @@
             "link": "/documents/20123/39846/CAM15001385_2024-12-04_2025-12-02_102903560.pdf",
             "fileHash": "6D53940220B403E3A53BA1DFD215D8E7",
             "liferayEntryId": 1548474,
-            "dataWeryfikacji": "2026-10-26T22:38:27"
+            "dataWeryfikacji": "2026-11-04T22:38:35"
           }
         ],
         "id": 13862235,
@@ -167710,7 +168047,7 @@
             "link": "/documents/20123/39846/CAM15001372_2026-10-23_2027-11-20_126690143.pdf",
             "fileHash": "C825744D3450A7D26929E6C1C8E2BAE4",
             "liferayEntryId": 1688026,
-            "dataWeryfikacji": "2026-10-26T22:38:22"
+            "dataWeryfikacji": "2026-11-04T22:38:32"
           },
           {
             "id": 111692310,
@@ -168811,7 +169148,7 @@
             "link": "/documents/20123/39846/CAM22010784_2025-10-28_2026-11-28_112686988.pdf",
             "fileHash": "B7EC5DCA4BB6EA6C76109441EB7FE074",
             "liferayEntryId": 1529836,
-            "dataWeryfikacji": "2026-10-27T22:39:17"
+            "dataWeryfikacji": "2026-11-04T22:39:23"
           },
           {
             "id": 100981356,
@@ -168826,7 +169163,7 @@
             "link": "/documents/20123/39846/CAM22010784_2024-10-09_2025-10-27_100981358.pdf",
             "fileHash": "3AFC0A0A107759845D2F14FFC37AF6C9",
             "liferayEntryId": 1530272,
-            "dataWeryfikacji": "2026-10-27T22:39:16"
+            "dataWeryfikacji": "2026-11-04T22:39:22"
           }
         ],
         "id": 89605843,
@@ -170626,7 +170963,7 @@
             "link": "/documents/20123/39846/CAM25004054_2026-03-27_2027-04-27_118377456.pdf",
             "fileHash": "CDB6E8D3DDFAA9994DF0476DFF6F0EA1",
             "liferayEntryId": 1594003,
-            "dataWeryfikacji": "2026-10-27T22:39:44"
+            "dataWeryfikacji": "2026-11-04T22:39:53"
           }
         ],
         "id": 117740698,
