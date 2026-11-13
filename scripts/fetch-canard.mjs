@@ -1,9 +1,8 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
+import { randomBytes, randomUUID } from "node:crypto";
 
-const PAGE_URL = "https://www.canard.gitd.gov.pl/cms/o-nas/mapa-urzadzen";
-const BASE64_ALPHABET =
-  "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+const PAGE_URL = "https://www.canard.gitd.gov.pl/mapa";
 const OUTPUT_FILE = resolve(process.env.CANARD_OUTPUT_FILE ?? "canard.json");
 const CONCURRENCY = 8;
 const DEFAULT_ITEM_RETRIES = 2;
@@ -34,30 +33,26 @@ const ITEM_RETRIES = readItemRetries(process.argv.slice(2));
 
 const definitions = [
   {
-    configKey: "fotoradaryPP",
-    detailUrlKey: "objPPDataURL",
-    legacyType: "PP",
+    indexPath: "/api/fotoradar/pp",
+    detailPath: "/api/fotoradar/",
     category: "point_speed",
     label: "Pomiar punktowy",
   },
   {
-    configKey: "fotoradaryOPP",
-    detailUrlKey: "objOPPDataURL",
-    legacyType: "OPP",
+    indexPath: "/api/fotoradar/po",
+    detailPath: "/api/fotoradar/",
     category: "section_speed",
     label: "Pomiar odcinkowy",
   },
   {
-    configKey: "fotoradaryRL",
-    detailUrlKey: "objRLDataURL",
-    legacyType: "RL",
+    indexPath: "/api/fotoradar/pc",
+    detailPath: "/api/fotoradar/",
     category: "red_light",
     label: "Rejestracja przejazdu na czerwonym świetle",
   },
   {
-    configKey: "punktyKontrolne",
-    detailUrlKey: "objPKDataURL",
-    legacyType: "PK",
+    indexPath: "/api/punkt",
+    detailPath: "/api/punkt/",
     category: "control_point",
     label: "Punkt kontrolny",
   },
@@ -145,66 +140,8 @@ function decompress(length, resetValue, getNextValue) {
   throw new Error("Truncated LZString payload");
 }
 
-function decompressFromBase64(input) {
-  return decompress(input.length, 32, (index) =>
-    BASE64_ALPHABET.indexOf(input.charAt(index)),
-  );
-}
-
 function decompressFromUtf16(input) {
   return decompress(input.length, 16384, (index) => input.charCodeAt(index) - 32);
-}
-
-function extractDataset(html, key) {
-  const configured = html.match(new RegExp(`${key}\\s*:\\s*"([^"]*)"`));
-  if (configured) {
-    return configured[1];
-  }
-
-  const legacy = html.match(
-    new RegExp(
-      `const\\s+${key}\\s*=\\s*LZString\\.decompressFromBase64\\("([^"]+)"\\)`,
-    ),
-  );
-  if (!legacy) {
-    throw new Error(`Could not find map dataset: ${key}`);
-  }
-  return legacy[1];
-}
-
-function extractNamespace(html) {
-  const configured = html.match(/namespace\s*:\s*"([^"]*)"/);
-  if (configured) {
-    return configured[1];
-  }
-
-  const legacy = html.match(/([A-Za-z0-9_]+_)id\s*:\s*id/);
-  if (!legacy) {
-    const title = html.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i)?.[1]
-      ?.trim().slice(0, 120);
-    throw new Error(
-      "Could not find map configuration key: namespace " +
-        `(page title: ${title || "missing"}; ${html.length} characters)`,
-    );
-  }
-  return legacy[1];
-}
-
-function extractDetailUrl(html, key, legacyType) {
-  const configured = html.match(new RegExp(`${key}\\s*:\\s*"([^"]*)"`));
-  if (configured) {
-    return configured[1].replaceAll("&amp;", "&");
-  }
-
-  const legacy = html.match(
-    new RegExp(
-      `showObjDataById\\("([^"]*[?&][^"]*_type=${legacyType})"`,
-    ),
-  );
-  if (!legacy) {
-    throw new Error(`Could not find map configuration key: ${key}`);
-  }
-  return legacy[1].replaceAll("&amp;", "&");
 }
 
 async function fetchResponse(
@@ -212,13 +149,20 @@ async function fetchResponse(
   options = {},
   parseResponse = (text) => text,
   attempts = 4,
+  request = fetch,
 ) {
   let lastError;
 
   for (let attempt = 1; attempt <= attempts; attempt += 1) {
     try {
-      const response = await fetch(url, options);
-      const responseText = await response.text();
+      const response = await request(url, options);
+      const charset = response.headers.get("content-type")
+        ?.match(/charset\s*=\s*"?([^";\s]+)/i)?.[1]?.toLowerCase();
+      const bytes = new Uint8Array(await response.arrayBuffer());
+      const encoding = charset === "utf-16"
+        ? (bytes[0] === 0xff && bytes[1] === 0xfe ? "utf-16le" : "utf-16be")
+        : (charset ?? "utf-8");
+      const responseText = new TextDecoder(encoding).decode(bytes);
       if (!response.ok) {
         throw new Error(
           `HTTP ${response.status} ${response.statusText}\n${responseText}`,
@@ -244,54 +188,105 @@ async function fetchResponse(
     : new Error("CANARD request failed");
 }
 
-function parseIndex(html) {
-  const namespace = extractNamespace(html);
-  const items = definitions.flatMap((definition) => {
-    const dataset = extractDataset(html, definition.configKey);
-    if (
-      definition.category === "control_point" &&
-      (dataset === "[{}]" || dataset === "[]")
-    ) {
-      console.warn("CANARD returned an empty control-point dataset; skipping it");
-      return [];
-    }
-
-    const detailUrl = extractDetailUrl(
-      html,
-      definition.detailUrlKey,
-      definition.legacyType,
-    );
-    const decoded = decompressFromBase64(dataset);
-    if (!decoded) {
-      throw new Error(
-        `Could not decompress map dataset: ${definition.configKey}`,
-      );
-    }
-
-    return JSON.parse(decoded).map((summary) => ({
-      category: definition.category,
-      label: definition.label,
-      summary,
-      detailUrl,
-    }));
-  });
-
-  return { namespace, items };
+function parseApiJson(compressed) {
+  const decoded = decompressFromUtf16(compressed);
+  if (!decoded) {
+    throw new Error("Could not decompress CANARD API response");
+  }
+  return JSON.parse(decoded);
 }
 
-async function fetchDetail(item, namespace) {
+async function createApiSession() {
+  const config = await fetchResponse(
+    new URL("/config/gui-config.json", PAGE_URL),
+    {},
+    (text) => {
+      const value = JSON.parse(text);
+      if (
+        typeof value?.api?.urls?.canardPortal !== "string" ||
+        !value.api.urls.canardPortal ||
+        typeof value?.auth?.enabled !== "boolean" ||
+        (value.auth.enabled && (
+          typeof value.auth.clientId !== "string" || !value.auth.clientId ||
+          typeof value.auth.clientSecret !== "string" || !value.auth.clientSecret
+        ))
+      ) {
+        throw new Error("Invalid CANARD GUI configuration");
+      }
+      return value;
+    },
+  );
+  const baseUrl = new URL(config.api.urls.canardPortal, PAGE_URL);
+  if (baseUrl.origin !== new URL(PAGE_URL).origin) {
+    throw new Error("CANARD API must use the device-map origin");
+  }
+  const apiUrl = (path) => `${baseUrl.href.replace(/\/$/, "")}${path}`;
+  const username = `user.${randomUUID()}`;
+  let token;
+  let pendingLogin;
+
+  async function login() {
+    if (!pendingLogin) {
+      pendingLogin = fetchResponse(apiUrl("/api/access/authlogin"), {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({
+          client_id: config.auth.clientId,
+          client_secret: config.auth.clientSecret,
+          username,
+          password: randomBytes(8).toString("hex"),
+          nonce: randomBytes(16).toString("hex"),
+        }),
+      }, (text) => {
+        const response = JSON.parse(text);
+        if (typeof response.access_token !== "string" || !response.access_token) {
+          throw new Error("CANARD login did not return an access token");
+        }
+        token = response.access_token;
+      });
+    }
+    try {
+      await pendingLogin;
+    } finally {
+      pendingLogin = undefined;
+    }
+  }
+
+  if (config.auth.enabled) {
+    await login();
+  }
+
+  async function request(url, options) {
+    const usedToken = token;
+    const send = () => fetch(url, {
+      ...options,
+      headers: {
+        ...options.headers,
+        accept: "text/plain;charset=UTF-16",
+        referer: PAGE_URL,
+        ...(config.auth.enabled ? { authorization: `Bearer ${token}` } : {}),
+      },
+    });
+    const response = await send();
+    if (response.status !== 401 || !config.auth.enabled) {
+      return response;
+    }
+    await response.arrayBuffer();
+    if (token === usedToken) {
+      await login();
+    }
+    return send();
+  }
+
+  return { apiUrl, request };
+}
+
+async function fetchDetail(item, request) {
   let compressed;
   try {
-    compressed = await fetchResponse(item.detailUrl, {
-      method: "POST",
-      headers: {
-        "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
-        referer: PAGE_URL,
-      },
-      body: new URLSearchParams({
-        [`${namespace}id`]: String(item.summary.id),
-      }),
-    });
+    compressed = await fetchResponse(
+      item.detailUrl, {}, (text) => text, 4, request,
+    );
   } catch (error) {
     throw new DetailRequestError(
       `Request failed for ${item.category} object ${item.summary.id}`,
@@ -317,19 +312,19 @@ async function fetchDetail(item, namespace) {
   }
 
   const detail = JSON.parse(decoded);
-  if (String(detail.id) !== String(item.summary.id)) {
+  if (!detail || String(detail.id) !== String(item.summary.id)) {
     throw new Error(
-      `ID mismatch for ${item.category}: expected ${item.summary.id}, received ${detail.id}`,
+      `ID mismatch for ${item.category}: expected ${item.summary.id}, received ${detail?.id}`,
     );
   }
 
   return { ...item, detail };
 }
 
-async function fetchDetailWithRetry(item, namespace, previousDetails) {
+async function fetchDetailWithRetry(item, request, previousDetails) {
   for (let attempt = 0; attempt <= ITEM_RETRIES; attempt += 1) {
     try {
-      return await fetchDetail(item, namespace);
+      return await fetchDetail(item, request);
     } catch (error) {
       const previousDetail = previousDetails.get(
         `${item.category}:${item.summary.id}`,
@@ -414,7 +409,40 @@ async function readPreviousDetails() {
 }
 
 async function fetchAllRecords(previousDetails) {
-  const { namespace, items } = await fetchResponse(PAGE_URL, {}, parseIndex);
+  const { apiUrl, request } = await createApiSession();
+  const items = [];
+  for (const definition of definitions) {
+    const summaries = await fetchResponse(
+      apiUrl(definition.indexPath),
+      {},
+      (text) => {
+        const dataset = parseApiJson(text);
+        if (
+          !Array.isArray(dataset) ||
+          dataset.some((summary) =>
+            !summary || typeof summary.id !== "string" || !summary.id ||
+            !Number.isFinite(summary.lon) || !Number.isFinite(summary.lat)
+          ) ||
+          new Set(dataset.map((summary) => summary.id)).size !== dataset.length ||
+          (definition.category !== "control_point" && dataset.length === 0)
+        ) {
+          throw new Error(`Invalid CANARD index for ${definition.category}`);
+        }
+        return dataset;
+      },
+      4,
+      request,
+    );
+    if (summaries.length === 0) {
+      console.warn("CANARD returned an empty control-point dataset; skipping it");
+    }
+    items.push(...summaries.map((summary) => ({
+      category: definition.category,
+      label: definition.label,
+      summary,
+      detailUrl: apiUrl(definition.detailPath + encodeURIComponent(summary.id)),
+    })));
+  }
   const records = new Array(items.length);
   let completed = 0;
   let nextIndex = 0;
@@ -425,7 +453,7 @@ async function fetchAllRecords(previousDetails) {
       nextIndex += 1;
       records[index] = await fetchDetailWithRetry(
         items[index],
-        namespace,
+        request,
         previousDetails,
       );
       completed += 1;
@@ -446,6 +474,7 @@ async function fetchAllRecords(previousDetails) {
 const previousDetails = await readPreviousDetails();
 const records = await fetchAllRecords(previousDetails);
 const document = {
+  schemaVersion: 2,
   count: records.length,
   records,
 };
